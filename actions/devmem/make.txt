@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-gcc -static devmem_app.c  -o devmem

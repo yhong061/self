@@ -261,6 +261,9 @@ int main()
     // Re-queen buffer
     ret = ioctl(fd, VIDIOC_QBUF, &buf);
 
+    enum v4l2_buf_type type = V4L2_BUF_TYPE_VIDEO_CAPTURE;
+    ret = ioctl(fd, VIDIOC_STREAMOFF, &type);
+
     // Release the resource
     for (i=0; i< 4; i++) 
     {
