@@ -1,0 +1,29 @@
+#insmod driver.ko
+================================================================================
+Execute result:
+
+================================================================================
+1. Create "my_device" under /sys/devices/my_bus_device directory
+
+root@gs700c:/sys/bus/my_bus_type/drivers/my_device # ls -al
+--w------- root     root         4096 2015-01-05 05:04 bind
+lrwxrwxrwx root     root              2015-01-05 05:04 module -> ../../../../module/driver
+lrwxrwxrwx root     root              2015-01-05 05:04 my_device -> ../../../../devices/my_bus_device/my_device
+-r--r--r-- root     root         4096 2015-01-05 05:04 mydrv
+--w------- root     root         4096 2015-01-05 05:04 uevent
+--w------- root     root         4096 2015-01-05 05:04 unbind
+
+root@gs700c:/sys/bus/my_bus_type/drivers/my_device # cat mydrv                 
+This is my driver!
+
+
+root@gs700c:/sys/module/driver/drivers # ls -al
+lrwxrwxrwx root     root              2015-01-05 05:11 my_bus_type:my_device -> ../../../bus/my_bus_type/drivers/my_device
+
+
+
+
+
+
+
+

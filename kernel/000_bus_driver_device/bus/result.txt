@@ -1,0 +1,38 @@
+#insmod bus.ko
+================================================================================
+
+Execute result:
+
+================================================================================
+1. Create "my_bus_type" under /sys/bus directory
+
+root@gs700c:/sys/bus/my_bus_type # ls -al                                      
+drwxr-xr-x root     root              2015-01-01 11:52 devices  //device module will be linked in this directory
+drwxr-xr-x root     root              2015-01-01 11:52 drivers  //driver will be add in this directory
+-rw-r--r-- root     root         4096 2015-01-01 11:52 drivers_autoprobe
+--w------- root     root         4096 2015-01-01 11:52 drivers_probe
+--w------- root     root         4096 2015-01-01 11:53 uevent
+-r--r--r-- root     root         4096 2015-01-01 11:53 version
+
+================================================================================
+2. Create "my_bus_device" under /sys/devices directory
+
+/sys/devices/my_bus_device # ls -al
+drwxr-xr-x root     root              2015-01-01 11:54 power
+-rw-r--r-- root     root         4096 2015-01-01 11:54 uevent
+
+root@gs700c:/sys/devices/my_bus_device/power # ls -al
+-rw-r--r-- root     root         4096 2015-01-01 12:19 async
+-rw-r--r-- root     root         4096 2015-01-01 12:19 autosuspend_delay_ms
+-rw-r--r-- root     root         4096 2015-01-01 12:19 control
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_active_kids
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_active_time
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_enabled
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_status
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_suspended_time
+-r--r--r-- root     root         4096 2015-01-01 12:19 runtime_usage
+
+
+
+
+

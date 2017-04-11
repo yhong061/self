@@ -1,0 +1,33 @@
+#insmod device.ko
+================================================================================
+Execute result:
+
+================================================================================
+1. Create "my_device" under /sys/devices/my_bus_device directory
+
+root@gs700c:/sys/devices/my_bus_device # ls -al
+drwxr-xr-x root     root              2015-01-01 13:03 my_device
+drwxr-xr-x root     root              2015-01-01 11:54 power
+-rw-r--r-- root     root         4096 2015-01-01 11:54 uevent
+
+root@gs700c:/sys/devices/my_bus_device/my_device # ls -al
+-r--r--r-- root     root         4096 2015-01-01 13:05 mydev
+drwxr-xr-x root     root              2015-01-01 13:05 power
+lrwxrwxrwx root     root              2015-01-01 13:05 subsystem -> ../../../bus/my_bus_type
+-rw-r--r-- root     root         4096 2015-01-01 13:05 uevent
+
+root@gs700c:/sys/devices/my_bus_device/my_device # cat mydev                     
+This is my device!
+
+================================================================================
+2. link /sys/bus/my_bus_type/devices/my_device to /sys/devices directory
+
+root@gs700c:/sys/bus/my_bus_type/devices # ls -al
+lrwxrwxrwx root     root              2015-01-01 13:05 my_device -> ../../../devices/my_bus_device/my_device
+
+
+
+
+
+
+

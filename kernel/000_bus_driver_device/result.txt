@@ -1,0 +1,72 @@
+================================================================================
+step1: insmod bus.ko
+
+------------------------------
+	root@gs700c:/sys # busybox find -name my*                                      
+	./bus/my_bus_type
+	./devices/my_bus_device
+------------------------------
+1. Create my_bus_type   under ./bus     directory
+
+	root@gs700c:/sys/bus/my_bus_type # ls -al
+	drwxr-xr-x root     root              2015-01-05 05:24 devices  //NULL
+	drwxr-xr-x root     root              2015-01-05 05:24 drivers  //NULL
+	-rw-r--r-- root     root         4096 2015-01-05 05:24 drivers_autoprobe
+	--w------- root     root         4096 2015-01-05 05:24 drivers_probe
+	--w------- root     root         4096 2015-01-05 05:24 uevent
+	-r--r--r-- root     root         4096 2015-01-05 05:24 version  // #cat version  ==> version 1.0
+
+------------------------------
+2. Create my_bus_device under ./devices directory 
+
+	root@gs700c:/sys/devices/my_bus_device # ls -al
+	drwxr-xr-x root     root              2015-01-05 05:24 power
+	-rw-r--r-- root     root         4096 2015-01-05 05:24 uevent
+
+================================================================================
+Step 2. insmod device.ko
+
+------------------------------
+	root@gs700c:/sys # busybox find -name my*
+	./bus/my_bus_type/devices/my_device
+	./devices/my_bus_device/my_device
+ 
+------------------------------
+1. Create my_device under ./devices/my_bus_device directory 
+	
+	root@gs700c:/sys/devices/my_bus_device/my_device # ls -al
+	-r--r--r-- root     root         4096 2015-01-05 05:28 mydev  // cat mydev  ==> This is my device!
+	drwxr-xr-x root     root              2015-01-05 05:28 power
+	lrwxrwxrwx root     root              2015-01-05 05:28 subsystem -> ../../../bus/my_bus_type
+	-rw-r--r-- root     root         4096 2015-01-05 05:28 uevent	
+
+------------------------------
+2. Link my_device to ./my_bus_type/devices
+	root@gs700c:/sys/bus/my_bus_type/devices # ls -al
+	lrwxrwxrwx root     root              2015-01-05 05:28 my_device -> ../../../devices/my_bus_device/my_device
+
+================================================================================
+step3: insmod driver.ko
+
+------------------------------
+	root@gs700c:/sys # busybox find -name my*
+	./bus/my_bus_type/drivers/my_device
+	./module/driver/drivers/my_bus_type:my_device
+
+------------------------------
+1. Create my_device under ./my_bus_type/drivers directory 
+
+	root@gs700c:/sys/bus/my_bus_type/drivers/my_device # ls -al
+	--w------- root     root         4096 2015-01-05 05:35 bind
+	lrwxrwxrwx root     root              2015-01-05 05:35 module -> ../../../../module/driver
+	lrwxrwxrwx root     root              2015-01-05 05:35 my_device -> ../../../../devices/my_bus_device/my_device
+	-r--r--r-- root     root         4096 2015-01-05 05:35 mydrv  // cat mydrv  ==> This is my driver!
+	--w------- root     root         4096 2015-01-05 05:35 uevent
+	--w------- root     root         4096 2015-01-05 05:35 unbind
+
+------------------------------
+
+	root@gs700c:/sys/module/driver/drivers # ls -al
+	lrwxrwxrwx root     root              2015-01-05 05:35 my_bus_type:my_device -> ../../../bus/my_bus_type/drivers/my_device
+
+

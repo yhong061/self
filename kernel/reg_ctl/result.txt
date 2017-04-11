@@ -1,0 +1,21 @@
+#insmod reg_ctrl.ko
+================================================================================
+Execute result:
+	1. create "my_device" under /sys/devices/platform directory
+	2. create "test" under "my device"
+	3. 	cmd = "cat test" 
+			output result: cat debug buf, buf =
+	4. 	cmd = "echo 111 > test"
+			output result: echo debug buf, buf = 111, count = 4
+	5. 	cmd = "echo 111 3 222 > test"
+			output result: echo debug buf,  buf = 111 3 222, count = 10
+	5. 	cmd = "echo 111   3       222 > test"
+			output result: echo debug buf,  buf = 111 3 222, count = 10
+
+
+
+
+
+
+
+
