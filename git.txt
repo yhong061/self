@@ -26,4 +26,12 @@ git push -u origin master
 ==============================
 ==============================
 git clone https://github.com/yhong061/sample.git
-
+cd sample
+vim git.txt 
+git add git.txt 
+git commit -sm "add git.txt"
+cat .git/config
+git push origin  master 
+==============================
+git remote -v  //list remote name
+==============================
