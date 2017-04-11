@@ -1,0 +1,29 @@
+thub: yhong061+0714
+==============================
+https:
+echo "# self" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yhong061/self.git
+git push -u origin master
+
+==============================
+ssh:
+echo "# self" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:yhong061/self.git
+git push -u origin master
+==============================
+git remote add origin https://github.com/yhong061/self.git
+git push -u origin master
+==============================
+git remote add origin git@github.com:yhong061/self.git
+git push -u origin master
+
+==============================
+==============================
+git clone https://github.com/yhong061/sample.git
+
