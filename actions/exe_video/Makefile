@@ -10,8 +10,8 @@ CC = arm-none-linux-gnueabi-gcc
 CFLAGS = -static -I$(I_KERNEL_DIR)
 
 #OBJ = video.o ion.o setting.o
-OBJ = videotst.o
-TARGET = videotst
+OBJ = video.o
+TARGET = exe_video
 
 %.o: %.c
 	 $(CC) -c $(CFLAGS) -o $@ $<

@@ -3,7 +3,7 @@
 #include "setting.c"
 
 int framesize_index_i = 0;
-int format_index_i = 0;
+int format_index_i = 1;
 int resolution_display = 0;
 
 int camera_G_FMT(void)
@@ -323,6 +323,7 @@ int camera_getbuf(char *p, unsigned int size)
     // Process the frame
     size = buf.length;
     memcpy(p, framebuf[buf.index].vir, size);
+DBG("buf.lenght = %d\n", buf.length);
 
     // Re-queen buffer
     ret = ioctl(gFd, VIDIOC_QBUF, &buf);
@@ -341,7 +342,7 @@ int camera_getbuf(char *p, unsigned int size)
 int test_framebuf(int sec, int save_file)
 {
     char filename[32];
-    int frame = FRAME_RATE;
+    int frame = 1;
     int i;
     int ret = 0;
     unsigned int framesize = FRAME_WIDTH * FRAME_HEIGTH * 2;
@@ -375,7 +376,7 @@ int test_framebuf(int sec, int save_file)
                 FILE *fp = fopen(filename, "wb");
                 fwrite(buf, 1, size, fp);
                 fclose(fp);
-                DBG("Capture one frame saved in %s\n", filename);    
+                DBG("Capture one frame saved in %s, size = %d\n", filename, size);    
 #endif
 	}
     	else if(save_file== 2)  {
@@ -418,15 +419,17 @@ void usage_help(void)
 int main(int argc, char **argv)
 {
     int ret;
+    char videoname[32];
+    int idx;
 
     if(argc < 2) {
         usage_help();
-	return 0;
+        return 0;
     }    
 
     if(strcmp(argv[1], "reso") == 0)  {
         resolution_display = 1;
-	argc = 3;
+        argc = 3;
         DBG("resolution_display  = 1\n");
         sleep(1);DBG("\n\n");
     }
@@ -439,12 +442,26 @@ int main(int argc, char **argv)
     if(strcmp(argv[1], "yuv") == 0)  {
         framesize_index_i = atoi(argv[3]);
 	resolution_display = 1;
-        DBG("framesize_index_i  = %d, %s\n", framesize_index_i, argv[3]);
+	if(argc> 4)
+		format_index_i = atoi(argv[4]);
+        DBG("framesize_index_i  = %d, format_index_i = %d\n", framesize_index_i, format_index_i);
         sleep(1);DBG("\n\n");
     }
-    
-    ret = camera_open(CAMERA_DEVICE);
-    if(ret < 0) {
+   
+    idx = 0;
+    ret = 0;
+    do {
+        sprintf(videoname, "%s%d", CAMERA_DEVICE, idx++);
+        ret = camera_open(videoname);
+        if(ret >= 0) {
+	    DBG("open %s OK!\n", videoname);
+	    break;
+        }
+    }while(idx < 4);
+
+    if(ret < 0)
+    {
+        DBG("open video[0, 3] fail\n");
 	return -1;
     }
 

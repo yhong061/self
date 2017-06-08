@@ -15,6 +15,7 @@
 
 #define DBG(fmt, ...)  printf("[video_main][%d]" fmt, __LINE__, ## __VA_ARGS__)
 
+
 #define CAMERA_DEVICE "/dev/video"
 #define CAPTURE_FILE "frame.yuv"
 #define FRAME_RATE	(30)
