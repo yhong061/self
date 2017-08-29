@@ -9,11 +9,12 @@
 #include <linux/i2c.h>
 #include <linux/i2c-dev.h>
 #include <linux/videodev2.h>
+#include <linux/v4l2-controls.h>
 #include <errno.h>
 #include <fcntl.h>
 #include <sys/mman.h>  //MAP_SHARED
 
-#define DBG(fmt, ...)  printf("[video_main][%d]" fmt, __LINE__, ## __VA_ARGS__)
+#define DBG(fmt, ...)  printf("[%s:%d]" fmt, __func__, __LINE__, ## __VA_ARGS__)
 
 
 #define CAMERA_DEVICE "/dev/video"

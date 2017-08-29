@@ -16,9 +16,12 @@ int savefile_frame = 0;
 int savefile_intval = 0;
 int print_fps = 0;
 char capturename[64];
+int videoidx = 0;
+int freq = 1;
 
 unsigned int gWidth = 1920;
 unsigned int gHeight = 1080;
+unsigned int gImagesize = 1920*1080;
 unsigned int gFmt = V4L2_PIX_FMT_MJPEG;
 
 int camera_G_FMT(void)
@@ -39,6 +42,7 @@ int camera_G_FMT(void)
 	gWidth = fmt.fmt.pix.width;
 	gHeight = fmt.fmt.pix.height;
 	gFmt = fmt.fmt.pix.pixelformat;
+	gImagesize = fmt.fmt.pix.sizeimage;
 
 sleep(1);printf("\n\n");
 	DBG("=======================[VIDIOC_G_FMT: S]=======================\n");
@@ -238,6 +242,7 @@ int camera_allocbuffer_userptr(void)
     memset(framebuf, 0, sizeof(struct ion_buf)*BUFFER_COUNT);
     for(i=0; i<BUFFER_COUNT; i++) {
         ret = ion_buf_alloc((struct ion_buf *)&framebuf[i], size);
+	DBG("size-w*h = (%d-%d*%d) =%d\n",framebuf[i].size ,gWidth, gHeight,  size-gWidth*gHeight);
         if(ret < 0) {
 	    	DBG("ion buf alloc fail\n");
 	   		return 0;
@@ -267,14 +272,14 @@ int camera_allocbuffer_userptr(void)
         }
 
         buf.m.userptr = (unsigned long)framebuf[i].phy;
-        buf.length = framebuf[i].size;
+        buf.length = gImagesize ;//framebuf[i].size;
 
         // Queen buffer
         ret = ioctl(gFd , VIDIOC_QBUF, &buf); 
         if(ret)
         	DBG("[%d]fail: VIDIOC_QBUF, errno = %d\n", __LINE__, errno);
 
-        DBG("Frame buffer %d: address=0x%x, length=%d\n", i, (unsigned int)framebuf[i].phy, framebuf[i].size);
+        DBG("Frame buffer %d: address=0x%x, length=%d\n", i, (unsigned int)framebuf[i].phy, buf.length);
     }
 	return 0;
 }
@@ -391,26 +396,27 @@ int camera_open_sub(char *filename)
         return -1;
     }
 
-	camera_enumfmt_all();
-	camera_enumframesize_all();
-	camera_S_FMT_index(framesize_index_i, format_index_i);
-	if(resolution_display)
-		display_resolution_info();
-	camera_G_FMT();
-
-	ret =  camera_allocbuffer();
-	if(ret) {
-		close(gFd);
-		return -1;
-	}
-	return 0;
+    camera_enumfmt_all();
+    camera_enumframesize_all();
+    camera_S_FMT_index(framesize_index_i, format_index_i);
+    if(resolution_display)
+        display_resolution_info();
+    camera_G_FMT();
+    
+    ret =  camera_allocbuffer();
+    if(ret) {
+        close(gFd);
+	return -1;
+    }
+    return 0;
 }
+
 
 int camera_open(void)
 {
     int ret;
     char videoname[32];
-    int idx = 0;
+    int idx = videoidx;
     do {
         sprintf(videoname, "%s%d", CAMERA_DEVICE, idx++);
         ret = camera_open_sub(videoname);
@@ -426,7 +432,7 @@ int camera_open(void)
         DBG("open video[0, 3] fail\n");
         return -1;
     }
-
+    return 0;
 }
 
 int camera_close(void)
@@ -462,7 +468,7 @@ int camera_getbuf(char *p, unsigned int size)
         return -1;
     }
 
-    DBG("[%d] [seq=%d] [len=%d] [used=%d] [in=%d] [f=%x] [r=%d]\n", buf.index, buf.sequence, buf.length, buf.bytesused, buf.input, buf.flags, buf.reserved);
+    DBG("[%d] [seq=%d] [len=%d] [used=%d] [f=%x] [r=%d]\n", buf.index, buf.sequence, buf.length, buf.bytesused, buf.flags, buf.reserved);
 
     // Process the frame
     if(V4L2_PIX_FMT_MJPEG == gFmt)
@@ -576,6 +582,7 @@ void printf_info(void)
 	printf("savefile_frame [val]: get buf en = %d, savefile frame index = %d\n", getbuf_en, savefile_frame);
 	printf("savefile_intval_frm [val] [cnt]: get buf en = %d, savefile frame index = %d, cnt = %d\n", getbuf_en, savefile_frame, savefile_intval);
 	printf("print_fps: printf fps enable = %d\n", print_fps);
+	printf("video [val]: open /dev/video%d\n", videoidx);
 	printf("=================================================\n");
 	
 }
@@ -591,6 +598,8 @@ int parse_argv(int argc, char **argv)
 		else if(strcmp(argv[idx], "list_wh") == 0)	resolution_display = 1;
 		else if(strcmp(argv[idx], "print_fps") == 0)	{print_fps = 1;}
 		
+		else if(strcmp(argv[idx], "video") == 0 && argv[idx+1] != NULL)		videoidx = atoi(argv[++idx]);
+		else if(strcmp(argv[idx], "freq") == 0 && argv[idx+1] != NULL)		freq = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_wh") == 0 && argv[idx+1] != NULL)	framesize_index_i = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_format") == 0  && argv[idx+1] != NULL)	format_index_i = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_fps") == 0  && argv[idx+1] != NULL)	{set_framerate_en = 1; set_framerate_val = atoi(argv[++idx]);}
@@ -607,30 +616,41 @@ int parse_argv(int argc, char **argv)
 
 int main(int argc, char **argv)
 {
-	int ret;
+    int ret;
     if(argc < 2) {
         printf_info();
         return 0;
     }    
 
-	parse_argv(argc, argv);
-	
-	ret = camera_open();
+    parse_argv(argc, argv);
+    ret = camera_open();
     if(ret < 0)
     {
         return -1;
     }
 
-	if(set_framerate_en)
-		test_framerate(set_framerate_val);
+    if(set_framerate_en)
+        test_framerate(set_framerate_val);
+#if 0   
+    sleep(1);printf("expo = 300\n");
+    test_exposure2(300);
+ sleep(1);;printf("expo = 400\n");
+#else
+    sleep(1);printf("freq = 1\n");
+    test_freq(freq);
+    sleep(1);printf("freq = 1\n");
 
-	camera_streamon();
 
-	if(getbuf_en)
-		test_framebuf();
+#endif
 
 
-	if(strcmp(argv[1], "expo") == 0)  {
+    camera_streamon();
+   
+    if(getbuf_en)
+        test_framebuf();
+
+
+    if(strcmp(argv[1], "expo") == 0)  {
 	int exposure = atoi(argv[2]);
 	DBG("exposure = %d\n", exposure);
 
