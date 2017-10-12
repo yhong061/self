@@ -1,0 +1,208 @@
+../src/temperature.o: ../src/temperature.c ../include/temperature.h \
+ ../include/registers.h ../include/config.h ../include/pru.h \
+ ../include/config.h ../include/i2c.h ../include/bbb_adc.h \
+ ../include/api.h ../include/calculation.h
+../src/calc_pn_mgx_no_pi_delay.o: ../src/calc_pn_mgx_no_pi_delay.c \
+ ../include/calc_pn_mgx_no_pi_delay.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h ../include/calculator.h
+../src/bbb_adc.o: ../src/bbb_adc.c ../include/bbb_adc.h
+../src/image_averaging.o: ../src/image_averaging.c \
+ ../include/image_averaging.h ../include/calculation.h ../include/pru.h \
+ ../include/config.h
+../src/logger.o: ../src/logger.c ../include/logger.h
+../src/calc_def_no_pi_delay.o: ../src/calc_def_no_pi_delay.c \
+ ../include/calc_def_no_pi_delay.h ../include/calculation.h \
+ ../include/calculator.h ../include/pru.h ../include/config.h \
+ ../include/fp_atan2.h ../include/calibration.h ../include/hysteresis.h
+../src/image_correction.o: ../src/image_correction.c \
+ ../include/image_correction.h ../include/read_out.h \
+ ../include/calculation.h ../include/pru.h ../include/config.h
+../src/prussdrv.o: ../src/prussdrv.c ../include/prussdrv.h \
+ ../include/__prussdrv.h
+../src/api.o: ../src/api.c ../include/api.h \
+ ../include/evalkit_constants.h ../include/config.h ../include/pru.h \
+ ../include/config.h ../include/dll.h ../include/evalkit_illb.h \
+ ../include/i2c.h ../include/calculation.h ../include/read_out.h \
+ ../include/calibration.h ../include/chip_info.h ../include/hysteresis.h \
+ ../include/temperature.h ../include/pn.h ../include/image_averaging.h \
+ ../include/image_correction.h ../include/image_processing.h \
+ ../include/image_difference.h ../include/saturation.h \
+ ../include/adc_overflow.h ../include/flim.h ../include/logger.h \
+ ../include/version.h
+../src/pn.o: ../src/pn.c ../include/pn.h ../include/registers.h \
+ ../include/i2c.h
+../src/saturation.o: ../src/saturation.c ../include/saturation.h
+../src/calc_pn_mgx_pi_delay.o: ../src/calc_pn_mgx_pi_delay.c \
+ ../include/calc_pn_mgx_pi_delay.h ../include/calculation.h \
+ ../include/calculator.h ../include/pru.h ../include/config.h \
+ ../include/fp_atan2.h ../include/calibration.h ../include/hysteresis.h
+../src/evalkit_illb.o: ../src/evalkit_illb.c ../include/evalkit_illb.h \
+ ../include/evalkit_gpio.h ../include/gpio.h
+../src/bbb_led.o: ../src/bbb_led.c ../include/bbb_led.h
+../src/calc_bw_sorted.o: ../src/calc_bw_sorted.c \
+ ../include/calc_bw_sorted.h ../include/calculation.h \
+ ../include/calculator.h ../include/pru.h ../include/config.h \
+ ../include/config.h ../include/saturation.h ../include/adc_overflow.h
+../src/image_processing.o: ../src/image_processing.c \
+ ../include/image_processing.h ../include/pru.h ../include/config.h \
+ ../include/calculation.h
+../src/calc_pn_mgx_pi_delay_sorted.o: \
+ ../src/calc_pn_mgx_pi_delay_sorted.c \
+ ../include/calc_pn_mgx_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_mgx.h
+../src/calc_def_pi_delay_sorted.o: ../src/calc_def_pi_delay_sorted.c \
+ ../include/calc_def_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/api.h \
+ ../include/fp_atan2.h ../include/calibration.h ../include/config.h \
+ ../include/hysteresis.h ../include/adc_overflow.h \
+ ../include/saturation.h ../include/calculator.h \
+ ../include/iterator_default.h
+../src/calc_def_pi_delay.o: ../src/calc_def_pi_delay.c \
+ ../include/calc_def_pi_delay.h ../include/calculation.h \
+ ../include/calculator.h ../include/pru.h ../include/config.h \
+ ../include/fp_atan2.h ../include/calibration.h ../include/hysteresis.h
+../src/version.o: ../src/version.c ../include/version.h
+../src/dll.o: ../src/dll.c ../include/dll.h ../include/registers.h \
+ ../include/i2c.h ../include/evalkit_illb.h ../include/config.h \
+ ../include/pru.h ../include/config.h
+../src/helper.o: ../src/helper.c ../include/helper.h \
+ ../include/evalkit_constants.h
+../src/chip_info.o: ../src/chip_info.c ../include/chip_info.h \
+ ../include/i2c.h
+../src/calibration.o: ../src/calibration.c ../include/calibration.h \
+ ../include/calculation.h ../include/config.h ../include/i2c.h \
+ ../include/api.h ../include/calc_bw_sorted.h ../include/pru.h \
+ ../include/config.h ../include/read_out.h ../include/temperature.h \
+ ../include/helper.h ../include/evalkit_constants.h ../include/dll.h \
+ ../include/registers.h ../include/seq_prog_loader.h
+../src/config.o: ../src/config.c ../include/config.h ../include/i2c.h \
+ ../include/evalkit_illb.h ../include/dll.h ../include/read_out.h \
+ ../include/registers.h ../include/seq_prog_loader.h ../include/api.h \
+ ../include/calibration.h ../include/temperature.h ../include/pru.h \
+ ../include/config.h ../include/flim.h ../include/image_correction.h \
+ ../include/calculation.h ../include/calculator.h ../include/saturation.h \
+ ../include/adc_overflow.h ../include/helper.h \
+ ../include/evalkit_constants.h
+../src/calc_def_no_pi_delay_sorted.o: \
+ ../src/calc_def_no_pi_delay_sorted.c \
+ ../include/calc_def_no_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_default.h
+../src/image_difference.o: ../src/image_difference.c \
+ ../include/image_difference.h ../include/pru.h ../include/config.h \
+ ../include/logger.h ../include/calculation.h
+../src/pru.o: ../src/pru.c ../include/pru.h ../include/config.h \
+ ../include/registers.h ../include/i2c.h ../include/fp_atan2.h \
+ ../include/api.h ../include/helper.h ../include/evalkit_constants.h \
+ ../include/dll.h ../include/temperature.h ../include/gpio.h \
+ ../include/evalkit_gpio.h ../include/prussdrv.h \
+ ../include/pruss_intc_mapping.h
+../src/calc_mgx_no_pi_delay_sorted.o: \
+ ../src/calc_mgx_no_pi_delay_sorted.c \
+ ../include/calc_mgx_no_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_mgx.h
+../src/calc_mgx_pi_delay.o: ../src/calc_mgx_pi_delay.c \
+ ../include/calc_mgx_pi_delay.h ../include/calculation.h ../include/pru.h \
+ ../include/config.h ../include/fp_atan2.h ../include/calibration.h \
+ ../include/hysteresis.h ../include/calculator.h
+../src/iterator_default.o: ../src/iterator_default.c \
+ ../include/iterator_default.h ../include/pru.h ../include/config.h
+../src/read_out.o: ../src/read_out.c ../include/read_out.h \
+ ../include/i2c.h ../include/registers.h
+../src/server.o: ../src/server.c ../include/server.h ../include/api.h \
+ ../include/evalkit_constants.h ../include/i2c.h ../include/config.h \
+ ../include/evalkit_illb.h ../include/boot.h ../include/pru.h \
+ ../include/config.h ../include/bbb_led.h ../include/dll.h \
+ ../include/read_out.h ../include/log.h ../include/version.h \
+ ../include/helper.h ../include/evalkit_constants.h \
+ ../include/calibration.h
+../src/adc_overflow.o: ../src/adc_overflow.c ../include/adc_overflow.h \
+ ../include/calculation.h
+../src/seq_prog_loader.o: ../src/seq_prog_loader.c \
+ ../include/seq_prog_loader.h ../include/i2c.h ../include/registers.h
+../src/calculator.o: ../src/calculator.c ../include/calculator.h \
+ ../include/calculation.h ../include/config.h ../include/fp_atan2.h \
+ ../include/saturation.h ../include/adc_overflow.h \
+ ../include/hysteresis.h ../include/calibration.h ../include/pru.h \
+ ../include/config.h
+../src/gpio.o: ../src/gpio.c ../include/gpio.h
+../src/flim.o: ../src/flim.c ../include/flim.h ../include/i2c.h \
+ ../include/config.h
+../src/calc_mgx_no_pi_delay.o: ../src/calc_mgx_no_pi_delay.c \
+ ../include/calc_mgx_no_pi_delay.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h ../include/calculator.h
+../src/log.o: ../src/log.c ../include/read_out.h ../include/i2c.h
+../src/calc_pn_def_no_pi_delay_sorted.o: \
+ ../src/calc_pn_def_no_pi_delay_sorted.c \
+ ../include/calc_pn_def_no_pi_delay_sorted.h ../include/calculation.h \
+ ../include/calculation.h ../include/pru.h ../include/config.h \
+ ../include/fp_atan2.h ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_default.h
+../src/calc_pn_mgx_no_pi_delay_sorted.o: \
+ ../src/calc_pn_mgx_no_pi_delay_sorted.c \
+ ../include/calc_pn_mgx_no_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_mgx.h
+../src/calculation.o: ../src/calculation.c ../include/calculation.h \
+ ../include/calc_def_pi_delay_sorted.h ../include/calculation.h \
+ ../include/calc_def_no_pi_delay_sorted.h \
+ ../include/calc_mgx_pi_delay_sorted.h \
+ ../include/calc_mgx_no_pi_delay_sorted.h \
+ ../include/calc_pn_def_pi_delay_sorted.h \
+ ../include/calc_pn_def_no_pi_delay_sorted.h \
+ ../include/calc_pn_mgx_pi_delay_sorted.h \
+ ../include/calc_pn_mgx_no_pi_delay_sorted.h ../include/calc_bw_sorted.h \
+ ../include/calc_def_pi_delay.h ../include/calc_def_no_pi_delay.h \
+ ../include/calc_mgx_pi_delay.h ../include/calc_mgx_no_pi_delay.h \
+ ../include/calc_pn_def_pi_delay.h ../include/calc_pn_def_no_pi_delay.h \
+ ../include/calc_pn_mgx_pi_delay.h ../include/calc_pn_mgx_no_pi_delay.h \
+ ../include/adc_overflow.h ../include/pru.h ../include/config.h \
+ ../include/api.h ../include/config.h ../include/calibration.h \
+ ../include/saturation.h ../include/image_correction.h \
+ ../include/image_processing.h ../include/image_averaging.h \
+ ../include/image_difference.h ../include/helper.h \
+ ../include/evalkit_constants.h
+../src/iterator_mgx.o: ../src/iterator_mgx.c ../include/iterator_mgx.h \
+ ../include/pru.h ../include/config.h
+../src/calc_mgx_pi_delay_sorted.o: ../src/calc_mgx_pi_delay_sorted.c \
+ ../include/calc_mgx_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_mgx.h
+../src/hysteresis.o: ../src/hysteresis.c ../include/hysteresis.h
+../src/boot.o: ../src/boot.c ../include/boot.h ../include/evalkit_gpio.h \
+ ../include/gpio.h ../include/i2c.h ../include/logger.h \
+ ../include/config.h ../include/registers.h
+../src/calc_pn_def_pi_delay_sorted.o: \
+ ../src/calc_pn_def_pi_delay_sorted.c \
+ ../include/calc_pn_def_pi_delay_sorted.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h \
+ ../include/adc_overflow.h ../include/saturation.h \
+ ../include/calculator.h ../include/iterator_default.h
+../src/calc_pn_def_no_pi_delay.o: ../src/calc_pn_def_no_pi_delay.c \
+ ../include/calc_pn_def_no_pi_delay.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h ../include/calculator.h
+../src/main.o: ../src/main.c ../include/boot.h ../include/i2c.h \
+ ../include/config.h ../include/server.h ../include/bbb_led.h \
+ ../include/version.h ../include/evalkit_illb.h
+../src/i2c.o: ../src/i2c.c ../include/i2c.h
+../src/calc_pn_def_pi_delay.o: ../src/calc_pn_def_pi_delay.c \
+ ../include/calc_pn_def_pi_delay.h ../include/calculation.h \
+ ../include/pru.h ../include/config.h ../include/fp_atan2.h \
+ ../include/calibration.h ../include/hysteresis.h ../include/calculator.h

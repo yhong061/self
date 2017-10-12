@@ -1,0 +1,6 @@
+gcc -O -S example1.c
+
+
+
+
+
