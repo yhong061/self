@@ -1064,21 +1064,63 @@ end0:
 
 }
 
+int main_crop2gray(char *infile, char *outfile)
+{
+	unsigned int size = FILE_SIZE;
+	char *buf = (char *)malloc(size);
+	assert(buf);
+
+	FILE *fIn = fopen(infile, "rb");
+	if(fIn == NULL) {
+		printf("open %s fail\n", infile);
+		goto end0;
+	}
+
+	FILE *fOut = fopen(outfile, "wb");
+	if(fOut == NULL) {
+		printf("open %s fail\n", outfile);
+		goto end1;
+	}
+
+	unsigned int readsize = fread(buf, 1, size, fIn);
+	printf("readsize = %d, size = %d\n", readsize, size);
+	if(readsize != size) {
+		printf("readsize = %d, size = %d\n", readsize, size);
+	}
+
+	unsigned int offset = 0;
+	size /= 2;
+	unsigned int writesize = fwrite(buf+offset, 1, size, fOut);
+	printf("writesize = %d, size = %d\n", writesize, size);
+	if(writesize != size) {
+		printf("writesize = %d, size = %d\n", writesize, size);
+	}
+
+
+	fclose(fOut);
+end1:
+	fclose(fIn);
+end0:
+	free(buf);
+
+	return 0;
+}
+
 int main_crop2depth(char *infile, char *outfile)
 {
 	unsigned int size = FILE_SIZE;
 	char *buf = (char *)malloc(size);
 	assert(buf);
 
-	FILE *fIn = fopen(FILE_INPUT, "rb");
+	FILE *fIn = fopen(infile, "rb");
 	if(fIn == NULL) {
-		printf("open %s fail\n", FILE_INPUT);
+		printf("open %s fail\n", infile);
 		goto end0;
 	}
 
-	FILE *fOut = fopen(FILE_OUTPUT, "wb");
+	FILE *fOut = fopen(outfile, "wb");
 	if(fOut == NULL) {
-		printf("open %s fail\n", FILE_OUTPUT);
+		printf("open %s fail\n", outfile);
 		goto end1;
 	}
 
@@ -1169,6 +1211,10 @@ int main(int argc, char* argv[])
 	
 	case 8:
 		main_depth2yuvrgb(infile, outfile);	// 2.depth to 4.yuv
+	break;
+	
+	case 9:
+		main_crop2gray(infile, outfile); 	// 1.depth to 2.depth
 	break;
 	
 	
