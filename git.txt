@@ -1,4 +1,5 @@
 github: yhong061+0714
+git push origin master
 ==============================
 https:
 echo "# self" >> README.md

@@ -18,6 +18,7 @@ int print_fps = 0;
 char capturename[64];
 int videoidx = 0;
 int freq = 1;
+int expo = 200;
 
 unsigned int gWidth = 1920;
 unsigned int gHeight = 1080;
@@ -583,6 +584,8 @@ void printf_info(void)
 	printf("savefile_intval_frm [val] [cnt]: get buf en = %d, savefile frame index = %d, cnt = %d\n", getbuf_en, savefile_frame, savefile_intval);
 	printf("print_fps: printf fps enable = %d\n", print_fps);
 	printf("video [val]: open /dev/video%d\n", videoidx);
+	printf("expo [val]: set exposure value = %d\n", expo);
+	printf("freq [val]: set freq value = %d, 1=mono_60M, 2=mono_80M\n", freq);
 	printf("=================================================\n");
 	
 }
@@ -600,6 +603,7 @@ int parse_argv(int argc, char **argv)
 		
 		else if(strcmp(argv[idx], "video") == 0 && argv[idx+1] != NULL)		videoidx = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "freq") == 0 && argv[idx+1] != NULL)		freq = atoi(argv[++idx]);
+		else if(strcmp(argv[idx], "expo") == 0 && argv[idx+1] != NULL)		expo = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_wh") == 0 && argv[idx+1] != NULL)	framesize_index_i = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_format") == 0  && argv[idx+1] != NULL)	format_index_i = atoi(argv[++idx]);
 		else if(strcmp(argv[idx], "set_fps") == 0  && argv[idx+1] != NULL)	{set_framerate_en = 1; set_framerate_val = atoi(argv[++idx]);}
@@ -629,12 +633,15 @@ int main(int argc, char **argv)
         return -1;
     }
 
+    test_freq(freq);
+    
     if(set_framerate_en)
         test_framerate(set_framerate_val);
-#if 0   
-    sleep(1);printf("expo = 300\n");
-    test_exposure2(300);
- sleep(1);;printf("expo = 400\n");
+
+#if 1 
+ sleep(1);;printf("expo = %d\n", expo);
+    test_exposure2(expo);
+ sleep(1);;printf("expo = %d\n", expo);
 #else
     sleep(1);printf("freq = 1\n");
     test_freq(freq);

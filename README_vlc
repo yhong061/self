@@ -1,0 +1,156 @@
+===============================================================================
+OUT=/usr/local
+
+源码下载:：
+    GNU ?= http://ftp.gnu.org/gnu
+    SF := https://netcologne.dl.sourceforge.net/
+    VIDEOLAN := http://downloads.videolan.org/pub/videolan
+    CONTRIB_VIDEOLAN := http://downloads.videolan.org/pub/contrib
+
+    Git clone git://git.videolan.org/vlc.git  
+    Git clone git://git.videolan.org/x264.git  
+    Git clone git://git.videolan.org/ffmpeg.git
+    git clone git://git.alsa-project.org/alsa-lib.git
+
+    根据/home/yhong/src/vlc/vlc/contrib/src目录下载相关代码：
+    1.	根据make命令下载代码：
+    ../bootstrap
+    	//生成config.mak文件
+    Make live555
+        //下载live555源码
+
+    2.	自己下载代码
+
+    如xcb: 查看xcb/rules.mak
+        XCB_VERSION := 1.12
+        XCB_URL := http://xcb.freedesktop.org/dist/libxcb-$(XCB_VERSION).tar.bz2
+		
+        则xcb代码下载网址为：
+        Wget http://xcb.freedesktop.org/dist/libxcb-$(XCB_VERSION).tar.bz2
+        tar -xvf libxcb-1.12.tar.bz2
+        mv libxcb-1.12.tar.bz2 ../tarballs/  //备份
+
+===============================================================================
+X264编译：
+    ./configure --prefix=/usr/local --enable-shared --enable-static --enable-debug --extra-cflags=-I/usr/local /include --extra-ldflags=-L/usr/local /lib --disable-cli
+    //生成config.mak
+    Make; sudo make install
+
+===============================================================================
+ffmpeg编译: 
+    x264是非常流行的视频编解码工具，yasm则用于x264中汇编语言优化。
+    ./configure–enable-debug=1 --enable-shared --enable-libx264 --enable-gpl --enable-pthreads --extra-cflags=-I/usr/local/include --extra-ldflags=-L/usr/local/lib
+    //生成config.mak
+    Make; sudo make isntall
+
+    ffplay生成：
+        SDL是一个开源的多媒体开发库，可以设置图像和视频的绘制等操作。如果不安装SDL，FFMPEG将不能生成ffplay.exe播放器。执行./configure会显示是否当前环境是否支持SDL2。
+
+        sudo apt-cache search libsdl2 | grep dev
+        sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-gfx-dev libsdl2-mixer-dev libsdl2-ttf-dev
+
+        sudo ldconfig
+        ./ffplay –I rtsp://192.168.90.136:554/live555_chn0.ts
+
+===============================================================================
+live555编译
+    ./genMakefiles linux-with-shared-libraries
+    Make; sudo make install
+
+===============================================================================
+Vlc配置相关源代码：
+    Lua:
+	wget http://www.lua.org/ftp/lua-5.1.4.tar.gz  
+	make linux
+	xcb-proto:
+	./configure
+	Make; sudo make install
+
+    xproto:
+	./configure
+	Make; sudo make install
+
+    Xau:
+	Wget http://xorg.freedesktop.org/releases/individual/lib/libXau-1.0.6.tar.bz2
+	./configure
+	Make; sudo make install
+
+    pthread-stubs:
+	Git clone git://anongit.freedesktop.org/xcb/pthread-stubs
+	./autogen.sh   
+	./configure
+	Make; sudo make install
+
+    Xcb:
+	./configure
+	Make; sudo make install
+
+    alsa:
+	sudo apt-get install libalsa-ocaml-dev 
+	若上面命令不行，只能自己下载代码：
+	git clone git://git.alsa-project.org/alsa-lib.git
+	./gitcompile
+		//生成configure文件，且prefix=/usr，为跟其他源代码存放路径一直，重新执行./configure命令：
+	./configure –prefix=/usr/local
+	Make; sudo make install
+
+    Upnp:
+	Wget http://downloads.videolan.org/pub/contrib/upnp/libupnp-1.6.19.tar.bz2
+	./configure –prefix=/usr/local
+	Make; sudo make install
+
+    libxml2：
+	sudo apt-get install python2.7-dev
+	Wget http://xmlsoft.org/sources/libxml2-2.9.3.tar.gz
+	./configure –prefix=/usr/local
+	Make; sudo make install
+
+    Modplug：
+	Wget https://netcologne.dl.sourceforge.net/modplug-xmms/libmodplug-0.8.8.5.tar.gz
+	./configure
+	Make; sudo make install
+
+
+    dvbpsi
+	wget http://downloads.videolan.org/pub/videolan/libdvbpsi/1.3.0/libdvbpsi-1.3.0.tar.bz2
+	./bootstrap
+	./configure
+	Make; sudo make install
+
+
+
+===============================================================================
+Vlc编译：
+	Git clone git://git.videolan.org/vlc.git  
+	Export LD_LIBRARY_PATH=/usr/local/lib:/usr/lib
+	Export PKG_CONFIG_LIBDIR=/usr/local/lib/pkgconfig:/usr/lib/pkgconfig
+	Export CPLUS_INCLUDE_PATH=/usr/local/include:/usr/include
+	Export C_INCLUDE_PATH=/usr/local/include:/usr/:/usr/include:/usr/include
+	export VLC_PLUGIN_PATH=/usr/local/lib/vlc/plugins
+	Sudo ldconfig
+
+	./configure --enable-run-as-root --enable-debug 
+
+
+	Vlc运行：
+		vlc rtsp://192.168.90.156:554/live555_chn0.ts –v
+		vlc rtsp://192.168.90.156:554/live555_chn0.ts –vvv
+			-vvv显示debug详细信息
+
+		运行报错：
+			加载libmux_ts_plugin.so文件失败：
+			Ldd /usr/local/lib/vlc/plugins/mux/libmux_ts_plugin.so
+			查看libmux_ts_plugin.so动态库连接情况，看谁没有连接。缺谁就加载谁
+
+===============================================================================
+ldconfig需要注意的地方：
+
+	1、往/lib和/usr/lib里面加东西，是不用修改/etc/ld.so.conf文件的，但是添加完后需要调用下ldconfig，不然添加的library会找不到。
+
+	2、如果添加的library不在/lib和/usr/lib里面的话，就一定要修改/etc/ld.so.conf文件，往该文件追加library所在的路径，然后也需要重新调用下ldconfig命令。比如在安装MySQL的时候，其库文件/usr/local/mysql/lib，就需要追加到/etc/ld.so.conf文件中。命令如下：
+
+	# echo "/usr/local/mysql/lib" >> /etc/ld.so.conf
+	# ldconfig -v | grep mysql
+
+	3、如果添加的library不在/lib或/usr/lib下，但是却没有权限操作写/etc/ld.so.conf文件的话，这时就需要往export里写一个全局变量LD_LIBRARY_PATH，就可以了。
+				
