@@ -1,0 +1,30 @@
+
+wget -nd  --no-check-certificate https://192.168.90.67:2412/~dennis/s900/gentoo/20160715/gentoo_s900_20160715.img.bz2
+bunzip2 -k gentoo_s900_20160715.img.bz2
+
+sudo apt-get install android-tools-fastboot
+fastboot flash BOOT boot.emmc.systemd.img
+fastboot flash BOOTLOADER bootloader.img 
+fastboot flash SYSTEM gentoo_s900_20160801.systemd.img
+
+
+mount -o subvolid=0 /dev/sda2 /mnt/test
+
+/mnt/test/debian***_ddk1.5***_0913/home/linaro/BOOT
+
+zcat /proc/config.gz
+CONFIG_IKONFIG=y
+CONFIG_IKONFIG_PROC=y
+
+glmark2
+
+qlist -ICv spice
+spicy -h 192.168.90.173 -p 5900
+spicy -h 192.168.90.173 -p 5901
+
+
+
+
+
+
+

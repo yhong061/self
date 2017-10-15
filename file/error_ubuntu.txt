@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------
+ubuntu 安装软件的时候提示“ E: 软件包 openssh-server 需要重新安装，但是我无法找到相应的安装文件 ” 解决方法如下：
+	su
+	rm -rf /var/lib/dpkg/info/openssh-server*
+	sudo dpkg --remove --force-remove-reinstreq openssh-server

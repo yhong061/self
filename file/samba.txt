@@ -1,0 +1,43 @@
+
+
+一. samba的安装:
+    sudo apt-get install samba
+    sudo apt-get install smbfs
+
+二. 创建共享目录:
+    sudo chmod 777 /home/yhong
+
+三. 创建Samba配置文件:
+1. 保存现有的配置文件
+    sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.bak
+2. 修改现配置文件
+    sudo vi /etc/samba/smb.conf
+
+在smb.conf最后添加
+[yhong]
+     path = /home/yhong
+     writable = yes
+     browseable = yes
+     comment = smb_share64
+     valid user = yhong
+
+
+四. 创建samba帐户
+     sudo touch /etc/samba/smbpasswd
+     sudo smbpasswd -a yhong
+然后会要求你输入samba帐户的密码
+ ［如果没有第四步，当你登录时会提示 session setup failed: NT_STATUS_LOGON_FAILURE］
+
+五. 重启samba服务器
+    sudo /etc/init.d/smbd restart
+
+
+
+
+
+
+
+
+
+
+

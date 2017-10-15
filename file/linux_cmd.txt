@@ -1,0 +1,24 @@
+sed -i 's/signal/temp/g' /usr/local/bin/test.txt  	//将文件test.txt中的signal替换成temp
+sed -i "s/signal/temp/g" /usr/local/bin/test.txt  	//将文件test.txt中的signal替换成temp
+
+
+sed -i s/signal/temp/g `grep signal -rl --include="*.txt" ./` 	//在./目录下文件类型为txt的文件中搜索signal字串，并将signal替换成temp
+	sed: -i 表示操作的是文件， ``括起来的grep命令，表示将grep命令的结果作为操作文件
+	     s///g: g表示一行中有多个相同字串都替换
+	grep: -l 表示仅列出符合条件的文件名
+sed -i s+i2c_adapter\ =\ \<\&i2c2\>+2c_adapter\ =\ \<\&i2c2\>+g `grep "i2c_adapter = <&i2c2>" -rl ./`
+
+===============================================================================
+543  sudo apt-cache search opencv
+544  sudo apt-cache search opencv |grep 264
+545  sudo apt-cache search opencv |grep -i x26
+546  sudo apt-cache search 264
+547  sudo apt-get install opencv x264
+548  sudo apt-get install  x264
+549  dpkg -L x264
+550  sudo apt-cache search opencv |less
+551  sudo apt-get install libopencv-core2.4
+552  dpkg -L libopencv-core2.4
+553  sudo apt-cache search opencv |grep high
+
+

@@ -1,0 +1,26 @@
+/proc/sys/net/ipv4/
+
+udp_mem (since Linux 2.6.25)
+This is a vector of three integers governing the number of pages allowed for queueing by all UDP sockets.
+
+min       Below  this number of pages, UDP is not bothered about its memory appetite.  When the amount of memory allocated by
+UDP exceeds this number, UDP starts to moderate memory usage.
+
+pressure  This value was introduced to follow the format of tcp_mem (see tcp(7)).
+
+max       Number of pages allowed for queueing by all UDP sockets.
+
+Defaults values for these three items are calculated at boot time from the amount of available memory.
+
+===============================================================================
+1. 修改SO_SNDBUF
+	int buf_size = 10 * 1024;
+	int send_buf_size = buf_size * 2 + 1024 * 32;
+	setsockopt(msocket, SOL_SOCKET, SO_SNDBUF, (char*)&send_buf_size, sizeof(send_buf_size));
+2. 修改wmem_max
+	cat /proc/sys/net/core/wmem_max
+	vi /etc/sysctl.conf
+		wmem_max=MAX
+	sysctl -a | grep wmen_max
+
+

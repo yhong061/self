@@ -1,0 +1,19 @@
+live555下载网址： 参考vlc/contrib/src/live555/rules.mak文件
+		LIVE555_FILE := live.2014.01.21.tar.gz
+		LIVEDOTCOM_URL := http://download.videolan.org/pub/contrib/live555/$(LIVE555_FILE)
+
+	curl -f -L "http://download.videolan.org/pub/contrib/live555/live.2014.01.21.tar.gz" > "live.2014.01.21.tar.gz"
+
+=========================================================
+
+live555编译: 生成动态lib库文件
+
+	修改文件：config.linux-with-shared-libraries
+		增加-m64 -g选项，支持linux-64bit, 支持debug模式： COMPILE_OPTS +=  -m64 -g 
+
+#cd ./live
+#./genMakefile linux-with-shared-libraries
+#make
+#sudo make install  //将live555生成的文件加载到系统默认路径: /usr/local
+#sudo ldconfig      //更新动态lib库的加载信息
+

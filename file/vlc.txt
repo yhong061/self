@@ -1,0 +1,48 @@
+vlc代码下载：
+	git clone https://git.videolan.org/git/vlc.git
+
+===============================================================
+
+vlc编译：
+
+#cd ./vlc
+#./bootstarp
+#./configure --enable-live555 --enable-debug --enable-run-as-root
+#make
+#sudo make install
+
+===============================================================
+
+
+自己编译vlc源码并运行报错
+vlc路径：  /home/test/yhong/vlc/vlc-2.1.4/bin/./vlc
+执行命令:  ./vlc rtsp://192.168.90.158:554/live555_chn0.ts
+运行报错： 
+	VLC media player 2.1.4 Rincewind (revision 2.1.4-0-g2a072be)
+	[0x18be398] main libvlc error: No plugins found! Check your VLC installation.
+
+原因分析：
+	执行“./vlc -v”查看vlc信息：
+	#./vlc -v
+	VLC media player 2.1.4 Rincewind (revision 2.1.4-0-g2a072be)
+	[0x246d398] main libvlc warning: cannot read /home/test/yhong/vlc/vlc-2.1.4/src/.libs/vlc/plugins/plugins.dat (No such file or directory)
+	[0x246d398] main libvlc error: No plugins found! Check your VLC installation.
+
+解决方法:
+	添加vlc plugin路径：prefix=/usr/local/vlc
+	#export VLC_PLUGIN_PATH=/usr/local/vlc/lib/vlc/plugins/
+
+	或将默认路径进行软链接ln
+
+=================================================================
+
+VLC第三方库编译：
+	在./vlc/contrib目录中有bootstarp文件，该文件用于生成相关编译工具。
+	在./vlc/contrib/src目录中有main.mak文件，执行命令生成相关Makefile, 命令为: ../.bootstarp。
+	在./vlc/contrib/src目录中执行命令，下载编译第三方库, 命令为: make。
+		此命令会根据src所有子目录中的rules.mak执行相关动作，包括下载第三方库源码并编译。
+		最终生成的bin文件和lib文件会放到./vlc/contrib/x86_64-linux-gnu目录中，x86_64-linux-gnu文件夹是bootsharp根据我的linux 64位系统自动生成的。
+
+
+
+

@@ -1,0 +1,34 @@
+===============================================================================
+1. vncserver启动: 第一次启动需要设置密码
+	act43:1 //1表示桌面号，可以启动多个vncserver
+
+#vncserver
+
+You will require a password to access your desktops.
+
+Password:
+Verify:
+
+New 'act43:1 (yhong)' desktop is act43:1
+
+Creating default startup script /home/yhong//.vnc/xstartup
+Starting applications specified in /home/yhong//.vnc/xstartup
+Log file is /home/yhong//.vnc/act43:1.log
+
+===============================================================================
+2. 远程连接显示桌面，而非terminal窗口:
+
+#vncserver -kill :1
+#vim ~/.vnc/xstartup
+	//注释掉所有行，添加gnome-session &
+#vncserver
+
+===============================================================================
+3. 无法启动应用软件的图像界面:
+
+#vncserver -kill :1
+#vncserver -depth 24
+
+===============================================================================
+===============================================================================
+===============================================================================

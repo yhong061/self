@@ -1,0 +1,10 @@
+获取ffmpeg最新代码:
+	git clone https://git.videolan.org/git/ffmpeg.git
+======================================================================
+
+ffmpeg编译
+#./configure --enable-debug --enable-shared --enable-gpl --enable-libx264 --enable-pic
+#make
+#sudo make install //将ffmpeg的生成文件加载到默认路径: /usr/local
+#sudo ldconfig     //更新系统的so文件加载信息：支持ffmpeg
+

@@ -1,0 +1,15 @@
+x264代码下载：： 参考vlc/contrib/src/x264/rules.mak文件
+	https://git.videolan.org/git/x264.git
+或
+	curl -f -L "http://git.videolan.org/?p=x264.git;a=snapshot;h=HEAD;sf=tgz" > "x264-git.tar.gz"
+
+=============================================================
+
+
+=============================================================
+x264编译:  //先编译ffmpeg
+./configure --enable-debug --enable-shared --enable-pic --disable-asm
+#make
+#sudo make install
+#sudo ldconfig
+

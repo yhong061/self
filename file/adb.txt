@@ -1,0 +1,20 @@
+adb路径：
+	/home/yhong/work/GS700E_5110_AR_160907/android/android/out/host/linux-x86/bin
+
+sudo vi /etc/udev/rules.d/70-android.rules
+	SUBSYSTEM=="usb", ATTRS{idVendor}=="230b", ATTRS{idProduct}=="0100",MODE="0666"
+
+	#lsusb	//查看usb设备，获取ID信息
+	Bus 002 Devices 004：ID 230b:0100
+	ID 230b 就是idVendor ，0100就是 idProduct
+
+sudo chmod a+rx /etc/udev/rules.d/70-android.rules
+
+vi ~/.android/adb_usb.ini
+	0x10d6
+
+	将idVendor的值添加到adb_usb.ini中
+
+sudo adb kill-server
+sudo adb devices
+

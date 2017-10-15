@@ -1,0 +1,7 @@
+sudo wget https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle
+
+
+vmware 11 key: 1F04Z-6D111-7Z029-AV0Q4-3AEH8
+
+
+
