@@ -4,22 +4,39 @@
 using namespace std;
 using namespace cv;
 
-
-
-int main(int, char**)
+void usage(int argc, char *argv[])
 {
-    VideoCapture cap(1); // open the default camera
+	cout << argv[0] << " video w h" <<endl;
+}
+
+int main(int argc, char**argv)
+{
+	if(argc < 3) {
+		usage(argc, argv);
+		return 0;
+	}
+
+	int video = atoi(argv[1]);
+	int w = atoi(argv[2]);
+	int h = atoi(argv[3]);
+
+	cout << "video=" << video << " w=" << w << " h=" << h << endl;
+
+    VideoCapture cap(video); // open the default camera
     if(!cap.isOpened())  // check if we succeeded
         return -1;
 
-    cap.set(CV_CAP_PROP_FRAME_WIDTH,224);  
-    //cap.set(CV_CAP_PROP_FRAME_HEIGHT,344);  
-    cap.set(CV_CAP_PROP_FRAME_HEIGHT,688);  
-    //cap.set(CV_CAP_PROP_FRAME_HEIGHT,172);  
+    cap.set(CV_CAP_PROP_FRAME_WIDTH,w);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT, 320);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT,240);  
+    cap.set(CV_CAP_PROP_FRAME_HEIGHT, h);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT, 480);  
   
     cout << "Frame Width: " << cap.get(CV_CAP_PROP_FRAME_WIDTH) << endl;  
     cout << "Frame Height: " << cap.get(CV_CAP_PROP_FRAME_HEIGHT) << endl;  
-    
+    cout << "Frame expo: " << cap.get(CV_CAP_PROP_CONTRAST) << endl;  
+
+
     Mat edges;
     namedWindow("edges",1);
     for(;;)

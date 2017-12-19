@@ -1,0 +1,60 @@
+新人在学习linux时，一般会选择安装ubuntu系统，但是很多笔记本都会出现安装系统后无限
+网卡被禁用的问题，这种情况的原因我认为并不是无线网卡的驱动没有安装，而是ubuntu系
+统驱动的某个地方出现了冲突，具体情况应该是ubuntu系统默认wifi硬件开关是关闭的，而
+我们很多笔记本电脑并没有硬件开关，就无法切换wifi硬件开关的状态，导致无线网络无法
+使用，下面有两种方法解决笔记本电脑安装ubuntu无法使用wifi 上网的问题。
+
+
+测试电脑型号：联想E42-80.
+
+测试系统：ubuntu14.04 LTS
+
+
+解决方法如下：
+
+
+方法一：这种方法比较简单，如果有有线网络，先连上有线网络，下载一个Wicd无线网络管理
+器，就可以使用这个软件进行wifi控制了。
+
+先更新软件源：
+
+#sudo apt-get update
+
+再安装软件Wicd：
+
+#sudo apt-get install wicd
+
+安装完成之后打开软件就可以连接wifi了。
+
+虽然开机并不能使用系统自己的wifi管理进行连接，但可以使用这款软件进行wifi连接，也比
+较方便。
+
+
+方法二：
+
+1、终端输入命令：
+
+#rfkill list all
+
+查看当前wifi开关的状态，有可能是软件block，也有可能是硬件block
+
+使用命令#rfkill unblock all将这些全部解锁。
+
+
+2、进入/etc/modprobe.d/文件夹下创建.conf文件，把影响无线wifi开关的“东西”加入黑名单。
+
+这个“东西”每种型号品牌的都不一样，在部分联想电脑上是ideapad_laptop，在其他电脑上有可
+能是其他的名字。
+
+#sudo gedit /etc/modprobe.d/ideapad.conf
+
+打开文件后在第一行输入
+
+blacklist ideapad_laptop
+
+保存并关闭后再执行#sudo modprobe -r ideapad_laptop
+
+重启之后，右上角的wifi就可以使用了。
+
+
+ps:每个品牌型号的不一样，等以后有机会了再汇总一下

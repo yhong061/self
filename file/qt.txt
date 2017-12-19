@@ -1,0 +1,15 @@
+//Install
+
+wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+chmod +x qtxxxx.run  
+./qtxxxx.run  
+
+
+//remove
+进入到qt安装目录下，运行./MaintanceTool, 按照提示卸载。
+卸载后，要清理qtcreator的配置文件，在~/.config/QtProject/下，清理子目录以及QtProject.conf
+
+
+
+
+

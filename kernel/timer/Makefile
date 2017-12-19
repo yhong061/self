@@ -1,9 +1,10 @@
-ROOT_DIR := /home/yhong/GS700C_5110_IPC_20160825/android
+#ROOT_DIR := /home/yhong/GS700C_5110_IPC_20160825/android
+ROOT_DIR := /home/yhong/src/S700/S700/android
 ARCH_CONFIG := arm64
-CROSS_COMPILE_CONFIG := $(ROOT_DIR)/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+CROSS_COMPILE_CONFIG := $(ROOT_DIR)/android/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 
 
-KERNEL_DIR :=$(ROOT_DIR)/kernel
+KERNEL_DIR :=$(ROOT_DIR)/owl/out/s700_android_s700_cb6/kernel
 
 PWD := $(shell pwd)
 

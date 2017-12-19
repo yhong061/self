@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test
+CMAKE_SOURCE_DIR = /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test
+CMAKE_BINARY_DIR = /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test
 
 # Include any dependencies generated for this target.
 include CMakeFiles/DisplayImage.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/DisplayImage.dir/flags.make
 
 CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
 CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o: DisplayImage.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp
 
 CMakeFiles/DisplayImage.dir/DisplayImage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/DisplayImage.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp > CMakeFiles/DisplayImage.dir/DisplayImage.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp > CMakeFiles/DisplayImage.dir/DisplayImage.cpp.i
 
 CMakeFiles/DisplayImage.dir/DisplayImage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/DisplayImage.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/DisplayImage.cpp -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.s
 
 CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o.requires:
 .PHONY : CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o.requires
@@ -81,31 +81,33 @@ DisplayImage_EXTERNAL_OBJECTS =
 
 DisplayImage: CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o
 DisplayImage: CMakeFiles/DisplayImage.dir/build.make
-DisplayImage: /usr/local/lib/libopencv_videostab.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_videoio.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_video.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_superres.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_stitching.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_shape.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_photo.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_objdetect.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_ml.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_imgproc.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_imgcodecs.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_highgui.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_flann.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_features2d.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_core.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_calib3d.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_features2d.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_ml.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_highgui.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_videoio.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_imgcodecs.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_flann.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_video.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_imgproc.so.3.1.0
-DisplayImage: /usr/local/lib/libopencv_core.so.3.1.0
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_calib3d.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_core.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_dnn.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_features2d.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_flann.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_highgui.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_imgproc.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_ml.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_objdetect.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_photo.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_shape.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_stitching.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_superres.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_video.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_videoio.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_videostab.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_calib3d.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_features2d.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_flann.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_highgui.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_photo.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_video.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_videoio.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_imgproc.so.3.3.1
+DisplayImage: /usr/local/lib/x86_64-linux-gnu/libopencv_core.so.3.3.1
 DisplayImage: CMakeFiles/DisplayImage.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable DisplayImage"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DisplayImage.dir/link.txt --verbose=$(VERBOSE)
@@ -122,6 +124,6 @@ CMakeFiles/DisplayImage.dir/clean:
 .PHONY : CMakeFiles/DisplayImage.dir/clean
 
 CMakeFiles/DisplayImage.dir/depend:
-	cd /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test /home/yhong/work/sample/sample/ubuntu/opencv/opencv_test/CMakeFiles/DisplayImage.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test /home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/CMakeFiles/DisplayImage.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/DisplayImage.dir/depend
 

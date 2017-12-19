@@ -1,6 +1,30 @@
 ===============================================================================
 下载：
-https://sourceforge.net/projects/opencvlibrary/
+1） 安装依赖库
+$ sudo apt install build-essential
+$ sudo apt install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+$ sudo apt install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
+$ sudo apt install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev liblapacke-dev
+$ sudo apt install libxvidcore-dev libx264-dev
+$ sudo apt install libatlas-base-dev gfortran
+$ sudo apt install ffmpeg
+2）下载最新的opencv源代码
+git clone https://github.com/opencv/opencv.git
+注意：如果需要额外的支持库，请继续增加
+git clone https://github.com/opencv/opencv_contrib.git
+
+3) 进入opencv的目录，建立build目录
+mkdir build
+建议使用 cmake-gui 来生成 makefile
+可以使用 cmake ..
+可以有很多选项，通常根据个人情况不同选择不同的编译选项；
+注意系统会下载 一些第三方支持库，如果不管的话，有些时候会报错。
+4）生成makefile之后就可以
+make -j4
+
+5）之后 sudo make install即可。
+注意各种库和头文件的目录位置，设置 LD_LIBRARY_PATH等，
+
 
 ===============================================================================
 编译：
