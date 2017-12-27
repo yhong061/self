@@ -1,1 +1,0 @@
-/home/yhong/src/sample/sample/ubuntu/opencv/opencv_test/CMakeFiles/DisplayImage.dir
