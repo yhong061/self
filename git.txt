@@ -4,7 +4,12 @@ git clone https://github.com/yhong061/sample.git
 git config --global user.email yhong@actions-semi.com
 git config --global user.name yhong061
 
+git add file
+git commit -sm ""
 git push origin master
+
+git pull
+
 ==============================
 https:
 echo "# self" >> README.md
