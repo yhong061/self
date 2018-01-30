@@ -1,0 +1,5 @@
+
+unrar x <rar-file>    <== 解压文件
+unrar t <rar-file>    <== 测试文件OK
+unrar l <rar-file>     <== 列出文件 
+

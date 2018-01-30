@@ -1,12 +1,8 @@
 #include <stdio.h>
 #include <vector>
 #include <opencv2/opencv.hpp>
-#include <opencv2/imgproc/imgproc.hpp> 
 #include <signal.h> 
 #include <stdlib.h>  
-#include <opencv2/core/core.hpp>  
-#include <opencv2/highgui/highgui.hpp>  
-#include <iostream>  
 
 using namespace std;
 
@@ -18,7 +14,6 @@ int gRunning = 0;
 void process(int sig)  
 {  
     //cvReleaseCapture(&cam);//释放CvCapture结构  
-    cout << "signal " << endl;
     gRunning = 0;
 }  
 
@@ -34,8 +29,6 @@ int main(int argc, char *argv[])
 		return 0;
 	}
 
-    double alpha =2.5;  
-    double beta = 0;  
     signal(SIGINT , process);
     gRunning = 1;
 
@@ -50,14 +43,17 @@ int main(int argc, char *argv[])
         return -1;
 
     cap.set(CV_CAP_PROP_FRAME_WIDTH,w);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT, 320);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT,240);  
     cap.set(CV_CAP_PROP_FRAME_HEIGHT, h);  
+//    cap.set(CV_CAP_PROP_FRAME_HEIGHT, 480);  
   
     cout << "Frame Width: " << cap.get(CV_CAP_PROP_FRAME_WIDTH) << endl;  
     cout << "Frame Height: " << cap.get(CV_CAP_PROP_FRAME_HEIGHT) << endl;  
     cout << "Frame expo: " << cap.get(CV_CAP_PROP_CONTRAST) << endl;  
 
+
     Mat edges;
-    Mat frame;
     namedWindow("edges",1);
 
     int pictureNumber = 1; 
@@ -66,55 +62,22 @@ int main(int argc, char *argv[])
     for(;;)
     {
         Mat frame;
-        Mat src;
-        Mat dst;
         cap >> edges; // get a new frame from camera
-        frame = edges;
-        src = edges;
         imshow("edges", edges);
         waitKey(5);  //时间等待
 
-        int a1 = edges.at<Vec3b>(2, 2)[2];  
-        Vec3b b1 = edges.at<Vec3b>(2, 2)[2];  
-//        cout << "访问一个数：" << a1 << " - "<<"访问三通道："<<b1<< " + ";  
         
         if(waitKey(2) == 'q') {
             sprintf(SaveName , "%5d.jpg" ,pictureNumber++);//设置图片的序号，名称  
             imwrite(SaveName , edges);//保存图片  
         }
 
-        dst = Mat::zeros(src.size(),src.type());  
-        for (int i = 0;i<src.rows;++i)  
-            for(int j= 0;j<src.cols;++j)  
-                for(int k = 0;k<3;++k)  
-                    dst.at<Vec3b>(i,j)[k] = saturate_cast<uchar>(src.at<Vec3b>(i,j)[k]*alpha+beta);  
-  
-        //namedWindow("Handled Image");  
-//        imshow("Handled Image",dst); 
-
-        int a = dst.at<Vec3b>(2, 2)[2];  
-        Vec3b b = dst.at<Vec3b>(2, 2)[2];  
-//        cout << "访问一个数：" << a << " - "<<"访问三通道："<<b<<endl;  
-
-//        cvtColor(frame, frame, CV_BGR2GRAY);//转化为灰度图  
-//        imshow("去色", frame);  
-
-       
-//        GaussianBlur(frame, frame, Size(7, 7), 1.5, 1.5);//高斯滤波  
-//        imshow("高斯滤波", frame);  
-        
-//        Canny(frame, frame, 60, 100);//Canny算子检测边缘，两个参数随便调  
-//        imshow("Canny边缘", frame);  
-
-        if(!gRunning) {
-            cout << "exit" << endl;
+        if(!gRunning)
             break;
-        }
 
      //   if(waitKey(30) >= 0) break;
     }
 
-            cout << "exited" << endl;
     cap.release();
     // the camera will be deinitialized automatically in VideoCapture destructor
     return 0;

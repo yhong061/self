@@ -45,7 +45,7 @@ cscope的命令
 
 
 let Tlist_Auto_Highlight_Tag=1
-let Tlist_Auto_Open=1
+"let Tlist_Auto_Open=1
 let Tlist_Auto_Update=1
 let Tlist_Display_Tag_Scope=1
 let Tlist_Exit_OnlyWindow=1
@@ -55,7 +55,7 @@ let Tlist_Show_One_File=1
 let Tlist_Use_Left_Window=1
 let Tlist_Use_SingleClick=1
 nnoremap <silent> <F8> :TlistToggle<CR>
-filetype plugin on
+filetype plugin on  "允许插件
 autocmd FileType python set omnifunc=pythoncomplete#Complete 
 autocmd FileType javascrīpt set omnifunc=javascriptcomplete#CompleteJS 
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags 
@@ -64,15 +64,16 @@ autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
 autocmd FileType php set omnifunc=phpcomplete#CompletePHP 
 autocmd FileType c set omnifunc=ccomplete#Complete
 let g:pydiction_location='~/.vim/tools/pydiction/complete-dict'
-set autoindent
-set tabstop=4
-set shiftwidth=4
+set autoindent      "自动缩进
+set tabstop=4       "
+set shiftwidth=4    "Tab键的宽度
 set expandtab
 set number          "显示行号
 nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>     "为方便复制，用<F2>开启/关闭行号显示: 
 set mouse=a         "鼠标单击改变插入点
 set mouse=v         "启用鼠标复制
 syntax on           "语法高亮
+set hlsearch        "搜索高亮
 filetype indent plugin on   "依文件类型设置自动缩进
 
 
