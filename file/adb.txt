@@ -18,3 +18,8 @@ vi ~/.android/adb_usb.ini
 sudo adb kill-server
 sudo adb devices
 
+
+adb报错:
+
+????????????    no permissions
+    --权限错误，修改上面的相关文件权限，之后重新插拔一下usb线
