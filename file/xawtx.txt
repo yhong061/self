@@ -1,0 +1,32 @@
+
+准备工作：安装xawtv
+
+sudo apt-get install xawtv
+
+
+
+源码xawtv-3.95.tar.gz
+
+http://www.kraxel.org/releases/xawtv/
+
+
+
+在这个网站创建新的sources.list
+
+http://repogen.simplylinux.ch/
+
+1. 选择国家
+
+2．选择相邻的ubuntu版本
+
+3. 选择"Ubuntu Branches"
+
+4. 生成sources.list
+
+5. 把得到内容替换到/etc/apt/sources.list
+
+6. sudo apt-get update
+
+   sudo apt-get install xawtv
+
+

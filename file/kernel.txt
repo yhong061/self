@@ -1,0 +1,34 @@
+测试虚拟摄像头vivi：
+
+1. 确实ubuntu的内核版本
+
+uname -a
+
+Linux book-desktop 2.6.31-14-generic #48-Ubuntu SMP Fri Oct 16 14:04:26 UTC 2009 i686 GNU/Linux
+
+2. 去www.kernel.org下载同版本的内核
+
+   解压后把drivers/media/video目录取出
+
+修改它的Makefile为：
+
+
+KERN_DIR = /usr/src/linux-headers-2.6.31-14-generic
+
+all:
+    make -C $(KERN_DIR) M=`pwd` modules 
+
+clean:
+    make -C $(KERN_DIR) M=`pwd` modules clean
+    rm -rf modules.order
+    obj-m   += vivi.o
+    obj-m   += videobuf-core.o
+    obj-m   += videobuf-vmalloc.o
+    obj-m   += v4l2-common.o
+
+3. make
+
+4. sudo modprobe vivi  
+
+    sudo rmmod vivi
+    sudo insmod ./vivi.ko

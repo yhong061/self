@@ -15,3 +15,7 @@ sudo update-alternatives --config java   //更新系统中的java 版本为7
 sudo update-alternatives --config javac  //更新系统中的javac版本为7
 
 
+===============================================================================
+ubuntu禁止root用户登录:
+先修改root密码: sudo passwd root
+然后执行"su root"就可以用root登录了
