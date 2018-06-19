@@ -88,5 +88,9 @@ git archive -o ../updated.zip HEAD $(git diff --name-only HEAD^)  //save the cha
 git archive -o ../updated.zip NEW_COMMIT_ID $(git diff --name-only OLD_COMMIT_ID NEW_COMMIT_ID)  //save the changed file between NEW and OLD commit ID
 
 ==============================
+git reset --hard commit-id  //回退到指定id, 代码为id对应地情况
+git reset --soft commit-id  //回退到指定id, 代码为HEAD到id之间地所有修改
+
+
 ==============================
 ==============================
