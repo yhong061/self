@@ -3,6 +3,8 @@ git clone https://github.com/yhong061/sample.git
 
 git config --global user.email yhong@actions-semi.com
 git config --global user.name yhong061
+ssh-keygen -t rsa -C yhong061
+
 
 git add file
 git commit -sm ""
@@ -99,6 +101,7 @@ Use git@github.com:user_name/user_repo.git
 解决办法:
 git remote rm origin
 git remote add origin git@github.com:yhong061/self.git
+git branch --set-upstream-to=origin/master
 git push origin master
 
 ==============================
