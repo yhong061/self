@@ -110,6 +110,7 @@ git branch:
 =====================================================================
 git checkout/reset:
 	git reset --hard commit-id	//回退到指定版本号的地方
+	git reset --soft commit-id	//回退到指定版本号的地方, 并将commit-id之后地修改返回到工作区
 
 	git reset HEAD file		//取消暂存区的修改，并将暂存区的修改返回到工作区
 
