@@ -91,6 +91,27 @@ git archive -o ../updated.zip NEW_COMMIT_ID $(git diff --name-only OLD_COMMIT_ID
 git reset --hard commit-id  //回退到指定id, 代码为id对应地情况
 git reset --soft commit-id  //回退到指定id, 代码为HEAD到id之间地所有修改
 
+==============================
+fatal: remote error:  
+You can't push to git://github.com/user_name/user_repo.git  
+Use git@github.com:user_name/user_repo.git 
+------------------------------
+解决办法:
+git remote rm origin
+git remote add origin git@github.com:yhong061/self.git
+git push origin
 
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
+==============================
 ==============================
 ==============================
