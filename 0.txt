@@ -1,254 +1,128 @@
-I used shears to cut my bushes. 我用剪刀修剪树丛。
-
-I paused in the video at a critical moment. 我在关键处暂停了视频。
-
-Dare you take the ice bucket challenge like me? 你敢像我一样参加冰桶挑战吗？
-
-The restaurant [bans smoking indoors]. 餐厅内禁止吸烟。
-
-The giraffe tried to hung himself, but he failed. 这只长颈鹿试图上吊自杀，不过失败了。
-
-He [reveals his identify] to be Super Man.他揭示了自己超人的真实身份。
-
-The ball hit the ground and bounced. 球撞到地上又弹起来了。
-
-All this typing gives me wrist pains.一直打字让我手腕疼。
-
-Make sure your objects is in focus before taking the photo.拍照前要确保你的物体对焦。
-
-He was a president, but now he’s just an ordinary man. 他曾经是总统，而现在他只是一个普通人。
-
-Sponges can [absorb a lot of water].海绵可以吸收很多水。
-
-The rabbit was captured by the hunter.猎人抓到了一直兔子。
-
-This virus has been making me cough all week.这病毒已经让我咳嗽了一整个星期。
-
-The wreck of the plane was left here. 飞机残骸被遗留在这里。
-
-He has such a funny accent! 他的口音太搞笑了。
-
-Don’t worry, this lion is tame – It won’t hurt you. 别担心，这只是狮子很温顺，他不会伤害你的。
-
-I just don’t like measuring my height!  人家就是不喜欢测身高。
-
-The watch is water resistant. 这块手表具有防水性。
-
-You look terrible! I suggest you go see a doctor! 你看起来糟透了， 我建议你去看医生。
-
-I want everyone to know that you undertake this fishpond! 我要让所有人都知道，这个鱼塘被你承包了。
-
-He always likes to quote the words of chairman Mao. 这个男人很喜欢引用毛泽东语录。
-
-I’m trying to deny that I just farted. 我试图否认我刚刚在放屁。
-
-The baby crawls forward on his arms and legs. 小婴儿手脚并用地爬行向前。
-
-[it’s very foolish to] play around with guns. 这样玩枪是很蠢地。
-
-Oh my God ! A mysterious man is running in my yard! 天哪， 一个神秘人正在我地院子里跑！
-
-Hats prevailed in the 19th century. 帽子在19世纪风靡一时。
-
-She really [dislike vegetables]. 她真的不喜欢蔬菜。
-
-Ten [multiply by] eight is 80. 10乘以8等于80.
-
-The feather is [the token of her identity]. 这根羽毛是花千骨的象征。
-
-This is [a very famous painting]. 这是一副非常有名地油画。
-
-The flower is purple. 这朵花是紫色的。
-
-The temperature is 37 degrees Celsius, which is about [99 degrees Fahrenheit]. 温度是37摄氏度，大约是99华氏度。
-
-Alice [caught a quick glimpse] of Wonderland throught the tiny door. 爱丽丝透过小小地门匆匆瞥见了仙境。
-
-The zebra has black and white stripes on its sides. 斑马身上两侧有黑白相间地条纹。
-
-The debate over the color of the dress is actually [a visual trick]. 关于裙子颜色地争论实际上是一个视觉游戏。
-
-Jacke Ma is [an influential figure] in the global market. 马云是一位在全球市场上相当有影响力地人物。
-
-He was a great ethlete who ran really fast. 他以前是一个优秀的运动员， 跑得非常快.
-
-The lion [feeds on] flesh. 狮子是肉食动物.
-
-The dog really [drives me mad]! It always pees on my shoes!. 这只狗真的快把我逼疯了， 它老是在我鞋子上撒尿！
-
-[In the suburbs], there are fewer houses and more trees. 郊区房子少但树多。
-
-I'm pasting wallpaper onto the wall. 我正在把墙纸贴到墙上.
-
-The [immune system] is like a shell, protecting our body from disease. 免疫系统就像壳一样保护我们地身体不生病。
-
-His religion taught him to be kind. 他的宗教教他要善良.
-
-Each [additional scoop] made the ice cream more delicious. 每多一个球都会让冰淇淋变得更美味。
-
-Would the customer buy this pair of the blue jeans? 这个顾客会买这条蓝色地牛仔裤吗？
-
-The train is delayed, so she has to wait longer. 火车晚点了， 她必须等更久。
-
-He makes me feel I'm inferior to him. 他让我感觉在他面前敌人一等。
-
-She was elected as a representative of the National People's Congress. 她被选为人大代表。
-
-The spring is [a very elastic thing] that can stretch far. 弹簧是一种很有弹性地东西，可以拉伸地很远。
-
-This is the place where the congress members would have a meeting. 这就是国会成员开会地地方。
-
-Worms make good fish bait. 蠕虫能做成很好地鱼铒。
-
-These are my relations - we got together over Christmas.  这些是我的家庭成员，我们在一起过圣诞节。
-
-The jury saw the injury.  陪审团看见了伤者。
-
-This house is not as costly as I thought.  这房子没有我预期的那么贵。
-
-Get me out of this cage! Where's the key?!  把我从这笼子里面放出去！钥匙在哪？
-
-Her salary is her only supplementary.  她的薪酬是她仅有的额外收入。
-
+I used shears() to cut my bushes. 
+I paused() in the video at a critical moment. 
+Dare you take the ice bucket challenge() like me? 
+The restaurant() [bans smoking indoors]. 
+The giraffe tried to hung() himself, but he failed. 
+He [reveals his identify()] to be Super Man.
+The ball hit the ground and bounced(). 
+All this typing gives me wrist() pains.
+Make sure your objects() is in focus before taking the photo.
+He was a president, but now he’s just an ordinary() man. 
+Sponges can [absorb a lot of water].
+The rabbit was captured by the hunter.
+This virus has been making me cough all week.
+The wreck of the plane was left here. 
+He has such a funny accent! 
+Don’t worry, this lion is tame – It won’t hurt you. 
+I just don’t like measuring my height!  
+The watch is water resistant. 
+You look terrible! I suggest you go see a doctor!  
+I want everyone to know that you undertake this fishpond! 
+He always likes to quote the words of chairman Mao. 
+I’m trying to deny that I just farted. 
+The baby crawls forward on his arms and legs. 
+[it’s very foolish to] play around with guns. 
+Oh my God ! A mysterious man is running in my yard!  
+Hats prevailed in the 19th century. 
+She really [dislike vegetables]. 
+Ten [multiply by] eight is 80. .
+The feather is [the token of her identity]. 
+This is [a very famous painting]. 
+The flower is purple. 
+The temperature is 37 degrees Celsius, which is about [99 degrees Fahrenheit]. 
+Alice [caught a quick glimpse] of Wonderland throught the tiny door. 
+The zebra has black and white stripes on its sides. 
+The debate over the color of the dress is actually [a visual trick]. 
+Jacke Ma is [an influential figure] in the global market. 
+He was a great ethlete who ran really fast. 
+The lion [feeds on] flesh. .
+The dog really [drives me mad]! It always pees on my shoes!.  
+[In the suburbs], there are fewer houses and more trees. 
+I'm pasting wallpaper onto the wall. .
+The [immune system] is like a shell, protecting our body from disease. 
+His religion taught him to be kind. .
+Each [additional scoop] made the ice cream more delicious. 
+Would the customer buy this pair of the blue jeans? 
+The train is delayed, so she has to wait longer.  
+He makes me feel I'm inferior to him. 
+She was elected as a representative of the National People's Congress. 
+The spring is [a very elastic thing] that can stretch far. 
+This is the place where the congress members would have a meeting. 
+Worms make good fish bait. 
+These are my relations - we got together over Christmas.  
+The jury saw the injury.  
+This house is not as costly as I thought.  
+Get me out of this cage! Where's the key?!  
+Her salary is her only supplementary.  
 The velocity of the rocket is over 4.5km/s.
-
 Please don't chew and speak at the same time.
-
 Completing an exam requires a lot of concentration.
-
 The selfish boy doesn't share the candies(糖果) with other kids.
-
 The [rules and regulations](规章制度) of our school drive us mad!
-
 The indoor temprature is much higher than the outside.
-
 The United States has four [major regions](主要地区).
-
 The cat is filled with the desire to eat the fish.
-
 I [created the painting](创作这幅画) all by myself.
-
 Look at my fruitful apple tree! Do you want an apple?
-
 It snowed throughout the day and night.
-
 I'm on a diet(节食), so I'll just have a salad.
-
 The big boss objected(毙掉) to their new plan.
-
 Sitting in the dentist(牙医) chair always fills me with fear.
-
 The student was awarded his certificate(毕业证书) during the graduation ceremony(毕业典礼).
-
 A huge eagle(鹰) is flying high in the sky.
-
 The capacity(容量) of this cup is 2 liters(公升).
-
 The stamp on the pig shows the good quality of it.
-
 The computer is useless, I need to get a new one.
-
 I took my car to the garage to be repaired
-
 Although he isn't young anymore, the businessman is still ambitious.
-
 Customers pay money at the counter.
-
 The two man confront each other with anger.
-
 I made an appointment with my doctor.
-
 He took the silver medal, which is secondary in importance.
-
 The girl uses a pepper spray to protect herself.
-
 The reporter brought us the lastest news.
-
 He eventually climbed to the summit of the mountain.
-
 The man is submitting the report to his boss.
-
 The conductors is leading the band.
-
 The teacher gave uo English dictation today.
-
 My mobile phone is very reliable.
-
 What a waste to throw the food away.
-
 The installation of the air conditioning was a little diffcult.
-
 Some cattle are grazing in the field.
-
 The taste in art is a highly subjective matter.
-
 I wish he love me, she sighed with disappointment.
-
 I'd like to withdraw 500 dollars from the machine.
-
 The superhero punched his enemy in the face.
-
 This gallery has a lot of flower pictures.
-
 The sun is slowly rising from the horison.
-
 The girl keeps a diary everyday.
-
 The pretty shirt is so cheap that I want to purchase it at once.
-
 The pupil is completely immersed in the glory of receiving a red scarf.
-
 Yhe man is checking the largr yellow tank.
-
 Our grandfather loves to read us stories.
-
 That captain is so charming.
-
 Going after the sun exhausted Kuafu.
-
 We pour the cement in before it dries.
-
 He felt a lot f sympathy for the dog and gave it a bone.
-
 My daughter is absorbed in her story book.
-
 It was fun participating in the race.
-
 You should highlight all the most impartant.
-
 Every night I hear an owl on the tree outside my room.
-
 They accused each other of being wrong.
-
 That decent gentleman enjoys his leisure time with wine and cigar.
-
 She can reverse her car into a parking space.
-
 He has an extreme hunger right now. Feed him!
-
 The sniper looked through the scope to see the target.
-
 Smoking can cause lung cancer.
-
 There is a lump on his neck.
-
 According to the schedule, I have lots of work to do today.
-
 After my vacation, I showed my friends all of my travel photographs.
-
 The aim of the court is to provide justice.
-
 I gave their service a good rating to show my satisfaction.
-
 I will solve this math problem in a minute.
-
 She wrapped the gift with some colorful paper.
-
 The film has a happy ending.
-
 There are many benches along the street.
-
 The rice crops are planted in long horizontal.
-
 His height equals the average of his parents' heights.
 
