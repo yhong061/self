@@ -1,74 +1,74 @@
 I used shears() to cut my bushes. 
 I paused() in the video at a critical moment. 
 Dare you take the ice bucket challenge() like me? 
-The restaurant() [bans smoking indoors]. 
+The restaurant [bans() smoking indoors]. 
 The giraffe tried to hung() himself, but he failed. 
-He [reveals his identify()] to be Super Man.
+He [reveals() his identify] to be Super Man.
 The ball hit the ground and bounced(). 
 All this typing gives me wrist() pains.
-Make sure your objects() is in focus before taking the photo.
+Make sure your objects is in focus() before taking the photo.
 He was a president, but now he’s just an ordinary() man. 
-Sponges can [absorb a lot of water].
-The rabbit was captured by the hunter.
-This virus has been making me cough all week.
-The wreck of the plane was left here. 
-He has such a funny accent! 
-Don’t worry, this lion is tame – It won’t hurt you. 
-I just don’t like measuring my height!  
-The watch is water resistant. 
-You look terrible! I suggest you go see a doctor!  
-I want everyone to know that you undertake this fishpond! 
-He always likes to quote the words of chairman Mao. 
-I’m trying to deny that I just farted. 
-The baby crawls forward on his arms and legs. 
-[it’s very foolish to] play around with guns. 
-Oh my God ! A mysterious man is running in my yard!  
-Hats prevailed in the 19th century. 
-She really [dislike vegetables]. 
-Ten [multiply by] eight is 80. .
-The feather is [the token of her identity]. 
-This is [a very famous painting]. 
-The flower is purple. 
-The temperature is 37 degrees Celsius, which is about [99 degrees Fahrenheit]. 
-Alice [caught a quick glimpse] of Wonderland throught the tiny door. 
-The zebra has black and white stripes on its sides. 
-The debate over the color of the dress is actually [a visual trick]. 
-Jacke Ma is [an influential figure] in the global market. 
-He was a great ethlete who ran really fast. 
-The lion [feeds on] flesh. .
-The dog really [drives me mad]! It always pees on my shoes!.  
-[In the suburbs], there are fewer houses and more trees. 
-I'm pasting wallpaper onto the wall. .
-The [immune system] is like a shell, protecting our body from disease. 
-His religion taught him to be kind. .
-Each [additional scoop] made the ice cream more delicious. 
-Would the customer buy this pair of the blue jeans? 
-The train is delayed, so she has to wait longer.  
-He makes me feel I'm inferior to him. 
-She was elected as a representative of the National People's Congress. 
-The spring is [a very elastic thing] that can stretch far. 
-This is the place where the congress members would have a meeting. 
-Worms make good fish bait. 
-These are my relations - we got together over Christmas.  
-The jury saw the injury.  
-This house is not as costly as I thought.  
-Get me out of this cage! Where's the key?!  
-Her salary is her only supplementary.  
-The velocity of the rocket is over 4.5km/s.
-Please don't chew and speak at the same time.
-Completing an exam requires a lot of concentration.
-The selfish boy doesn't share the candies(糖果) with other kids.
-The [rules and regulations](规章制度) of our school drive us mad!
-The indoor temprature is much higher than the outside.
-The United States has four [major regions](主要地区).
-The cat is filled with the desire to eat the fish.
-I [created the painting](创作这幅画) all by myself.
-Look at my fruitful apple tree! Do you want an apple?
-It snowed throughout the day and night.
-I'm on a diet(节食), so I'll just have a salad.
-The big boss objected(毙掉) to their new plan.
-Sitting in the dentist(牙医) chair always fills me with fear.
-The student was awarded his certificate(毕业证书) during the graduation ceremony(毕业典礼).
+Sponges can [absorb()a lot of water].
+The rabbit was captured() by the hunter.
+This virus() has been making me cough all week.
+The wreck() of the plane was left here. 
+He has such a funny accent()! 
+Don’t worry, this lion is tame() – It won’t hurt you. 
+I just don’t like measuring() my height!  
+The watch is water resistant(). 
+You look terrible! I suggest() you go see a doctor!  
+I want everyone to know that you undertake() this fishpond! 
+He always likes to quot()e the words of chairman Mao. 
+I’m trying to deny() that I just farted. 
+The baby crawls() forward on his arms and legs. 
+[it’s very foolish() to] play around with guns. 
+Oh my God ! A mysterious() man is running in my yard!  
+Hats prevailed() in the 19th century. 
+She really [dislike() vegetables]. 
+Ten [multiply() by] eight is 80. .
+The feather is [the token() of her identity]. 
+This is [a very famous painting()]. 
+The flower is purple(). 
+The temperature is 37 degrees Celsius, which is about [99 degrees Fahrenheit()]. 
+Alice [caught a quick glimpse()] of Wonderland throught the tiny door. 
+The zebra has black and white stripes() on its sides. 
+The debate over the color of the dress is actually [a visual() trick]. 
+Jacke Ma is [an influential() figure] in the global market. 
+He was a great ethlete() who ran really fast. 
+The lion [feeds on] flesh(). .
+The dog really [drives me mad()]! It always pees on my shoes!.  
+[In the suburbs()], there are fewer houses and more trees. 
+I'm pasting() wallpaper onto the wall. .
+The [immune() system] is like a shell, protecting our body from disease. 
+His religion() taught him to be kind. .
+Each [additional() scoop] made the ice cream more delicious. 
+Would the customer() buy this pair of the blue jeans? 
+The train is delayed(), so she has to wait longer.  
+He makes me feel I'm inferior() to him. 
+She was elected as a representative() of the National People's Congress. 
+The spring is [a very elastic() thing] that can stretch far. 
+This is the place where the congress() members would have a meeting. 
+Worms() make good fish bait. 
+These are my relations() - we got together over Christmas.  
+The jury() saw the injury.  
+This house is not as costly() as I thought.  
+Get me out of this cage()! Where's the key?!  
+Her salary() is her only supplementary.  
+The velocity() of the rocket is over 4.5km/s.
+Please don't chew() and speak at the same time.
+Completing an exam requires a lot of concentration().
+The selfish() boy doesn't share the candies(糖果) with other kids.
+The rules and regulations() of our school drive us mad!
+The indoor() temprature is much higher than the outside.
+The United States has four major regions().
+The cat is filled with the desire() to eat the fish.
+I created() the painting all by myself.
+Look at my fruitful() apple tree! Do you want an apple?
+It snowed throughout() the day and night.
+I'm on a diet(), so I'll just have a salad().
+The big boss objected() to their new plan.
+Sitting in the dentist chair() always fills me with fear.
+The student was awarded his certificate during the graduation ceremony().
 A huge eagle(鹰) is flying high in the sky.
 The capacity(容量) of this cup is 2 liters(公升).
 The stamp on the pig shows the good quality of it.
