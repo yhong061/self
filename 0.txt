@@ -69,60 +69,60 @@ I'm on a diet(), so I'll just have a salad().
 The big boss objected() to their new plan.
 Sitting in the dentist chair() always fills me with fear.
 The student was awarded his certificate during the graduation ceremony().
-A huge eagle(鹰) is flying high in the sky.
-The capacity(容量) of this cup is 2 liters(公升).
-The stamp on the pig shows the good quality of it.
-The computer is useless, I need to get a new one.
-I took my car to the garage to be repaired
-Although he isn't young anymore, the businessman is still ambitious.
-Customers pay money at the counter.
-The two man confront each other with anger.
-I made an appointment with my doctor.
-He took the silver medal, which is secondary in importance.
-The girl uses a pepper spray to protect herself.
-The reporter brought us the lastest news.
-He eventually climbed to the summit of the mountain.
-The man is submitting the report to his boss.
-The conductors is leading the band.
-The teacher gave uo English dictation today.
-My mobile phone is very reliable.
-What a waste to throw the food away.
-The installation of the air conditioning was a little diffcult.
-Some cattle are grazing in the field.
-The taste in art is a highly subjective matter.
-I wish he love me, she sighed with disappointment.
-I'd like to withdraw 500 dollars from the machine.
-The superhero punched his enemy in the face.
-This gallery has a lot of flower pictures.
-The sun is slowly rising from the horison.
-The girl keeps a diary everyday.
-The pretty shirt is so cheap that I want to purchase it at once.
-The pupil is completely immersed in the glory of receiving a red scarf.
-Yhe man is checking the largr yellow tank.
-Our grandfather loves to read us stories.
-That captain is so charming.
-Going after the sun exhausted Kuafu.
-We pour the cement in before it dries.
-He felt a lot f sympathy for the dog and gave it a bone.
-My daughter is absorbed in her story book.
-It was fun participating in the race.
-You should highlight all the most impartant.
-Every night I hear an owl on the tree outside my room.
-They accused each other of being wrong.
-That decent gentleman enjoys his leisure time with wine and cigar.
-She can reverse her car into a parking space.
-He has an extreme hunger right now. Feed him!
-The sniper looked through the scope to see the target.
-Smoking can cause lung cancer.
-There is a lump on his neck.
-According to the schedule, I have lots of work to do today.
-After my vacation, I showed my friends all of my travel photographs.
-The aim of the court is to provide justice.
-I gave their service a good rating to show my satisfaction.
-I will solve this math problem in a minute.
-She wrapped the gift with some colorful paper.
-The film has a happy ending.
-There are many benches along the street.
-The rice crops are planted in long horizontal.
-His height equals the average of his parents' heights.
+A huge eagle() is flying high in the sky.
+The capacity() of this cup is 2 liters(公升).
+The stamp()  on the pig shows the good quality of it.
+The computer is useless() , I need to get a new one.
+I took my car to the garage()  to be repaired
+Although he isn't young anymore, the businessman is still ambitious() .
+Customers pay money at the counter() .
+The two man confront()  each other with anger.
+I made an appointment()  with my doctor.
+He took the silver medal, which is secondary()  in importance.
+The girl uses a pepper spray()  to protect herself.
+The reporter()  brought us the lastest news.
+He eventually climbed to the summit()  of the mountain.
+The man is submitting()  the report to his boss.
+The conductors()  is leading the band.
+The teacher gave uo English dictation()  today.
+My mobile phone is very reliable() .
+What a waste()  to throw the food away.
+The installation()  of the air conditioning was a little diffcult.
+Some cattle()  are grazing in the field.
+The taste in art is a highly subjective()  matter.
+I wish he love me, she sighed()  with disappointment.
+I'd like to withdraw()  500 dollars from the machine.
+The superhero punched his enemy()  in the face.
+This gallery()  has a lot of flower pictures.
+The sun is slowly rising from the horizon() .
+The girl keeps a diary()  everyday.
+The pretty shirt is so cheap that I want to purchase()  it at once.
+The pupil is completely immersed in the glory()  of receiving a red scarf.
+Yhe man is checking the largr yellow tank() .
+Our grandfather()  loves to read us stories.
+That captain()  is so charming.
+Going after the sun exhausted()  Kuafu.
+We pour the cement()  in before it dries.
+He felt a lot f sympathy()  for the dog and gave it a bone.
+My daughter is absorbed()  in her story book.
+It was fun participating in the race() .
+You should highlight()  all the most impartant.
+Every night I hear an owl()  on the tree outside my room.
+They accused()  each other of being wrong.
+That decent()  gentleman enjoys his leisure time with wine and cigar.
+She can reverse()  her car into a parking space.
+He has an extreme hunger()  right now. Feed him!
+The sniper looked through the scope()  to see the target.
+Smoking can cause lung cancer() .
+There is a lump()  on his neck.
+According to the schedule() , I have lots of work to do today.
+After my vacation, I showed my friends all of my travel photographs() .
+The aim of the court()  is to provide justice.
+I gave their service a good rating to show my satisfaction() .
+I will solve()  this math problem in a minute.
+She wrapped()  the gift with some colorful paper.
+The film has a happy ending() .
+There are many benches()  along the street.
+The rice crops are planted in long horizontal() .
+His height equals the average()  of his parents' heights.
 
