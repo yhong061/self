@@ -1,8 +1,8 @@
-Walking a tightrope requires extreme stability.
-Intense pressure results in psychological problems of the poor man.
-The outlook over the mountains is very grand.
-The police car turned on the alarm as it passed.
-Here is my card. It has my phone number and email on it.
+Walking a tightrope requires extreme stability().
+Intense pressure results in psychological() problems of the poor man.
+The outlook() over the mountains is very grand.
+The police car turned on the alarm() as it passed.
+Here is my card(). It has my phone number and email on it.
 Death has broken 4 Stark family members altogether().
 We can use these racks() to hang our clothes.
 On this diet, you can only eat a very limited() amount of food.
