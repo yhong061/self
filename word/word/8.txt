@@ -1,0 +1,544 @@
+sun(n.vi.vt.)
+sunny(adj.)
+sunrise(n.)
+sunset(n.adj.)
+sunshine(n.)
+sunlight(n.) [日光]
+daylight(n.vt.) [日光；黎明]
+lightning(n.vi.adj.) [闪电]
+flight(n.vi.vt.) [飞行]
+delight(n.vi.vt.) [高兴]
+highlight(vt.n.)
+highway(n.)
+sway(n.vi.vt.) [影响]
+sideways(adv.adj.)
+subway(n.vi.) [地铁]
+railway(n.vi.)
+rail(n.vi.vt.)
+trail(n.vi.vt.) [踪迹]
+railroad(n.vi.vt.)
+road(n.adj.vt.)
+broad(adj.adv.n.) [宽阔]
+abroad(adv.adj.n.) [在国外]
+broadcast(vi.vt.n.adj.) [广播]
+cast(vi.vt.n.) [投，抛]
+castle(n.vt.) [城堡]
+forecast(n.vi.vt.) [预报]
+therefore(adv.)
+forever(adv.)
+forefinger(n.)
+forehead(n.)
+overhead(adv.adj.n.) [在头顶上]
+ahead(adv.adj.) [领先]
+heading(n.) [标题]
+headquarters(n.) [总部]
+quarter(vi.vt.n.)
+headmaster(n.)
+master(n.adj.vt.)
+headline(n.vt.) [大标题]
+deadline(n.)
+online(adj.adv.)
+underline(vt.n.) [下划线;下期节目预告]
+outline(n.vt.) [轮廓；大纲]
+airline(n.adj.)
+airplane(n.)
+airport(n.)
+air(n.vi.vt.)
+aircraft(n.) [飞机]
+spacecraft(n.) [宇宙飞船]
+craft(n.vt.) [手工艺；太空船]
+mine(n.vi.vt.pron.)
+yours(pron.adj.)
+hers(pron.)
+ours(pron.)
+whoever(pron.)
+whichever(pron.adj.)
+self(n.vi.vt.adj.)
+selfish(adj.)
+myself(pron.)
+herself(pron.)
+oneself(pron.)
+ourselves(pron.)
+bone(n.vi.vt.) [骨骼]
+tone(n.vi.vt.) [色调；音调]
+zone(n.vi.vt.) [地带；地区]
+anyone(pron.)
+anywhere(adv.n.)
+anyhow(adv.)
+anyway(adv.)
+anybody(pron.n.)
+someone(pron.)
+somewhat(adv.n.)
+whatsoever(pron.)
+somewhere(adv.n.)
+somehow(adv.)
+somebody(pron.n.)
+sometime(adv.adj.)
+sometimes(adv.)
+troublesome(adj.) [麻烦的]
+everyone(pron.n.)
+everyday(adj.n.)
+everybody(pron.)
+everywhere(adv.n.)
+elsewhere(adv.)
+nowhere(adv.adj.n.)
+wherever(adv.conj.)
+telephone(vi.vt.n.)
+microphone(n.)
+scope(n.vt.) [范围；视野]
+microscope(n.) [显微镜]
+telescope(n.vi.vt.) [望远镜;缩叠式旅行袋]
+gram(n.) [克]
+grammar(n.)
+telegram(n.vi.vt.) [电报]
+diagram(n.vt.) [图表]
+kilogram(n.)
+program(n.vi.vt.) [程序；大纲]
+graph(n.vt.) [曲线图]
+photograph(n.vi.vt.)
+telegraph(n.vt.vi.) [电报]
+paragraph(n.vt.) [段落]
+community(n.) [社区；团体]
+communism(n.) [共产主义]
+communist(adj.n.) [共产主义者]
+telecommunication(n.) [电讯]
+social(adj.n.)
+socialism(n.) [社会主义]
+socialist(n.adj.)
+critic(n.) [批评家]
+critical(adj.)
+criticism(n.) [批评]
+criticize(vi.vt.)
+organ(n.) [器官；机构]
+organize(vi.vt.) [成立组织]
+organic(adj.) [有机的；组织的；器官的]
+organism(n.) [有机体；微生物]
+organization(n.) [组织；机构]
+mechanic(n.adj.) [手工的]
+mechanical(adj.) [机械的；力学的]
+mechanism(n.) [机制；原理]
+mechanics(n.) [力学,机械学]
+meter(n.vi.vt.)
+milimeter(n.)
+centimeter(n.)
+diameter(n.) [直径]
+kilometer(n.)
+thermometer(n.) [温度计]
+grade(n.vi.vt.)
+centigrade(adj.) [摄氏的]
+likely(adj.adv.)
+likewise(adv.) [同样地]
+otherwise(adv.adj.conj.) [否则]
+alike(adj.adv.) [相似的]
+unlike(adj.prep.) [不同的]
+dislike(vt.n.) [不喜欢]
+likelihood(n.) [可能性]
+child(n.)
+childhood(n.) [童年时期]
+neighbor(n.adj.vi.vt.) [邻居]
+neighborhood(n.) [附近；街坊]
+missile(n.adj.) [导弹]
+dismiss(vi.vt.) [解散]
+missing(adj.) [失踪的]
+mission(n.vt.) [使命，任务]
+admission(n.) [承认；进入许可；录用]
+commission(n.vt.) [委员会；佣金；犯；委任]
+transmission(n.) [传递；传送]
+transfer(vi.vt.n.) [转让；转移]
+transmit(vi.vt.) [传输；发射]
+transparent(adj.) [透明的；显然的]
+apparent(adj.) [显然的；表面上的]
+transient(adj.n.) [短暂的；路过的]
+transition(n.) [过渡；转变]
+transistor(n.) [晶体管]
+transform(vi.vt.)  [改变，使…变形]
+transformation(n.) [转化；转换；改革]
+transformer(n.) [变压器；促使变化的人]
+translate(vi.vt.) [翻译；转化]
+translation(n.)
+transport(vt.n.) [运输；流放; n.运输；运输机；流放犯]
+transportation(n.) [n.运输；运输系统]
+limited(adj.n.) [n. 高级快车]
+limitation(n.)
+emit(vt.) [发出，放射]
+omit(vt.) [省略；遗漏]
+admit(vi.vt.) [承认；容许]
+permit(vi.vt.n.) [许可；允许; n.许可证，执照]
+summit(n.adj.) [n.顶点；最高级会议; adj. 最高级的；政府首脑的]
+submit(vi.vt.) [提交；服从]
+primitive(adj.n) [n.原始人]
+degree(n.) [等级；度；学位]
+greedy(adj.)
+greet(vt.) [欢迎；致敬]
+green(adj.n.adj.adv.)
+greenhouse(n.)
+housewife(n.)
+household(n.adj.) [全家人;adj.家庭的]
+upward(adj.adv.)
+downward(adv.adj.)
+afterward(s)(adv.)
+afterward(adv.)
+backward(adj.adv.)
+inward(adv.adj.n.)
+outward(adj.adv.n.)
+toward(s)(prep.adj.)
+eastward(adv.adj.n.)
+reward(n.vt.) [报酬；报答]
+award(n.vt.) [奖品；判决]
+awkward(adj.) [尴尬的]
+wardrobe(n.) [衣柜；行头]
+sword(n.) [刀，剑]
+software(n.)
+hardware(n.)
+hardship(n.) [困苦；苦难]
+harden(vi.vt.) [变硬，变坚固]
+aware(adj.) [意识到的]
+warmth(n.)
+worm(n.vi.vt.) [虫，蠕虫]
+warfare(n.)
+ship(n.vi.vt.)
+worship(vt.vi.n.) [崇拜；礼拜]
+membership(n.) [资格；成员资格]
+member(n.)
+leadership(n.) [领导能力]
+leader(n.)
+leading(adj.n.)
+mislead(vt.)
+relationship(n.) [关系；关联]
+relation(n.)
+relate(vi.vt.)
+relativity(n.) [相对论；相关性]
+relative(n.adj.)
+relax(vi.vt.)
+relay(n.vi.vt.)
+scholarship(n.)
+scholar(n.)
+school(n.vt.)
+ownership(n.)
+owner(n.)
+town(n.)
+downtown(adj.adv.n.)
+brown(n.adj.vi.vt.)
+crown(n.vt.)
+drown(vi.vt.)
+frown(n.vi.vt.)
+unknown(adj.n.)
+well-known(adj.)
+workshop(n.)
+worker(n.)
+workman(n.)
+framework(n.)
+frame(n.vi.vt.adj.)
+network(n.)
+net(n.adj.vi.vt.)
+meanwhile(adv.n.)
+means(n.)
+meaning(n.adj.)
+measure(vi.vt..n.)
+sure(adj.adv.)
+leisure(n.adj.)
+ensure(vt.)
+assure(vt.)
+pressure(n.vt.)
+exposure(n.)
+expose(vt.)
+export(vi.vt.n.)
+treasure(n.vt.)
+stream(n.vi.vt.)
+steam(n.vi.vt.adj.)
+steamer(n.)
+steak(n.)
+steady(adj.adv.n.vi.vt.)
+instead(adv.)
+tea(n.vi.vt.)
+tear(vi.vt.n.)
+congress(n.)
+progress(n.vi.)
+progressive(adj.n.)
+aggressive(adj.)
+grasp(vi.vt.n.)
+gratitude(n.)
+grateful(adj.)
+congratulate(vt.)
+congratulation(n.)
+attitude(n.)
+altitude(n.)
+constitution(n.)
+constitute(vt.)
+substitute(vi.vt.n.)
+institution(n.)
+institute(n.vt.)
+install(vt.)
+installation(n.)
+instinct(n.adj.)
+instruct(vt.)
+instruction(n.adj.)
+instant(n.adj.)
+constant(adj.n.)
+withstand(vi.vt.)
+misunderstand(vt.)
+understanding(n.adj.)
+outstanding(adj.n.)
+notwithstanding(prep.adv.conj.)
+standard(n.adj.)
+view(n.vt.)
+review(vi.vt.n.)
+interview(n.vt.)
+interact(vi.vt.n.)
+interaction(n.)
+interval(n.)
+interrupt(vi.vt.n.)
+bankrupt(adj.n.vt.)
+interpret(vi.vt.)
+interpretation(n.)
+interior(adj.n.)
+international(adj.n.)
+interfere(vi.vt.)
+intermediate(adj.n.vi.)
+immediate(adj.)
+immediately(adv.conj.)
+interest(n.vt.)
+tend(vi.vt.)
+tender(adj.n.vi.vt.)
+attend(vi.vt.)
+intend(vt.vi.)
+extend(vi.vt.)
+pretend(vi.vt.adj.)
+tendency(n.)
+painter(n.)
+painting(n.)
+pain(n.vi.vt.)
+painful(adj.)
+lecture(n.vi.vt.)
+elect(vi.vt.n.adj.)
+electric(adj.n.)
+electrical(adj.)
+electricity(n.)
+electronic(adj.n.)
+electron(n.)
+election(n.)
+dialect(n.adj.)
+reflect(vi.vt.)
+reflection(n.)
+select(vi.vt.adj.n.)
+selection(n.)
+collect(vi.vt.adj.adv.)
+collective(adj.n.)
+collection(n.)
+neglect(vt.n.)
+sector(n.vt.)
+section(n.vi.vt.)
+insect(n.)
+injection(n.)
+reject(vt.n.)
+adjective(n.adj.)
+project(n.vi.vt.)
+subject(n.adj.vt.)
+subjective(adj.)
+object(n.vi.vt.)
+objective(n.adj.)
+objection(n.)
+connect(vi.vt.)
+connection(n.)
+direct(adj.adv.vi.vt.)
+indirect(adj.)
+direction(n.)
+director(n.)
+erect(vi.vt.adj.)
+correct(adj.vi.vt.)
+architect(n.)
+architecture(n.)
+protect(vt.)
+protective(adj.)
+protection(n.)
+detect(vt.)
+detective(n.adj.)
+detection(n.)
+spectacular(adj.)
+aspect(n.)
+prospect(n.vi.vt.)
+prospective(adj.n.)
+perspective(n.adj.)
+respect(n.vt.)
+respective(adj.)
+suspect(n.vi.vt.adj.)
+inspect(vi.vt.)
+expect(vt.vi.)
+unexpected(adj.)
+expectation(n.)
+affect(vt.vi.n.)
+affection(n.)
+defect(n.vi.)
+effect(n.vt.)
+effective(adj.)
+infect(vt.)
+perfect(adj.n.vt.)
+factor(n.vi.vt.)
+manufacture(vi.vt.n.)
+manufacturer(n.)
+manual(n.adj.)
+fiction(n.)
+insert(vt.n.)
+desert(n.vi.vt.adj.)
+dessert(n.)
+sort(n.vi.vt.)
+resort(vi.n)
+short(adj.adv.n.)
+shortly(adv.)
+shortage(n.)
+shortcoming(n.)
+shoot(vi.vt.n.)
+shot(n.adj.)
+shoe(n.vt.)
+shock(vi.vt.n.adj.)
+shore(n.vt.)
+log(n.vi.vt.)
+dialog(n.)
+catalog(n.vi.vt.)
+slogan(n.)
+logic(n.adj.)
+logical(adj.)
+philosophy(n.)
+philosopher(n.)
+physiological(adj.)
+physical(adj.n.)
+physician(n.)
+physicist(n.)
+psychological(adj.)
+chronological(adj.)
+chromic(adj.)
+apology(n.)
+apologize(vi.vt.)
+biology(n.)
+technology(n.)
+technique(n.)
+technician(n.)
+technical(adj.)
+attach(vi.vt.)
+tempt(vt.)
+temptation(n.)
+attempt(n.vt.)
+contempt(n.)
+temper(n.vi.vt.)
+temple(n.)
+system(n.)
+systematic(adj.)
+systematic(adj.)
+stem(n.vi.vt.)
+item(n.adj.v.)
+goods(n.)
+mankind(n.)
+kindergarten(n.)
+refuse(vi.vt.n.)
+amuse(vt.)
+accuse(vt.vi.)
+confuse(vt.)
+blouse(n.vi.vt.)
+spouse(n.vt.)
+rouse(vi.vt.n.)
+trousers(n.)
+pause(vi.n.)
+applause(n.)
+cause(n.vt.)
+clause(n.)
+abuse(vt.n.)
+ease(n.vi.vt.)
+cease(vi.vt.n.)
+lease(vi.vt.n.)
+release(vt.n.)
+displease(vi.vt.)
+decrease(vi.vt.n.)
+increase(vi.vt.n.)
+disease(n.vt.)
+briefcase(n.)
+chase(vi.vt.n.)
+purchase(vi.vt..n.)
+phase(n.)
+phrase(n.vt)
+laser(n.)
+gaseous(adj.)
+partial(adj.)
+particle(n.)
+participate(vi.vt.)
+particular(adj.n.)
+particularly(adv.)
+artistic(adj.)
+artist(n.)
+artificial(adj.)
+artificial leg(phr.)
+article(n.vi.vt.)
+characteristic(n.adj.)
+character(n.vt.)
+characterize(vi.vt.)
+pessimistic(adj.)
+optimistic(adj.)
+optimum(adj.n)
+option(n.)
+optional(adj.n.)
+realistic(adj.)
+realm(n.)
+really(adv.)
+reality(n.)
+realize(vt.)
+statistic(n.adj.)
+statistics(n.)
+statistical(adj.)
+static(adj.n.)
+statue(n.vt.)
+status(n.)
+sophisticated(adj.)
+dig(n.vi.vt.)
+dog(n.vt.)
+rug(n.)
+shrug(n.vi.vt.)
+struggle(n.vi.vt.)
+agency(n.)
+agent(n.adj.vt.)
+agenda(n.)
+currency(n.)
+current(adj.n.)
+curriculum(n.)
+efficiency(n.)
+efficient(adj.)
+emergency(n.adj.)
+emerge(vi.)
+frequency(n.)
+frequent(adj.vt.)
+cloth(n.adj.)
+clothe(vt.)
+clothing(n.)
+enclose(vt.)
+disclose(vt.)
+journalist(n.)
+journal(n.)
+journey(n.vi.)
+utilize(vt.)
+utility(n.adj.)
+fertilizer(n.)
+fertile(adj.)
+revelation(n.)
+reveal(vt.n.)
+reverse(vi.vt.n.adj.)
+revenue(n.)
+revenge(n.vt.vi.)
+population(n.)
+popular(adj.)
+cumulative(adj.)
+inflation(n.)
+potential(n.adj.)
+essential(adj.n.)
+initial(adj.n.vt.)
+initiative(n.adj.)
+certain(adj.pron.)
+certainly(adv.)
+container(n.)
+mountain(n.)
+retain(vt.)
+Britain(n.)
+obtain(vi.vt.)
+captain(n.vt.)
+contain(vt.vi.)
+sustain(vt.)
+curtain(n.vt.)
+attain(vt.vi.n.)
+fountain(n.)
