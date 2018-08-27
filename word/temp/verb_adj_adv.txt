@@ -1,0 +1,3 @@
+collect(vi.vt.adj.adv.)
+direct(adj.adv.vi.vt.)
+multiply(vi.vt.adj.adv.)
