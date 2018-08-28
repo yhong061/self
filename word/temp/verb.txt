@@ -1,20 +1,22 @@
-absorb(vt.)
-acknowledge(vt.)
-accomplish(vt.)
-acquire(vt.)
-afford(vt.)
-amaze(vt.)
-amuse(vt.)
-analyze(vt.)
-anticipate(vt.)
-astonish(vt.)
-assess(vt.)
-assume(vt.)
-assure(vt.)
-avoid(vt.)
-await(vt.)
-bury(vt.)
-cite(vt.)
+absorb(vt.) absorb a lot of water. 吸收
+acknowledge(vt.)  please acknowledge this text. 回复
+accomplish(vt.) accomplish my tasks. 完成
+acquire(vt.) wants to acquire a new empire. 获得
+afford(vt.) afford the branded goods for me. 负担
+amaze(vt.) the news amazes me. 震惊
+amuse(vt.) amuse the audience. 娱乐 
+analyze(vt.) analyze company's monthly finances. 分析
+anticipate(vt.) anticipate him winning the first prize 预测
+astonish(vt.) was astonishd by the big fish 使惊讶 
+assess(vt.) assess her patient's health 评估
+assume(vt.) I assume that the red team would win. 猜想
+assure(vt.) he assure his little buddy 向...保证
+avoid(vt.) avoid hitting the dog 避免
+await(vt.) await in a line 等候
+
+bury(vt.) bury them here 埋葬
+
+cite(vt.) 
 clothe(vt.)
 classify(vt.)
 confront(vt.)
@@ -30,6 +32,7 @@ conceal(vt.)
 commit(vt.)
 confirm(vt.)
 cultivate(vt.)
+
 describe(vt.)
 devote(vt.)
 depress(vt.)
@@ -46,6 +49,7 @@ disappoint(vt.)
 dissatisfy(vt.)
 discuss(vt.)
 distribute(vt.)
+
 earn(vt.)
 eliminate(vt.)
 embarrass(vt.)
@@ -64,11 +68,14 @@ expose(vt.)
 exclude(vt.)
 exert(vt.)
 execute(vt.)
+
 forbid(vt.)
 furnish(vt.)
 fulfill(vt.)
+
 generate(vt.)
 greet(vt.)
+
 ignore(vt.)
 imitate(vt.)
 imply(vt.)
@@ -83,7 +90,9 @@ instruct(vt.)
 involve(vt.)
 injure(vt.)
 include(vt.)
+
 liberate(vt.)
+
 maintain(vt.)
 memorize(vt.)
 misunderstand(vt.)
@@ -92,11 +101,13 @@ motivate(vt.)
 notify(vt.)
 occupy(vt.)
 omit(vt.)
+
 pollute(vt.)
 possess(vt.)
 provoke(vt.)
 protect(vt.)
 prohibit(vt.)
+
 refine(vt.)
 replace(vt.)
 restrain(vt.)
@@ -110,72 +121,91 @@ restrict(vt.)
 require(vt.)
 relieve(vt.)
 rid(vt.)
+
 simplify(vt.)
 specify(vt.)
 suggest(vt.)
 sustain(vt.)
 subtract(vt.)
+
 tempt(vt.)
 tolerate(vt.)
+
 undertake(vt.)
 undergo(vt.)
 unify(vt.)
 utilize(vt.)
+
 verify(vt.)
 violate(vt.)
+
 appear(vi.)
 arise(vi.)
+
 belong(vi.)
+
 cling(vi.)
 consist(vi.)
 cooperate(vi.)
 compete(vi.)
 correspond(vi.)
 create(vi.)
+
 depend(vi.)
 disagree(vi.)
+
 emerge(vi.)
 exist(vi.)
+
 happen(vi.)
+
 kneel(vi.)
+
 occur(vi.)
+
 prevail(vi.)
 proceed(vi.)
+
 rely(vi.)
+
 seem(vi.)
 sympathize(vi.)
+
 thrive(vi.)
-accumulate(vi.vt.)
-accompany(vi.vt.)
-accommodate(vi.vt.)
-achieve(vi.vt.)
-accelerate(vi.vt.)
-accept(vi.vt.)
-admire(vi.vt.)
-advertise(vi.vt.)
-advise(vi.vt.)
-admit(vi.vt.)
-adapt(vi.vt.)
-adjust(vi.vt.)
-adopt(vi.vt.)
-agree(vi.vt.)
-allow(vi.vt.)
-alter(vi.vt.)
-allocate(vi.vt.)
+
+accumulate(vi.vt.) accummulate wealth 积累
+accompany(vi.vt.) accompany my children 陪伴
+accommodate(vi.vt.) accommodate two travelers 容纳
+achieve(vi.vt.) achieve my goal 实现
+accelerate(vi.vt.) accelerate my vehicle 加速
+accept(vi.vt.) I accept your lovely gift 
+admire(vi.vt.) the general was admired for his brilliant feat 钦佩
+advertise(vi.vt.) advertise our company on TV 为...做广告
+advise(vi.vt.) advise me to use the APP 建议
+admit(vi.vt.) the boy admitted that 承认
+adapt(vi.vt.) hard to adapt to the new school 使适应
+adjust(vi.vt.) adjust the temperrature 调整
+adopt(vi.vt.) She adopt her son 收养
+agree(vi.vt.) we agree that 同意
+allow(vi.vt.) green light allow you to go 允许
+alter(vi.vt.) landscape has been alterd so much 改变 
+allocate(vi.vt.) allocate one piece of cake to each person 分配
 applaud(vi.vt.)
-appoint(vi.vt.)
-apply(vi.vt.)
-apologize(vi.vt.)
+appoint(vi.vt.) boss has appointed me 任命
+apply(vi.vt.) apply some cream to your face 涂 
+apologize(vi.vt.) want to apologize for 道歉
 approve(vi.vt.)
 assign(vi.vt.)
 assemble(vi.vt.)
 attract(vi.vt.)
 attend(vi.vt.)
 attach(vi.vt.)
+
 beg(vi.vt.)
 become(vi.vt.)
 behave(vi.vt.)
 bleed(vi.vt.)
+
 choose(vi.vt.)
 characterize(vi.vt.)
 circulate(vi.vt.)
@@ -193,6 +223,7 @@ compensate(vi.vt.)
 communicate(vi.vt.)
 conquer(vi.vt.)
 criticize(vi.vt.)
+
 deny(vi.vt.)
 decorate(vi.vt.)
 deserve(vi.vt.)
@@ -210,6 +241,7 @@ disturb(vi.vt.)
 displease(vi.vt.)
 disappear(vi.vt.)
 drown(vi.vt.)
+
 educate(vi.vt.)
 endure(vi.vt.)
 enroll(vi.vt.)
@@ -228,14 +260,17 @@ explain(vi.vt.)
 exceed(vi.vt.)
 exclaim(vi.vt.)
 exaggerate(vi.vt.)
+
 fasten(vi.vt.)
 flee(vi.vt.)
 forgive(vi.vt.)
 frighten(vi.vt.)
+
 harden(vi.vt.)
 heal(vi.vt.)
 hesitate(vi.vt.)
 heighten(vi.vt.)
+
 identify(vi.vt.)
 illustrate(vi.vt.)
 imagine(vi.vt.)
@@ -251,12 +286,16 @@ interfere(vi.vt.)
 inquire(vi.vt.)
 insure(vi.vt.)
 interpret(vi.vt.)
+
 lessen(vi.vt.)
 locate(vi.vt.)
+
 manage(vi.vt.)
 marry(vi.vt.)
 modify(vi.vt.)
+
 negotiate(vi.vt.)
+
 oblige(vi.vt.)
 obey(vi.vt.)
 observe(vi.vt.)
@@ -265,6 +304,7 @@ operate(vi.vt.)
 oppose(vi.vt.)
 organize(vi.vt.)
 overtake(vi.vt.)
+
 participate(vi.vt.)
 perceive(vi.vt.)
 penetrate(vi.vt.)
@@ -285,7 +325,9 @@ prevent(vi.vt.)
 provide(vi.vt.)
 publish(vi.vt.)
 punish(vi.vt.)
+
 qualify(vi.vt.)
+
 relate(vi.vt.)
 recognize(vi.vt.)
 recite(vi.vt.)
@@ -302,6 +344,7 @@ renew(vi.vt.)
 reflect(vi.vt.)
 refresh(vi.vt.)
 rob(vi.vt.)
+
 satisfy(vi.vt.)
 sew(vi.vt.)
 seize(vi.vt.)
@@ -321,46 +364,60 @@ suspend(vi.vt.)
 sue(vi.vt.)
 summarize(vi.vt.)
 submerge(vi.vt.)
+
 tend(vi.vt.)
 translate(vi.vt.)
 transmit(vi.vt.)
 transform(vi.vt.)
+
 uncover(vi.vt.)
 unite(vi.vt.)
 undo(vi.vt.)
 unload(vi.vt.)
+
 vary(vi.vt.)
+
 wander(vi.vt.)
 waken(vi.vt.)
 weaken(vi.vt.)
 withdraw(vi.vt.)
 withstand(vi.vt.)
 widen(vi.vt.)
-accuse(vt.vi.)
-announce(vt.vi.)
+
+accuse(vt.vi.) accuse each other 指责
+announce(vt.vi.) announce the birth of his child 宣布
 appreciate(vt.vi.)
 arrange(vt.vi.)
 argue(vt.vi.)
+
 calculate(vt.vi.)
 contain(vt.vi.)
 consume(vt.vi.)
 conclude(vt.vi.)
+
 demonstrate(vt.vi.)
 deceive(vt.vi.)
 deepen(vt.vi.)
 declare(vt.vi.)
 donate(vt.vi.)
 dominate(vt.vi.)
+
 engage(vt.vi.)
 establish(vt.vi.)
 excite(vt.vi.)
 expect(vt.vi.)
+
 govern(vt.vi.)
+
 intend(vt.vi.)
 invade(vt.vi.)
+
 loosen(vt.vi.)
+
 overcome(vt.vi.)
 owe(vt.vi.)
+
 receive(vt.vi.)
 reckon(vt.vi.)
+
 threaten(vt.vi.)

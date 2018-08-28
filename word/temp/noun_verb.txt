@@ -1,6 +1,6 @@
-abuse(vt.n.)
-abandon(n.vt.)
-accent(n.vt.)
+abuse(vt.n.) Stop abusing her. 虐待
+abandon(n.vt.) abandon her baby. 放弃
+accent(n.vt.) 
 accord(n.vi.vt.)
 account(n.vi.vt.)
 ache(n.vi.)
@@ -8,11 +8,11 @@ access(n.vt.)
 adventure(n.vi.vt.)
 address(n.vt.)
 advantage(vi.vt.n.)
-advocate(vt.n.)
-affect(vt.vi.n.)
+advocate(vt.n.) he is advocating that 提倡
+affect(vt.vi.n.) people are affected by the air pullution 影响
 age(n.vi.vt.)
 air(n.vi.vt.)
-aim(vi.vt.n.)
+aim(vi.vt.n.) aim the center of the target 瞄准
 aid(n.vi.vt.)
 alarm(n.vt.)
 allowance(vt.n.)
@@ -21,7 +21,7 @@ alloy(n.vi.vt.)
 ambition(n.vt.)
 amount(n.vi.)
 angle(n.vi.)
-annoy(vi.vt.n.)
+annoy(vi.vt.n.) he annoys me by talking 使烦恼
 anger(n.vi.vt.)
 approach(vi.vt.n.)
 appeal(vi.vt.n.)
