@@ -1029,69 +1029,64 @@ dirt(n.)
 direction(n.)
 director(n.)
 direct(adj.adv.vi.vt.)
-dislike(vt.n.)
-discourage(vt.)
-disguise(vt.n.)
-disadvantage(n.)
-dispute(n.vi.vt.)
-distinction(n.)
-distribution(n.)
-disastrous(adj.)
-disc(n.vt.)
-disgust(vt.n.)
-disease(n.vt.)
-dismiss(vi.vt.)
-disaster(n.)
-disposal(n.adj.)
-dishonour(n.vt.)
-distress(n.vt.)
-disk(n.)
-display(vi.vt.n.)
-distinguish(vi.vt.)
+dislike(vt.n.) dislike vegetables 不喜欢
+disguise(vt.n.) disguised herself as a panda 伪装
+disgust(vt.n.) what really disgust me isn't one, but a half worm in an apple 使作呕
 distance(n.vt.)
-discovery(n.)
-discard(vi.vt.n.)
 distant(adj.)
-discussion(n.)
-disclose(vt.)
 distinct(adj.)
-distract(vt.)
-discount(n.vi.vt.)
-discharge(n.vi.vt.)
-dissolve(vi.vt.n.)
-disorder(n.vt.)
-disappoint(vt.)
-disturb(vi.vt.)
-dissatisfy(vt.)
-dispose(vi.vt.n.)
-discuss(vt.)
-disagree(vi.) disagree with my opinions 意见不同
-displease(vi.vt.)
-discipline(n.vt.)
-disappear(vi.vt.)
+distinguish(vi.vt.) it's easy to distinguish the blask duck from the yellow ones 区分,使显著
+distinction(n.)
+disturb(vi.vt.) his snoring disturbs me 打扰
+distract(vt.) try to distract his attention 使分心
 district(n.)
-distribute(vt.)
+distribute(vt.) distribute the gifts to the kids 分发,配送
+distribution(n.)
+distress(n.vt.)
+disease(n.vt.)
+dismiss(vi.vt.) dismiss the employee 开除
+dishonour(n.vt.)
+disk(n.)
+disposal(n.adj.)
+dispose(vi.vt.n.) I'll dispose of the food 处理掉
+dispute(n.vi.vt.)
+displease(vi.vt.) it displease us when we smeel the man's feet 使不愉快 
+display(vi.vt.n.) display the latest laptop 展示
+disc(n.vt.)
+discard(vi.vt.n.) discard this paper into the garbage bin 丢弃
+discipline(n.vt.)
+discourage(vt.) her words discourage him 使失去信心
+discovery(n.)
+discount(n.vi.vt.)
+discuss(vt.) discuss the topic 讨论
+discussion(n.)
+disclose(vt.) disclose the classified secret to the public 公开,泄露
+discharge(n.vi.vt.)
+disorder(n.vt.)
+disagree(vi.) disagree with my opinions 意见不同
+disappoint(vt.) exam result disappointed him 使失望
+disappear(vi.vt.) make a bird disappear 消失
+disadvantage(n.)
+disastrous(adj.)
+disaster(n.)
+dissatisfy(vt.) the newly bought skirt dissatisfied her 使不满
+dissolve(vi.vt.n.) this tablet dissolved in water (使)溶解
 ditch(n.vt.vi.)
 dive(n.vi.)
-divine(adj.vi.vt.n.)
-divide(vi.vt.n.)
-division(n.)
 diverse(adj.)
+divine(adj.vi.vt.n.)
+divide(vi.vt.n.) the apple is divided into two equal parts 划分,分配
+division(n.)
 divorce(n.vi.vt.)
-
-
-
-
-
 
 document(n.vt.)
 dock(n.vi.vt.)
 dog(n.vt.)
 doll(n.vt.)
-dominant(adj.n.)
 domestic(adj.n.)
-dominate(vt.vi.)
-donate(vt.vi.)
+dominant(adj.n.)
+dominate(vt.vi.) this brand dominates the market 占领
+donate(vt.vi.) donate blood 捐献
 donation(n.)
 donkey(n.)
 door(n.)
@@ -1109,27 +1104,25 @@ dozen(n.adj.)
 
 
 dramatic(adj.)
-draw(vi.vt.n.)
+draw(vi.vt.n.) drawing picture 画画
 drawer(n.)
 draft(n.vi.vt.adj.)
-drain(vi.vt.n.)
-drag(vi.vt.n.)
+drain(vi.vt.n.) the raw sewage drains into the river 排出
+drag(vi.vt.n.) don't drag me in 拖,拽
 dragon(n.)
 draught(n.vt.adj.)
 drama(n.)
 drawing(n.)
-dread(vi.vt.adj.n.)
-drip(vi.vt.n.)
-drill(n.vi.vt.)
-drive(n.vi.vt.)
-drift(vi.vt.n.)
-drown(vi.vt.)
-drop(vi.vt.n.)
+dread(vi.vt.adj.n.) dread the ghost 畏惧
+drip(vi.vt.n.) the tap is dripping (液体)滴下
+drill(n.vi.vt.) he drills into the wall 钻孔
+drive(n.vi.vt.) driving new car 驾车 
+drift(vi.vt.n.) the boat is drifting down the river 漂流
+drown(vi.vt.) help me, I'm drowning 淹没
+drop(vi.vt.n.) drop on my face 落下
 drought(n.)
 drum(vi.vt.n.)
 drunk(adj.)
-
-
 
 due(adj.adv.n.)
 dull(adj.vi.vt.)
@@ -1141,25 +1134,21 @@ durable(adj.n.)
 dust(n.vi.vt.)
 dusk(n.vi.vt.adj.)
 
-
 dwelling(n.)
 
-
-dye(vi.vt.n.)
+dye(vi.vt.n.) want to dye my hair 染色
 dying(adj.n.)
 dynamic(adj.n.)
-
 
 eagle(n.)
 eager(adj.)
 earthquake(n.)
 earnest(adj.n.)
-earn(vt.)
+earn(vt.) earn his pay 获得,赚的
 ear(n.vi.)
 eastward(adv.adj.n.)
 eastern(adj.n.)
 ease(n.vi.vt.)
-
 
 economical(adj.)
 economics(n.)
@@ -1168,11 +1157,10 @@ economy(n.)
 
 edge(n.vi.vt.)
 editorial(n.adj.)
-edit(vt.n.)
+edit(vt.n.) edit the film 剪辑,编辑
 edition(n.)
 editor(n.)
-educate(vi.vt.)
-
+educate(vi.vt.) my children were educated in public schools 教育
 
 effort(n.)
 efficiency(n.)
@@ -1195,7 +1183,7 @@ elaborate(adj.vi.vt.)
 elbow(n.vt.)
 elderly(adj.)
 elevator(n.)
-elect(vi.vt.n.adj.)
+elect(vi.vt.n.adj.) have the right to elect our government 选举
 electricity(n.)
 electric(adj.n.)
 election(n.)
@@ -1206,61 +1194,60 @@ element(n.)
 eleven(num.n.adj.)
 elementary(adj.)
 electron(n.)
-eliminate(vt.)
+eliminate(vt.) eliminate the weeds 消灭,淘汰
 elsewhere(adv.)
 else(adv.adj.)
 
 email(n.vt.)
 embassy(n.)
-embarrass(vt.)
-embrace(vi.vt.n.)
+embarrass(vt.) he embarrassed himself by farting in front of a lady 使尴尬
+embrace(vi.vt.n.) she embraced her mother 拥抱
 emergency(n.adj.)
-emerge(vi.)
-emit(vt.)
+emerge(vi.) the dolphin emerged from the sea 浮现,冒出
+emit(vt.) emit a ray of light 发射
 emotion(n.)
 emotional(adj.)
-employer(n.)
-emphasize(vt.)
+emphasise(vt.) want to emphasize how important it is for us 强调
+emphasize(vt.) 同emphasise 
 employment(n.)
+employer(n.)
 employee(n.)
+employ(vt.n.) emply a babysitter to look after her childern 雇佣
 empty(adj.n.vi.vt.)
 empire(n.)
-employ(vt.n.)
 emperor(n.)
-emphasis(n.)
-emphasise(vt.)
 
-enable(vt.)
-enclose(vt.)
-encounter(vi.vt.n.)
-encourage(vt.)
+enable(vt.) enable me to be healty 使可能
+enclose(vt.) hate being enclosed in this cage 围住,圈起
+encounter(vi.vt.n.) encounter my favorite star 偶遇
+encourage(vt.) encourage her 鼓励
 ending(n.)
-endure(vi.vt.)
+endure(vi.vt.) have to endure a bunch of weird smells 忍受
 endurance(n.)
 endless(adj.)
 enemy(n.adj.)
 energetic(adj.)
-enforce(vi.vt.)
+enforce(vi.vt.) the policeman enforces the law 执行
 engineer(n.vi.vt.)
 engineering(n.)
 English(n.adj.vt.)
-engage(vt.vi.)
+engage(vt.vi.) they are engaged 订婚
 engine(n.vi.vt.)
-enhance(vt.)
-enlarge(vi.vt.)
+enhance(vt.) eating spinach will enhance his power 提高,加强
+enlarge(vi.vt.) enlarge the words 放大
 enormous(adj.)
-enrich(vt.)
-enroll(vi.vt.)
-ensure(vt.)
+enrich(vt.) smart phone have enriched our life 使丰富
+enroll(vi.vt.) we have to enroll in classes 入学,加入
+ensure(vt.) the swimming laps could ensure the safety  确保
 enthusiastic(adj.)
 enterprise(n.)
-entry(n.)
+entertain(vi.vt.) his talk show entertained us 使娱乐,招待
 entertainment(n.)
+entry(n.)
 entire(adj.)
-entertain(vi.vt.)
 entrance(n.vt.)
 enthusiasm(n.)
-entitle(vt.)
+entitle(vt.) he entitled the book 'My Book' 给(书)提名
 envelope(n.)
 envy(n.vi.vt.)
 environment(n.)
@@ -1270,30 +1257,29 @@ episode(n.)
 
 equipment(n.)
 equivalent(adj.n.)
-equip(vt.)
+equip(vt.) we equip our soldiers with the best weapons 装备,配备
 equality(n.)
 equal(adj.n.vt.)
 equation(n.)
 
 era(n.)
-erect(vi.vt.adj.)
+erect(vi.vt.adj.) the worker are busy erecting the building 建立,建造
 erosion(n.)
 error(n.)
 
-escape(vi.vt.n.)
+escape(vi.vt.n.) sb. managed to escape from the rabbit 逃跑,避免
 essential(adj.n.)
 essay(n.vt.)
 establishment(n.)
-establish(vt.vi.)
+establish(vt.vi.) try to establish links 建立
 estate(n.)
-estimate(vi.vt.n.)
+estimate(vi.vt.n.) estimate the cost of building a house 估价
 
 eternal(adj.)
 ethnic(adj.)
 
-
-evaporate(vi.vt.)
-evaluate(vi.vt.)
+evaporate(vi.vt.) the water is starting to evaporate 蒸发,失去水分
+evaluate(vi.vt.) they evaluate our performance 评价,评估
 everywhere(adv.n.)
 everyday(adj.n.)
 eventually(adv.)
@@ -1306,11 +1292,10 @@ evidently(adv.)
 evident(adj.)
 evidence(vt.n.)
 evolution(n.)
-evolve(vi.vt.)
+evolve(vi.vt.) the human race continues to evolve 使进化
 
-
-examine(vi.vt.)
-exaggerate(vi.vt.)
+examine(vi.vt.) 
+exaggerate(vi.vt.) the man exaggerates how big his muscles are 夸大,夸张
 exact(adj.vi.vt.)
 exception(n.)
 except(prep.vt.vi.conj.)
