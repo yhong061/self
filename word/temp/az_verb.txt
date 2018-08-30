@@ -1294,82 +1294,81 @@ evidence(vt.n.)
 evolution(n.)
 evolve(vi.vt.) the human race continues to evolve 使进化
 
-examine(vi.vt.) 
+examine(vi.vt.) take my doh to the vet to be examined 检查 
 exaggerate(vi.vt.) the man exaggerates how big his muscles are 夸大,夸张
 exact(adj.vi.vt.)
 exception(n.)
 except(prep.vt.vi.conj.)
 excessive(adj.)
+exceed(vi.vt.) exceed the maximum safe speed 超过
 exceedingly(adv.)
-exclude(vt.)
+excess(adj.n.)
 excursion(n.)
 exclusively(adv.)
-excite(vt.vi.)
+exclude(vt.) the ugly duckling was excluded by his peers 排挤,驱逐
 exclusive(adj.n.)
-exchange(vt.vi.n.)
-exceed(vi.vt.)
-exclaim(vi.vt.)
-excess(adj.n.)
+exclaim(vi.vt.) "Come on, let's go!" the kids exclaimed 呼叫,惊叫
+exchange(vt.vi.n.) exchange ideas 交换,交流
 excitement(n.)
+excite(vt.vi.) Shopping excites girls 使兴奋
 exciting(adj.)
 exercise(vi.vt.n.)
-exert(vt.)
-execute(vt.)
+exert(vt.) I exerted all my strength to lift all the boxes 运用,发挥
+execute(vt.) the pathetic bird was exexuted by the cruel hunter 处决,执行
 executive(n.adj.)
-exhaust(n.vi.vt.)
+exhaust(n.vi.vt.) going after the sun exhausted Kuafu 使精疲力尽
 exhibition(n.)
 exhibit(n.vi.vt.)
 exit(n.vi.)
 existence(n.)
-exist(vi.)
-expert(n.adj.vt.)
-exploit(n.vt.)
-expose(vt.)
-explosive(adj.n.)
+exist(vi.) Do aliens exist on other planets? 存在,生存
 expression(n.)
-explode(vi.vt.)
-expand(vi.vt.)
+express(adj.n.vt.)
+expand(vi.vt.) the balloon expands 膨胀,扩大
+expansion(n.)
 expedition(n.)
 expectation(n.)
-explore(vi.vt.)
-express(adj.n.vt.)
-expansion(n.)
-experimental(adj.)
-export(vi.vt.n.)
-explanation(n.)
+expect(vt.vi.) the couple is expecting a baby 期待
 expense(n.vi.vt.)
-explain(vi.vt.)
-explosion(n.)
-expect(vt.vi.)
-experiment(n.vi.)
-exposure(n.)
 experience(n.vt.)
-extreme(adj.n.)
-extend(vi.vt.)
+experiment(n.vi.)
+experimental(adj.)
+expert(n.adj.vt.)
+export(vi.vt.n.) export local goods 出口,输出
+exposure(n.)
+expose(vt.) Some cement fall from the wall, leaving the bricks exposed 暴露,揭露
+explanation(n.)
+explain(vi.vt.) let me explain to you how this work 解释,说明
+explore(vi.vt.) explore a newly found tomb 探险,尝试
+explosion(n.)
+explosive(adj.n.)
+exploit(n.vt.)
+explode(vi.vt.) watch out! the gas tank is going to explode 爆炸
+extent(n.)
+extend(vi.vt.) the lane extended for a few miles 延伸,扩展
 extensive(adj.)
-extra(adj.adv.n.)
+extension(n.)
 exterior(n.adj.)
 external(adj.n.)
-extension(n.)
+extra(adj.adv.n.)
+extreme(adj.n.)
 extraordinary(adj.)
-extent(n.)
 
 eye(n.vt.)
 eyesight(n.)
-
 
 fabric(n.)
 faculty(n.)
 facility(n.)
 factor(n.vi.vt.)
-fade(vi.vt.adj.n.)
+fade(vi.vt.adj.n.) the trees were faded away into the mist 逐渐消失
 Fahrenheit(n.adj.)
 faithful(adj.)
 failure(n.)
 fairy(n.adj.)
 faith(n.)
 fairly(adv.)
-faint(vi.n.adj.)
+faint(vi.n.adj.) the hot weather made him faint 晕倒
 fake(adj.n.vi.vt.)
 false(adj.adv.)
 famine(n.)
@@ -1382,7 +1381,7 @@ farther(adv.adj.)
 fare(n.vi.)
 farmer(n.)
 farewell(n.adj.int.)
-fasten(vi.vt.)
+fasten(vi.vt.) help me fasten my seat belt 扎牢,扣住
 fascinating(adj.)
 fashionable(adj.)
 fashion(n.vt.)
@@ -1397,9 +1396,6 @@ favor(n.vt.)
 favorable(adj.)
 favourable(adj.n.)
 
-
-
-
 feasible(adj.)
 feature(n.vi.vt.)
 feather(n.vi.vt.)
@@ -1413,10 +1409,7 @@ fence(n.vi.vt.)
 fertile(adj.)
 fertilizer(n.)
 festival(n.adj.)
-fetch(vt.vi.n.)
-
-
-
+fetch(vt.vi.n.) "here doggy, fetch!" I shouted as i throw the ball 取来
 
 fiber(n.)
 fiction(n.)
@@ -1428,13 +1421,11 @@ figure(n.vi.vt.)
 file(n.vi.vt.)
 filter(n.vi.vt.)
 finally(adv.)
-finance(vi.vt.n.)
+finance(vi.vt.n.) finance the poor student's education 资金供给
 finding(n.)
 financial(adj.)
 fisherman(n.)
 five(num.adj.n.)
-
-
 
 flat(n.vt.vt.adj.adv.)
 flame(n.v.)
@@ -1444,14 +1435,14 @@ flavor(n.vt.)
 flesh(n.vt.vi.)
 fleet(n.adj.vi.vt.)
 flexible(adj.)
-flee(vi.vt.)
+flee(vi.vt.) Jack flees from the savages who want to eat his flesh 避开,逃离
 flight(n.vi.vt.)
 flock(n.vi.vt.)
-float(n.vi.vt.)
-flow(vi.vt.n.)
+float(n.vi.vt.) My will power makes me float in the air 漂浮
+flow(vi.vt.n.) watch the water flow by 流动
 flour(n.vt.)
 flood(n.vi.vt.)
-flourish(vi.vt.n.)
+flourish(vi.vt.n.) Plants flourish with enough sunlight and water 繁荣,茂盛
 fluent(adj.)
 fluid(n.adj.)
 
@@ -1461,7 +1452,7 @@ focus(n.vi.vt.)
 fog(n.vi.vt.)
 folk(n.adj.)
 following(adj.n.)
-fold(vi.vt.n.)
+fold(vi.vt.n.) fold the pink paper 折叠
 fond(adj.)
 foolish(adj.)
 fool(n.vi.vt.adj.)
@@ -1479,16 +1470,16 @@ forefinger(n.)
 format(n.vi.vt.)
 formal(adj.n.)
 formula(n.)
-forbid(vt.)
+forbid(vt.) forbid smoking in the restaurant 禁止
 formation(n.)
 forty(n.adj.)
 forth(adv.)
 fortunately(adv.)
-forgive(vi.vt.)
+forgive(vi.vt.) Please forgive me 原谅
 fortnight(n.)
 forehead(n.)
 forge(n.vi.vt.)
-force(n.vt.)
+force(n.vt.) she forced he to kiss her 强迫
 foster(adj.vt.)
 foundation(n.)
 fountain(n.)
@@ -1506,40 +1497,35 @@ frank(adj.n.vt.)
 freight(n.vt.)
 frequent(adj.vt.)
 freedom(n.)
-freeze(vi.vt.n.)
+freeze(vi.vt.n.) when everything freezes 冻结,是结冰
 frequency(n.)
 friction(n.)
 friend(n.vt.)
-frighten(vi.vt.)
+frighten(vi.vt.) he jumped out of the closet and frightened me 使害怕
 frost(n.vi.vt.)
 frontier(n.adj.)
 frown(n.vi.vt.)
 frog(n.vi.)
 fruitful(adj.)
-frustrate(vi.vt.adj..)
-fry(vi.vt.n.)
+frustrate(vi.vt.adj..) The endless amount of work frustrate the workers 使灰心
+fry(vi.vt.n.) It's easy to fry eggs 油煎,油炸
 
 
 
 fuel(vi.vt.n.)
-fulfill(vt.)
+fulfill(vt.) fulfill her dream of becoming ... 实现
 funeral(n.adj.)
 function(n.vi.)
 fund(n.vt.)
 fundamental(adj.n.)
 furnace(n.)
-furniture(n.)
 further(adj.adv.vt.)
-furnish(vt.)
+furnish(vt.) We furnished our room with very expenxive furniture (用家具等)布置
+furniture(n.)
 fur(n.vt.)
 fuss(n.vi.vt.)
 
-
-
-
-
-
-gain(vi.vt.n.)
+gain(vi.vt.n.) No pain, no gain 获得
 gallery(n.vi.vt.)
 gallon(n.)
 gang(n.vi.vt.)
@@ -1551,16 +1537,13 @@ garbage(n.)
 gasoline(n.)
 gaseous(adj.)
 gas(n.vi.vt.)
-gather(vi.vt.n.)
+gather(vi.vt.n.) The students are gathering for the flag-raising ceremony 集合,采集
 gauge(n.vt.)
 gay(n.adj.)
-gaze(vi.n.)
-
-
-
+gaze(vi.n.) he gazed deep into her eyes with adoration 凝视
 
 gear(n.vi.vt.adj.)
-generate(vt.)
+generate(vt.) riding the bicycle to generate electricity 产生,发出(电热光力等)
 genius(n.)
 genuine(adj.)
 gentle(adj.n.vt.)
@@ -1574,16 +1557,12 @@ German(adj.n.)
 germ(n.vi.)
 gesture(n.vi.vt.)
 
-
-
 ghost(n.vt.vi.)
 
 giant(adj.n.)
 girl(n.)
 
-
-
-glance(vi.vt.n.)
+glance(vi.vt.n.) I glanced at her 瞥一下
 glimpse(n.vi.vt.)
 glory(n.vi.)
 glorious(adj.)
@@ -1593,56 +1572,50 @@ glove(n.vt.)
 glow(n.vi.)
 glue(n.vt.)
 
-
-
 goal(n.vi.)
 goat(n.)
 golf(n.vi.)
 goods(n.)
 goodness(n.int.)
-govern(vt.vi.)
+govern(vt.vi.) govern our kingdom 统治,管理
 governor(n.)
-
-
 
 grandfather(n.vt.)
 gratitude(n.)
 grave(adj.n.vt.)
 gray(adj.n.vi.vt.)
 graph(n.vt.)
-grasp(vi.vt.n.)
-graduate(vi.vt.n.adj.)
+grasp(vi.vt.n.) He grasped() the award firmly 抓住,理解
+graduate(vi.vt.n.adj.) graduated from the school 毕业,取得资格
 gram(n.)
 grade(n.vi.vt.)
 grand(adj.n.)
 grain(n.vi.vt.)
 grateful(adj.)
 grandmother(n.vi.vt.)
-grant(vi.vt.n.)
+grant(vi.vt.n.) grants the blind premission to bring guide dogs on borad 许可,授予
 grammar(n.)
 grape(n.)
 graceful(adj.)
 gradual(adj.n.)
-grab(vi.vt.n.)
+grab(vi.vt.n.) grab your fingers 抓取
 gravity(n.)
 green(adj.n.adj.adv.)
 greedy(adj.)
 greenhouse(n.)
 Greek(n.adj.)
-greet(vt.)
-grind(vi.vt.n.)
-grip(vi.vt.n.)
+greet(vt.) take his hat off to great people 问候,招呼
+grind(vi.vt.n.) This tool can grind the beans into a powder 磨碎,折磨
+grip(vi.vt.n.) Don't lost your grip on the mountain 握紧,抓牢
 grim(adj.)
 growth(n.)
 gross(adj.n.adj.)
 grocer(n.)
 
-
-
 guard(n.vi.vt.)
-guarantee(vt.n.)
+guarantee(vt.n.) using This App guarantees that you will pass your exam 保证
 guilty(adj.)
-guide(n.vi.vt.)
+guide(n.vi.vt.) The woman guides the elderly to the tourist spot 给...导游
 guitar(n.vi.)
 guidance(n.)
 guideline(n.)
@@ -1650,32 +1623,28 @@ gulf(n.vt.)
 gum(n.vt.)
 guy(n.vi.vt.)
 
-
-
-
 gymnasium(n.)
 gym(n.)
 
-
 hair(n.vi.vt.adj.)
-halt(vi.vt.n.)
+halt(vi.vt.n.) You should halt() when you see a policeman make this gesture 停止,止步
 hammer(n.vi.vt.)
-hang(vi.vt.n.)
+hang(vi.vt.n.) The giraffe tried to hang himself  吊死,悬挂 
 handle(n.vi.vt.)
 handy(adj.)
 handbag(n.)
 handwriting(n.)
 handful(n.)
 handkerchief(n.)
-happen(vi.)
+happen(vi.) how did this horrible accident happen 发生,出现
 harm(n.vt.)
 hardware(n.)
 harbor(n.vi.vt.)
 hardship(n.)
 harmful(adj.)
-harden(vi.vt.)
+harden(vi.vt.) This mixture hardens after a few hours. (使)变硬,(使)坚强
 harmony(n.)
-harvest(vi.vt.n.)
+harvest(vi.vt.n.) harvest his crop for market 收割
 harness(n.vt.)
 harsh(adj.)
 haste(n.vi.vt.)
@@ -1683,20 +1652,17 @@ hatred(n.)
 hay(n.vi.vt.)
 hazard(n.vt.)
 
-
-
-
 heading(n.)
 headline(n.vt.)
 headquarters(n.)
 headmaster(n.)
 heap(n.vi.vt.)
-heal(vi.vt.)
+heal(vi.vt.) the doctor's treatment healed my hand back to full health 治愈
 hearing(n.)
-heave(vi.vt.n.)
+heave(vi.vt.n.) let's all heave it up at the same time 用力举起,掷扔
 hedge(n.vi.vt.)
 heel(n.vi.vt.)
-heighten(vi.vt.)
+heighten(vi.vt.) the gloomy weather heightened the horrible stmosphere int the graveyard 加强,增加
 heir(n.)
 hello(n.int.)
 hell(n.vi.int.)
@@ -1709,23 +1675,15 @@ heroic(adj.n.)
 heritage(n.)
 herd(n.vi.vt.)
 herself(pron.)
-hesitate(vi.vt.)
+hesitate(vi.vt.) I hesitated when my boyfriend showed me the ring 犹豫,含糊
 
-
-
-
-highlight(vt.n.)
+highlight(vt.n.) You should highlight  all the most important. 使突出,强调
 highway(n.)
 hillside(n.)
 hint(n.vi.vt.)
 hip(n.adj.)
-hire(vi.vt.n.)
+hire(vi.vt.n.) you're hired 雇佣,租借
 historic(adj.)
-
-
-
-
-
 
 hobby(n.)
 hole(n.vi.vt.)
@@ -1751,13 +1709,8 @@ housewife(n.)
 household(n.adj.)
 housing(n.)
 
-
-
-
-
-
 humorous(adj.)
-hum(vi.vt.n.int.)
+hum(vi.vt.n.int.) I can't sleep when the fly is humming around my ear 发出嗡嗡声
 humble(adj.vt.)
 humor(n.vt.)
 humanity(n.)
@@ -1766,44 +1719,32 @@ hunt(n.vi.vt.)
 hurricane(n.)
 hut(n.vt.vi.)
 
-
-
-
 hydrogen(n.)
-
-
-
 
 iceberg(n.)
 
 identical(n.adj.)
 identity(n.)
-identify(vi.vt.)
+identify(vi.vt.) Your fingerprints are so unique that they can help the police to identify you 识别,认出
 ideal(adj.n.)
 identification(n.)
 idle(adj.vi.vt.)
 
-
-
 ignition(n.)
 ignorant(adj.)
-ignore(vt.)
+ignore(vt.) the two sisters ignore the short guy and carry on talking 忽视,不理
 ignorance(n.)
 
-
-
-
-
-illustrate(vi.vt.)
+illustrate(vi.vt.) Our manager illustrated the sales with colorful charts. 举例说明,图解
 illusion(n.)
 illustration(n.)
 illegal(adj.n.)
 
-imagine(vi.vt.)
+imagine(vi.vt.) She is imagining() herself wearing a pretty dress 料想,设想
 imaginative(adj.)
 imagination(n.)
 imaginary(adj.)
-imitate(vt.)
+imitate(vt.) The little girl imitate her mother when she exercises. 模仿
 imitation(n.adj.)
 immune(n.adj.)
 immediately(adv.conj.)
@@ -1811,36 +1752,36 @@ immense(adj.)
 immediate(adj.)
 immigrant(n.adj.)
 impatient(adj.)
-imply(vt.)
+imply(vt.) The little boy implied his craving for this cherry. 意味着,暗示
 implication(n.)
-improvement(n.)
-impression(n.)
 impact(n.vi.vt.)
-impose(vi.vt.)
-importance(n.)
-improve(vi.vt.)
-impress(vi.vt.n.)
-import(vi.vt.n.)
-impressive(adj.)
-imperative(adj.n.)
+improve(vi.vt.) her English improved a lot 改善,增加
+improvement(n.)
+impose(vi.vt.) impose her ideas on me 把...强加, 强制实行
 impossible(adj.n.)
+importance(n.)
+import(vi.vt.n.) import goods 进口
+impress(vi.vt.n.) the magician impressed the audience with his amazing tricks 使有印象 
+impressive(adj.)
+impression(n.)
+imperative(adj.n.)
 implement(n.vt.)
 
-increasingly(adv.)
 incident(n.adj.)
 income(n.)
 incredible(adj.)
+increasingly(adv.)
+increase(vi.vt.n.) Profits are increasing every year 增加,提高
 incline(n.vi.vt.)
-increase(vi.vt.n.)
-include(vt.)
+include(vt.) include everyone 包含
 indoor(adj.)
 individual(adj.n.)
 indeed(adv.int.)
 industrial(adj.n.)
 industry(n.)
-indicate(vt.)
+indicate(vt.) Can you guess what the graph indicates? 表明,显示
 indifferent(adj.)
-induce(vt.)
+induce(vt.) The leader gives a speech to induce his followers. 引导,劝诱
 index(n.vi.vt.)
 independence(n.)
 independent(adj.n.)
@@ -1850,107 +1791,98 @@ indicative(adj.n.)
 indispensable(adj.n.)
 indoors(adv.)
 inevitable(adj.)
-inferior(adj.n.)
 influential(adj.n.)
 influence(n.vt.)
+infer(vi.vt.) The detective inferred from the footprints that the criminal was in the box. 推理,推断
 inference(n.)
-infer(vi.vt.)
-infect(vt.)
-inform(vi.vt.)
+inferior(adj.n.)
+infect(vt.) You are sick! Out the mask on or you will infect others. 传染,受影响
+inform(vi.vt.) Please inform() us of the news as soon as you konw. 通知,向...报告
 inflation(n.)
 infant(n.adj.)
 infinite(adj.n.)
 ingredient(n.adj.)
-inherit(vi.vt.)
+inherit(vi.vt.) The baby inherited his father's curly hair. 经遗传而得(特性等)
 inhabitant(n.)
 initiative(n.adj.)
 initial(adj.n.vt.)
 injection(n.)
-injure(vt.)
+injure(vt.) he injured his leg 伤害,损害
 injury(n.)
 inland(adv.adj.n.)
 innocent(adj.n.)
 inner(n.adj.)
 inn(n.vi.)
 input(n.vt.)
-inquire(vi.vt.)
+inquire(vi.vt.) "what is your name? " She inquired. 打听,询问
 inquiry(n.)
 installation(n.)
+install(vt.) install a celling fan 安装,使就职
 institution(n.)
 insurance(n.)
-insert(vt.n.)
-inspect(vi.vt.)
-instruction(n.adj.)
+insert(vt.n.) insert you credit card into the ATM 插入,嵌入
+inspect(vi.vt.) I had my mechanic inspect the car before I bought it. 检查,审查
 instead(adv.)
-install(vt.)
-insist(vi.vt.)
+insist(vi.vt.) His mother insists that he should put on his warm pants. 坚持
 insight(n.)
-instrumental(adj.n.)
-instrument(n.)
 insect(n.)
 instinct(n.adj.)
-inspire(vt.)
-instruct(vt.)
-insult(vt.n.)
-insure(vi.vt.)
+inspire(vt.) My mom inspired me to become an astronaut from an early age. 激发,使生灵感
+instruct(vt.) My mom instructs me how to play golf. 教,指导
+instruction(n.adj.)
+instrumental(adj.n.)
+instrument(n.)
+insult(vt.n.) It doesn't help to insult other drivers. 侮辱,凌辱
+insure(vi.vt.) he insures the cars against traffic accidents 保险,确保
 instant(n.adj.)
 institute(n.vt.)
-interaction(n.)
-intend(vt.vi.)
+intense(adj.)
+intend(vt.vi.) what do you intend() to do 想要,打算
+intellectual(n.adj.)
+intelligent(adj.)
+intelligence(n.)
+introduce(vt.) Students will introduce themselves on the first day at school. 介绍
+introduction(n.)
 interview(n.vt.)
 interval(n.)
-interrupt(vi.vt.n.)
-intense(adj.)
+interrupt(vi.vt.n.) Do not interrupt() me 打扰,打断
+interpret(vi.vt.) I interpreted his words into English 口译,解释
 interpretation(n.)
-intellectual(n.adj.)
-interact(vi.vt.n.)
-introduction(n.)
+interact(vi.vt.n.) Besides the performance, he also interact well with his fans. 互动,互相作用
+interaction(n.)
 interior(adj.n.)
-introduce(vt.)
 international(adj.n.)
-intelligent(adj.)
-intensity(n.)
-interfere(vi.vt.)
+interfere(vi.vt.) Don't interfere with me when I Play chess 妨碍,干涉
 intermediate(adj.n.vi.)
-intensive(adj.n.)
 interest(n.vt.)
+intensive(adj.n.)
+intensity(n.)
 intention(n.)
-intelligence(n.)
 intimate(adj.n.vt.)
-interpret(vi.vt.)
 invariably(adv.)
-invest(vi.vt.)
 invisible(adj.)
-invite(vt.n.)
-invade(vt.vi.)
-invent(vt.)
-involved(adj.)
-investigate(vi.vt.)
+invite(vt.n.) invite us in to have a look at the house 邀请
+invitation(n.)
+invade(vt.vi.) The aggressive emperor invaded other countries 侵略
+invent(vt.) Thomas Edison invented the light bulb 发明
 inventor(n.)
 invention(n.)
-involve(vt.)
-invitation(n.)
+involve(vt.) I involved myself in working with them 牵涉,卷入
+involved(adj.)
+invest(vi.vt.) I decided to invest in the housing market 投资,投入
 investment(n.)
+investigate(vi.vt.) The detective investigates the ground, hoping to learn something about the case. 调查,研究
 invasion(n.)
 inward(adv.adj.n.)
 
-
-
-
-iron(vi.vt.adj.n.)
+iron(vi.vt.adj.n.) she irons the shirts for her husband 烫(衣服),熨
 irrigation(n.)
 
-isolate(vi.vt.n.adj.)
+isolate(vi.vt.n.adj.) The island is isolated() from the rest of the world 使隔离
 issue(n.vi.vt.)
 
 Italian(adj.n.)
 item(n.adj.v.)
-
-
-
-
-
-
 
 jail(n.vt.)
 jam(n.vi.vt.)
@@ -1981,11 +1913,6 @@ journal(n.)
 journalist(n.)
 journey(n.vi.)
 
-
-
-
-
-
 judgement(n.)
 judge(vi.vt.n.)
 junior(adj.n.)
@@ -1993,21 +1920,9 @@ jungle(n.adj.)
 jury(n.adj)
 justice(n.)
 
-
-
-
-
-
-
-
-
-
 keen(adj.n.)
 kettle(n.)
 keyboard(n.vi.vt.)
-
-
-
 
 kid(n.adj.vi.vt.)
 kilometer(n.)
@@ -2015,34 +1930,17 @@ kilogram(n.)
 kingdom(n.)
 kindergarten(n.)
 kindness(n.)
-kiss(vi.vt.n.)
 kit(n.vi.vt.)
 
-
-
-
-
-kneel(vi.)
+kneel(vi.) He kneels in front of his master to show respect. 跪下,跪着
 knot(n.vi.vt.)
-
-
-
-
-
-
-
-
-
-
-
-
 
 label(n.vt.)
 labor(n.vi.vt.)
 lack(n.vi.vt.)
 ladder(n.vi.vt.)
 lad(n.)
-lag(vi.vt.n.adj.)
+lag(vi.vt.n.adj.) The boss lagged behind his secretary while chasing the aircraft. 落后,缓慢进行
 lamb(n.vi.vt.)
 lane(n.)
 landscape(n.vi.vt.)
@@ -2055,7 +1953,7 @@ latter(adj.)
 later(adv.adj.)
 lately(adv.)
 laughter(n.)
-launch(vi.vt.n.)
+launch(vi.vt.n.) The dinosaur launched a rocket that carried him away from disaster. 发射,开始从事
 laundry(n.)
 lavatory(n.)
 lawn(n.)
@@ -2064,19 +1962,16 @@ layer(n.vi.vt.)
 layout(n.)
 lazy(adj.)
 
-
-
-
 learning(n.)
-leak(vi.vt.n.)
+leak(vi.vt.n.) The pipe leaks and the water flows everywhere. 漏,泄露
 leading(adj.n.)
-leap(vi.vt.n.)
+leap(vi.vt.n.) The athlete leaps over the obstacles. 跳跃,跃过
 leadership(n.)
 league(n.vt.vi.)
-lean(vi.vt.adj.n.)
+lean(vi.vt.adj.n.) The two ladies lean on the tower for rest. 倾斜,斜靠
 learned(adj.)
 leader(n.)
-lease(vi.vt.n.)
+lease(vi.vt.n.) the agent leased this apartment to him 出租
 leather(n.adj.vt.)
 lecture(n.vi.vt.)
 legal(adj.)
@@ -2084,18 +1979,15 @@ leisure(n.adj.)
 lemon(n.adj.)
 lens(n.vt.)
 length(n.)
-lessen(vi.vt.)
+lessen(vi.vt.) Let's lessen() the volume before our neighbors come over. 减少,减轻
 lever(n.vi.vt.)
-
-
-
 
 liar(n.)
 liable(adj.)
-liberate(vt.)
+liberate(vt.) He was the president who tried to liberate slaves. 解放,释放
 librarian(n.)
 liberty(n.)
-lick(vt.vi.n.)
+lick(vt.vi.n.) The little girl licks() her ice cream with joy. 舔,战胜
 license(n.vt.)
 lid(n.vt.)
 lifetime(n.adj.)
@@ -2118,24 +2010,19 @@ literary(adj.)
 liver(n.)
 lively(adj.)
 
-
-
-
-
-
 loaf(n.vi.vt.)
 loan(n.vi.vt.)
-load(vi.vt.n.)
+load(vi.vt.n.) the goods are loaded onto the airplane 装载,使担负
 local(adj.n.)
 locality(n.)
 location(n.)
-locate(vi.vt.)
+locate(vi.vt.) we have located the robber 找出...的位置
 lodge(vi.vt.n.)
 log(n.vi.vt.)
 logic(n.adj.)
 logical(adj.)
 loop(n.vi.vt.)
-loosen(vt.vi.)
+loosen(vt.vi.) I loosen my tie after a long day in the office 松开,放松
 loose(n.adj.adv.vi.vt.)
 lorry(n.)
 lord(n.vi.vt.int.)
@@ -2143,25 +2030,15 @@ loss(n.)
 lot(pron.n.vi.vt.adv.)
 lounge(n.vi.vt.)
 lover(n.)
-lower(vi.vt.adj.)
+lower(vi.vt.adj.) need to lower() the volume of the radio 降低,降落
 loyal(adj.n.)
 loyalty(n.)
-
-
-
-
-
 
 lucky(adj.)
 luggage(n.)
 lump(n.vi.vt.adj.adv.)
 lung(n.)
 luxury(n.adj.)
-
-
-
-
-
 
 machinery(n.)
 mad(n.adj.)
@@ -2172,7 +2049,7 @@ magazine(n.)
 magnificent(adj.)
 mainland(n.adj.)
 maintenance(n.)
-maintain(vt.)
+maintain(vt.) He cleans his award every day to maintain() its shine. 维持,赡养
 maid(n.vi.vt.)
 majority(n.)
 major(adj.n.vi.)
@@ -2180,16 +2057,16 @@ male(n.adj.)
 manner(n.)
 manual(n.adj.)
 management(n.)
-manage(vi.vt.)
-manufacture(vi.vt.n.)
+manage(vi.vt.) He managed his time well to complete all of his tasks. 管理,控制
 mankind(n.)
 manufacturer(n.)
-mark(vi.vt.n.)
+manufacture(vi.vt.n.) This factory manufactures a hundred cars a day. 生产,制造
+mark(vi.vt.n.) I'm going to mark our meeting on the calendar. 做记号
 married(adj.v.)
 marriage(n.)
 margin(n.vt.)
 Marxist(adj.n.)
-marry(vi.vt.)
+marry(vi.vt.) decided to marry in a church 结婚
 marvelous(adj.)
 marine(adj.n.)
 market(n.vi.vt.)
@@ -2200,7 +2077,7 @@ mass(n.adj.vi.vt.)
 mature(adj.vi.vt.)
 mathematics(n.)
 mate(n.vi.vt.)
-matter(vi.n.)
+matter(vi.n.) Money matters a lot to me. 要紧,有关系
 material(n.adj.)
 mat(n.vt.vi.adj.)
 match(n.vi.vt.)
@@ -2210,10 +2087,7 @@ maximum(n.adj.)
 mayor(n.)
 maybe(adv.n.)
 
-
-
-
-measure(vi.vt..n.)
+measure(vi.vt..n.) I measure my waist to see how much weight I've lost 测量,估量
 measurement(n.)
 meantime(n.adv.)
 means(n.)
@@ -2228,17 +2102,17 @@ medal(n.)
 medium(adj.n.)
 medicine(n.vt.)
 media(n.)
-melt(vi.vt.n.)
+melt(vi.vt.n.) Ice melt() and turns into water 融化,熔化
 membership(n.)
 member(n.)
 memorial(n.adj.)
-memorize(vt.)
+memorize(vt.) I can memorize() all the words after eating the bread! 熟记
 memory(n.)
 memoir(n.)
 menu(n.)
 mental(adj.n.)
-mention(vt.n.)
-mend(vi.vt.n.)
+mention(vt.n.) she mentioned her child during their conversation 谈到,提及
+mend(vi.vt.n.) mend his clothing by himself 缝补,改正
 merit(n.vi.vt.)
 merchant(n.adj.)
 merely(adv.)
@@ -2272,31 +2146,26 @@ minimun(adj.n.)
 ministry(n.)
 mirror(n.vt.)
 miracle(n.)
-misunderstand(vt.)
+misunderstand(vt.) He misunderstood the way of cooking smoked meat. 误解,误会
 missile(n.adj.)
 missing(adj.)
 miserable(adj.)
 mission(n.vt.)
 mister(n.vt.)
-mislead(vt.)
+mislead(vt.) mislead the Japanese soldier to the landmine area 把...带错路
 mist(n.vi.vt.)
-mix(vi.vt.n.)
+mix(vi.vt.n.) He mixed the chili sauce, milk and wasabi for breakfast. 混合,使结合
 mixture(n.)
 
-
-
-
-
-
 mobile(n.adj.)
-modify(vi.vt.)
+modify(vi.vt.) This car has been modified to make it even faster. 改装,修改
 mode(n.)
 modest(adj.)
 model(n.vi.vt.adj.)
 moderate(adj.vi.vt.)
 moist(adj.n.)
 moisture(n.)
-mold(vt.vi.n.)
+mold(vt.vi.n.) I mold the clay with my hands to make a cup 用模子制作,塑造,浇铸
 molecule(n.)
 monetary(adj.)
 monthly(adj.adv.n.)
@@ -2308,23 +2177,18 @@ moral(adj.n.)
 morality(n.)
 moreover(adv.)
 mosquito(n.)
-motivate(vt.)
+motivate(vt.) The slogan motivates us to study hard. 激发...的积极性,促进
 motor(n.adj.vi.vt.)
 motion(n.vi.vt.)
 mother(n.adj.vt.)
 motive(n.adj.vt.)
-mount(vi.vt.n.)
+mount(vi.vt.n.) She mounted her horse and rode away. 登上,爬上,骑上
 mountain(n.)
 movement(n.)
 
-
-
-
-
-
 mud(n.vi.vt.)
 mug(n.vi.vt.)
-multiply(vi.vt.adj.adv.)
+multiply(vi.vt.adj.adv.) Ten multiply by eight is 80. . 乘,繁殖
 multiple(adj.n.)
 murder(n.vi.vt.)
 museum(n.)
@@ -2335,14 +2199,10 @@ muscular(adj.)
 muscle(n.vi.vt.)
 mutual(adj.)
 
-
-
-
 mysterious(adj.)
 mystery(n.)
 myself(pron.)
 myth(n.)
-
 
 nail(n.vt.)
 naked(adj.)
@@ -2356,9 +2216,6 @@ navy(n.)
 navigation(n.)
 naval(adj.)
 
-
-
-
 nearby(adj.adv.prep.)
 nearly(adv.)
 neat(adj.)
@@ -2366,8 +2223,8 @@ necessity(n.)
 necessary(adj.n.)
 needle(n.vi.vt.)
 negotiation(n.)
-negotiate(vi.vt.)
-neglect(vt.n.)
+negotiate(vi.vt.) We haven't made the deal yet, since we're still negotiating 谈判
+neglect(vt.n.) they neglect their child and keep fighting 忽视,忽略
 negative(adj.n.vt.)
 neighborhood(n.)
 neighbor(n.adj.vi.vt.)
@@ -2382,20 +2239,12 @@ neutral(adj.n.)
 nevertheless(conj.adv,)
 newly(adv.)
 
-
-
-
 niece(n.)
 nightmare(n.adj.)
 ninety(num.n.adj.)
 ninth(num.n.adj.)
 nineteen(num.)
 nine(num.adj.)
-
-
-
-
-
 
 noble(adj.n.vt.)
 noisy(adj.)
@@ -2404,7 +2253,7 @@ normal(adj.n.)
 northwest(n.adj.adv.)
 nose(n.vt.vi.)
 noticeable(adj.)
-notify(vt.)
+notify(vt.) The employee was notified() that he was fired. 告知,通知
 notwithstanding(prep.adv.conj.)
 notice(n.vi.vt.)
 notion(n.)
@@ -2412,72 +2261,55 @@ novel(n.adj.)
 nowadays(adv.n.)
 nowhere(adv.adj.n.)
 
-
-
-
-
-
 nucleus(n.)
 nuclear(adj.)
 nuisance(n.)
 numerous(adj.)
 nursery(n.)
-nurture(vt.n.)
+nurture(vt.n.) If you nurture your plants, they will grow 培植,养育
 nut(n.vi.)
 nutritious(adj.)
 
-
-
-
 nylon(n.)
 
-
-
-obey(vi.vt.)
+obey(vi.vt.) The grey wolf obeys everything his wife has commanded to him. 听由,听从摆布
 object(n.vi.vt.)
 objection(n.)
 objective(n.adj.)
-oblige(vi.vt.)
+oblige(vi.vt.) Tax payers are obliged to pay tax accordingly. 迫使,使...成为必要
 obligation(n.)
 obstacle(n.)
 observer(n.)
-observe(vi.vt.)
+observe(vi.vt.) shi os observing the fish carefully 观察,说,评论
 observation(n.)
-obtain(vi.vt.)
+obtain(vi.vt.) the policeman is obtaining evidence from the crime scene 获得,取得,赢得
 obvious(adj.)
 
 occasion(n.vt.)
-occupy(vt.)
-occur(vi.)
+occupy(vt.) That's how some college students occupy the seats. 占领,侵占,任职
+occur(vi.) car accidents can occur very quickly 发生
 occupation(n.)
 occasional(adj.)
 
 odd(adj.n.)
 
-
 official(n.adj.)
 offensive(adj.n.)
-offend(vi.vt)
+offend(vi.vt) The dog's behavior offended the lady. 冒犯,得罪,伤害...的感情
 offer(n.vi.vt.)
 offense(n.)
 
-
-
-
-
-
 olive(n.adj.)
 
-omit(vt.)
+omit(vt.) You should omit those repeated words in the article. 遗漏,删去
 
 oneself(pron.)
 onion(n.)
 online(adj.adv.)
 onto(prep.adj.)
 
-
 operational(adj.)
-operate(vi.vt.)
+operate(vi.vt.) The doctors will have to operate to fix the problem. 施行手术,运转
 operation(n.)
 opening(n.adj.)
 operator(n.)
@@ -2485,16 +2317,15 @@ opera(n.)
 opinion(n.)
 opportunity(n.)
 opponent(n.adj.)
-oppose(vi.vt.)
+oppose(vi.vt.) The boy opposes his father's smoking and tells him to stop. 反对,反抗
 opposite(adj.adv.n.prep.)
 optional(adj.n.)
 optimistic(adj.)
 optimum(adj.n)
 option(n.)
 
-
 oral(adj.n.)
-orbit(vt.vi.n.)
+orbit(vt.vi.n.) All of the planets orbit the sun 环绕...的轨道运行
 orchestra(n.)
 ordinary(adj.n.)
 orderly(adj.adv.n.)
@@ -2502,11 +2333,10 @@ ore(n.)
 organ(n.)
 organization(n.)
 organism(n.)
-organize(vi.vt.)
+organize(vi.vt.) please organize the files by number 整理,组织,安排
 organic(adj.)
 origin(n.)
 original(adj.n.)
-
 
 otherwise(adv.adj.conj.)
 
@@ -2527,27 +2357,26 @@ outside(adv.adj.n.prep.)
 outline(n.vt.)
 
 oval(adj.n.)
+overlook(vt.n.) It is easy to overlook Mr. Bao in this picture. 忽视,眺望
 overnight(n.vi.vt.adj.adv.)
-overlook(vt.n.)
-overcome(vt.vi.)
+overcome(vt.vi.) He can overcome the challenge if he tries hard enough. 征服,得胜
 overseas(adv.adj.)
 overhead(adv.adj.n.)
-overtake(vi.vt.)
+overtake(vi.vt.) the driver slowly overtook the driver in first place 超过,赶上
 overall(adj.adv.n.)
 
-owe(vt.vi.)
+owe(vt.vi.) I owe my full mark to this phone app! 把...归于,欠,欠钱
 owl(n.)
 ownership(n.)
 owner(n.)
 
 oxygen(n.)
 
-
-
+pack(vi.vt.n.) My cat packed his stuff to leave. 打包,塞满,包装
 packet(n.vt.)
-pack(vi.vt.n.)
-pacific(adj.n.)
 package(n.adj.vt.)
+pacific(adj.n.)
+
 pace(n.vi.vt.)
 pad(n.vi.vt.)
 painting(n.)
@@ -2572,24 +2401,21 @@ paragraph(n.vt.)
 parade(n.vi.vt.)
 parallel(adj.n.vt.)
 partial(adj.)
-participate(vi.vt.)
+participate(vi.vt.) the students participate in class discussion 参加
 partner(n.vi.vt.)
-paste(vt.n.)
+paste(vt.n.) I'm pasting wallpaper onto the wall. . 粘贴
 passion(n.)
 passive(adj.n.)
 passport(n.)
 pattern(n.vi.vt.)
-pat(vi.vt.adj.adv.n.)
+pat(vi.vt.adj.adv.n.) My grandmother enjoys it when I pat() her on the head. 轻拍,抚摸
 patient(n.adj.)
 patch(n.vi.vt.)
 patience(n.)
 path(n.)
-pause(vi.n.)
+pause(vi.n.) I paused in the video at a critical moment. 暂停
 paw(n.vi.vt)
 payment(n.)
-
-
-
 
 peasant(n.)
 peak(n.vi.vt.adj.)
@@ -2602,31 +2428,29 @@ peer(n.vi.vt.)
 pen(n.vt.)
 pension(n.vt.)
 pencil(n.vt.vi.)
-penetrate(vi.vt.)
+penetrate(vi.vt.) The apple was penetrated with an arrow. 刺穿,穿透
 penalty(n.)
 pepper(n.vt.)
-persuade(vi.vt.adj.)
+persuade(vi.vt.adj.) The salesman persuaded us to buy a car. 劝说,说服,(of)使相信
 percentage(n.)
-perceive(vi.vt.)
+perceive(vi.vt.) He perceived the sound even though he was far away. 察觉,意识到
 perfect(adj.n.vt.)
 permission(n.)
-persist(vi.vt.)
+persist(vi.vt.) Although tha water is cold, we persist in going forward. 坚持,固执
 perspective(n.adj.)
 performance(n.)
+perform(vi.vt.) the singer has to perform every nught 表演
 permissible(adj.)
 perception(n.)
 personnel(n.adj.)
 per(prep.)
-perform(vi.vt.)
 permanent(adj.n.)
 personality(n.)
-permit(vi.vt.n.)
+permit(vi.vt.n.) only the invited are permitted to enter the room 允许,许可
 pest(n.)
 pessimistic(adj.)
 petrol(n.)
 petroleum(n.)
-
-
 
 phase(n.)
 phenomenon(n.)
@@ -2639,7 +2463,7 @@ physiological(adj.)
 physical(adj.n.)
 physician(n.)
 
-pierce(vi.vt.)
+pierce(vi.vt.) He pierced his ears. 穿(孔),贯穿
 pigeon(n.)
 pig(n.vi.)
 pillow(n.vi.vt.)
@@ -2648,15 +2472,13 @@ pilot(n.adj.v.)
 pill(n.vi.vt.)
 pile(n.vi.vt.)
 pint(n.)
-pin(vt.n.)
+pin(vt.n.) I pin() notes to the wall 别住,钉住
 pine(n.vi.vt.adj.)
-pinch(vi.vt.n.)
+pinch(vi.vt.n.) he always pinches her check 捏,掐,夹痛
 pioneer(n.vi.vt.)
 pipe(n.vi.vt.)
 pit(n.vi.vt.)
-pitch(vi.vt.n.)
-
-
+pitch(vi.vt.n.) It's my dog's turn to pitch and my turn to fetch. 投掷,扎营
 
 planet(n.)
 player(n.)
@@ -2667,15 +2489,13 @@ plastic(n.adj.)
 plantation(n.adj.)
 plain(adj.adv.n.)
 plentiful(adj.)
-pledge(vt.n.)
-plow(vi.vt.n.)
+pledge(vt.n.) The old man pledged allegiance to his country. 发誓,保证,向...抵押,向...祝酒
+plow(vi.vt.n.) use machines to plow the field 犁地,耕地
 plot(n.vi.vt.)
-plug(vi.vt.n.)
-plunge(vi.vt.n.)
+plug(vi.vt.n.) Plug in the cables and you can access the internet. 插入
+plunge(vi.vt.n.) The sportswomen plunged into the water. splash! 使投入,使卷入,暴跌
 plural(adj.n.)
 plus(prep.n.adj.)
-
-
 
 pocket(n.adj.vi.vt.)
 poet(n.)
@@ -2684,16 +2504,16 @@ poem(n.)
 poisonous(adj.)
 poison(n.vi.vt.)
 policy(n.)
-pollute(vt.)
 polite(adj.)
-polish(vi.vt.n.adj.)
+polish(vi.vt.n.adj.) They will polish your car and make it shine! 磨光,擦亮
 politics(n.)
 pollution(n.)
+pollute(vt.) The factory waste polluted the sea and killed the sea creatures. 污染,弄脏
 poll(n.adj.vi.vt.)
 pole(n.vt.)
 politician(n.)
 pond(n.vi.vt.)
-pop(vi.vt.n.adj.adv.)
+pop(vi.vt.n.adj.adv.) Let's pop open the champagne! 发出(呯的一声)
 popular(adj.)
 population(n.)
 portable(adj.n.)
@@ -2705,53 +2525,51 @@ possibility(n.)
 pose(n.vi.vt.)
 postage(n.)
 positive(adj.n.)
-possess(vt.)
-postpone(vi.vt.)
+possess(vt.) She possesses many apirs of shoes. 拥有,占有,(鬼等)缠
+postpone(vi.vt.) I had to postpone the meeting until later. 延迟,推迟
 possession(n.)
 possible(adj.n.)
 pot(n.vi.vt.)
 potential(n.adj.)
-pour(vi.vt.n.)
+pour(vi.vt.n.) I'll pour a glass of wine for you. 注入,倒入,下(雨)
 poverty(n.)
 powerful(adj.adv.)
 powder(n.vi.vt.)
 
-
-
-practice(vi.vt.n.)
+practice(vi.vt.n.) The litter girl practice yoga with her mom everyday. 练习,开业
 prayer(n.)
-pray(vi.vt.)
+pray(vi.vt.) The kitten is praying for a big fish to be its dinner. 祈祷,祈求
 practical(adj.)
-prevail(vi.)
-prevalent(adj.)
-preach(vi.vt.n.)
-precaution(n.vt.)
-prepare(vi.vt.)
-precious(adj.n.)
-preferable(adj.)
-prescription(n.adj.)
-presence(n.)
-preserve(n.vt.)
+preach(vi.vt.n.) The monk preaches about religion to us. 传教,讲道
 preliminary(adj.n.)
 prejudice(n.vt.)
-prestige(n.adj.)
+prevail(vi.)
+prevalent(adj.)
+prevent(vi.vt.)
 previous(adj.adv.)
-predict(vi.vt.)
+predict(vi.vt.) He actually failed to predict the price of the phones. 预测,预言
 pretty(adj.adv.n.)
 premature(adj.n.)
-press(vi.vt.n.)
-preposition(n.)
-prefer(vi.vt.)
-preceding(adj.)
-pretend(vi.vt.adj.)
-presentation(n.)
 preface(n.vi.vt.)
-prescribe(vi.vt.)
+prefer(vi.vt.) The girl prefers vegetables over cake. 更喜欢,宁愿
 preference(n.)
-prevent(vi.vt.)
-preparation(n.)
+preferable(adj.)
+pretend(vi.vt.adj.)
+press(vi.vt.n.)
+prescribe(vi.vt.)
+prescription(n.adj.)
+presence(n.)
+presentation(n.)
+preserve(n.vt.)
 pressure(n.vt.)
+prestige(n.adj.)
+preparation(n.)
+prepare(vi.vt.)
+preposition(n.)
+precaution(n.vt.)
+preceding(adj.)
 precision(n.adj.)
+precious(adj.n.)
 precise(adj.)
 pregnant(adj.)
 pre cent(n.)
