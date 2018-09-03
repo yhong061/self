@@ -2543,28 +2543,28 @@ practical(adj.)
 preach(vi.vt.n.) The monk preaches about religion to us. 传教,讲道
 preliminary(adj.n.)
 prejudice(n.vt.)
-prevail(vi.)
+prevail(vi.) Hats prevailed in the 19th century. 流行,盛行 
 prevalent(adj.)
-prevent(vi.vt.)
+prevent(vi.vt.) the mother prevented her child from eating sweets 预防,阻止
 previous(adj.adv.)
 predict(vi.vt.) He actually failed to predict the price of the phones. 预测,预言
 pretty(adj.adv.n.)
+pretend(vi.vt.adj.) I pretended to study hard, but actually I chatted on my phone 假装
 premature(adj.n.)
 preface(n.vi.vt.)
 prefer(vi.vt.) The girl prefers vegetables over cake. 更喜欢,宁愿
 preference(n.)
 preferable(adj.)
-pretend(vi.vt.adj.)
-press(vi.vt.n.)
-prescribe(vi.vt.)
+press(vi.vt.n.) Press the button on the phone to make a call. 按,压
+pressure(n.vt.)
+prescribe(vi.vt.) the doctor prescribed me some medicine for my cold 给...开药,指示
 prescription(n.adj.)
 presence(n.)
 presentation(n.)
-preserve(n.vt.)
-pressure(n.vt.)
+preserve(n.vt.) You can preserve() food by putting it into the refrigerator. 保鲜,保存
 prestige(n.adj.)
 preparation(n.)
-prepare(vi.vt.)
+prepare(vi.vt.) they are preparing to launch the poor guy into the sky 准备
 preposition(n.)
 precaution(n.vt.)
 preceding(adj.)
@@ -2587,59 +2587,58 @@ primarily(adv.)
 princess(n.)
 prime(adj.adv.n.vi.vt.)
 priority(n.)
-propose(vi.vt.)
+propose(vi.vt.) He proposed to his girlfriend with a diamond. 求婚,提议 
+proposal(n.)
 progressive(adj.n.)
-provision(n.vt.)
+profess(vi.vt.) They publicly professed their love for each other. 承认,宣称
 profession(n.)
-profess(vi.vt.)
+professor(n.)
+professional(adj.n.)
 progress(n.vi.)
-prompt(vt.n.adj.adv.)
-provoke(vt.)
+prompt(vt.n.adj.adv.) My iphone prompts me to get out of bed and finish my paper!  提示,激起
 promise(n.vi.vt.)
 proportional(adj.n.)
 program(n.vi.vt.)
 probability(n.)
 prospective(adj.n.)
-protect(vt.)
-province(n.)
 prosperous(adj.)
 probable(adj.n.)
-professor(n.)
 proper(adj.adv.)
-produce(vt.vi.n.)
-proposal(n.)
-prophecy(n.)
+produce(vt.vi.n.) The factory produced things quickly. 生产,创作
 production(n.)
-process(vi.vt.n.adj.)
+productive(adj.)
+productivity(n.)
+product(n.)
+prophecy(n.)
 proportion(n.vt.)
-prohibit(vt.)
-provided(conj.)
+prohibit(vt.) The law prohibits spitting in public. 禁止
 prospect(n.vi.vt.)
-proceed(vi.)
+proceed(vi.) The girl proceeded only after the traffic light turned green. 前进(停止后继续前进)
+procedure(n.)
+process(vi.vt.n.adj.) This is how cookies are really processed! 加工,处理
+procession(n.vi.vt.)
 property(n.)
 profit(n.vi.vt.)
 profile(n.vt.vi.)
-protest(vi.vt.n.adj.)
+protest(vi.vt.n.adj.) The students all come out to protest the increasing price of school. 反对,抗议
+protect(vt.) We need to protect this plant -- it's very rare. 保护,警戒
 protection(n.)
-prove(vi.vt.)
-promote(vi.vt.)
-procedure(n.)
-productive(adj.)
-professional(adj.n.)
+protective(adj.)
+protein(n.adj.)
+prove(vi.vt.) It takes one second to say "I do", but a lifetime to prove it. 证实
+provision(n.vt.)
+province(n.)
+provided(conj.)
+provide(vi.vt.)
+provoke(vt.)
+promote(vi.vt.) She was very good at her job, so her boss promoted her to a higher position. 提升,促进
 proof(n.adj.vt.)
 project(n.vi.vt.)
-protein(n.adj.)
 prosperity(n.)
-provide(vi.vt.)
-procession(n.vi.vt.)
-productivity(n.)
 prominent(adj.)
 pronoun(n.)
-protective(adj.)
-product(n.)
 
 psychological(adj.)
-
 
 publish(vi.vt.)
 pub(n.)
@@ -3215,8 +3214,6 @@ spur(vt.vi.n.)
 square(n.adj.adv.vi.vt.)
 squeeze(vi.vt.n.)
 
-
-
 stamp(n.vi.vt.)
 station(n.vt.)
 stainless(adj.)
@@ -3356,7 +3353,6 @@ suspend(vi.vt.)
 suspicion(n.vt.)
 suspicious(adj.)
 
-
 sway(n.vi.vt.)
 swallow(n.vi.vt.)
 swell(vi.vt.adj.n.)
@@ -3371,7 +3367,6 @@ swing(vi.vt.n.adj.)
 Swiss(adj.n.)
 sword(n.)
 
-
 sympathy(n.)
 sympathize(vi.)
 sympathetic(adj.n.)
@@ -3381,7 +3376,6 @@ synthetic(adj.n.)
 systematic(adj.)
 systematic(adj.)
 system(n.)
-
 
 tackle(vi.vt.n.)
 tag(n.vi.vt.)
@@ -3395,9 +3389,6 @@ target(n.vt.)
 taste(vi.vt.n.)
 tax(n.vt.)
 taxi(n.vi.vt.)
-
-
-
 
 tear(vi.vt.n.)
 tea(n.vi.vt.)
@@ -3428,8 +3419,6 @@ terror(n.)
 territory(n.)
 textile(n.adj.)
 textbook(n.)
-
-
 
 thank(n.vt.int.)
 therapy(n.)
@@ -3474,11 +3463,6 @@ tire(vi.vt.n.)
 tissue(n.vt.)
 title(n.vt.adj.)
 
-
-
-
-
-
 toast(n.vi.vt.)
 tobacco(n.)
 today(n.adv.)
@@ -3501,44 +3485,42 @@ toward(s)(prep.adj.)
 town(n.)
 toy(n.vi.adj.)
 
-
-
 tray(n.)
 tractor(n.)
 tradition(n.)
 trash(n.vt.)
+tract(n.)
+track(vi.vt.n.) Sherlock tracked the criminal by following the footprints. 跟踪追赶,用纤拉船
+trail(n.vi.vt.)
+train(n.vi.vt.)
+tragedy(n.)
 transient(adj.n.)
 transistor(n.)
-tract(n.)
 transition(n.)
-track(vi.vt.n.)
+transfer(vi.vt.n.) The worker transfered the box to another place. 转移,换乘,调任
+transform(vi.vt.) the ugly worm thansformed into a beautiful butterfly. 将..变形,改变
 transformer(n.)
-transfer(vi.vt.n.)
-transmission(n.)
-transport(vt.n.)
-translation(n.)
-trail(n.vi.vt.)
-transportation(n.)
 transformation(n.)
-train(n.vi.vt.)
-translate(vi.vt.)
-tragedy(n.)
-transmit(vi.vt.)
-transform(vi.vt.)
+transmit(vi.vt.) the tower transmits the TV singnal 传送,发射
+transmission(n.)
+transport(vt.n.) The goose is transporting a duck to cross over the river. 运输,使狂喜
+transportation(n.)
 transparent(adj.)
+translation(n.)
+translate(vi.vt.) This Chinese sentence is well translated 翻译,转化
 traffic(n.vi.vt.)
 trap(n.vi.vt.)
 treatment(n.)
 trend(n.vi.vt.)
-tremble(vi.vt.n.)
+tremble(vi.vt.n.) The horror movie made her tremble with fear. 发抖,哆嗦
 tree(n.vi.vt.)
 tremendous(adj.)
-treat(vi.vt.n.)
+treat(vi.vt.n.) I went to the dentist's office to get my teeth treated. 治疗,对待,请客
 treaty(n.)
 treasure(n.vt.)
 trial(n.adj.)
 triangle(n.)
-trick(vi.vt.adj.n.)
+trick(vi.vt.adj.n.) we trick on our teacher who sets us endless homework 捉弄,戏弄
 trim(n.vi.vt.adj.)
 triumph(n.vi.)
 trousers(n.)
@@ -3548,9 +3530,7 @@ troop(n.vi.vt.)
 trunk(n.adj.vt.)
 truly(adv.)
 trumpet(n.vi.vt.)
-trust(vi.vt.n.)
-
-
+trust(vi.vt.n.) My boss trusts me so much. I can't let him down 信任,希望
 
 tube(n.vi.vt.)
 Tuesday(n.)
@@ -3560,48 +3540,35 @@ tunnel(n.vi.vt.)
 turbine(n.)
 tutor(n.vi.vt.)
 
-
 twelfth(num.n.)
 twenty(num.n.adj.)
 twelve(num.n.adj.)
 twentieth(num.n.adj.)
 twin(adj.n.vi.vt.)
-twist(vi.vt.n.)
-
+twist(vi.vt.n.) The right way to eat this biscuit: twist it, lick it, then dip it. 扭转,盘绕
 
 typical(adj.)
 typewriter(n.)
 type(n.vi.vt.)
 typist(n.)
 
-
-
-
-
-
-
-
 ugly(adj.)
-
-
-
-
 
 ultimate(adj.n.)
 
 umbrella(n.)
 
-uncover(vi.vt.)
+uncover(vi.vt.) She uncovered  the pot to see whether the food was cooked. 移去..的覆盖物,发现
 uncomfortable(adj.)
 unconscious(adj.)
 uncle(n.)
-undertake(vt.)
-undo(vi.vt.)
-undergo(vt.)
+undertake(vt.) I want everyone to know that you undertake this fishpond!  承担,承包
+undo(vi.vt.) At the end of the day, the man undoes his tie. 松开,解开
+undergo(vt.) The woman will undergo surgery to cure her disease. 经历,遭受
 understanding(n.adj.)
 underground(adj.adv.n.)
 undergraduate(n.adj.)
-underline(vt.n.)
+underline(vt.n.) It's a good habit to underline the important parts when you read. 划线于...之下,强调
 underneath(adv.adj.n..prep.)
 unemployment(n.)
 uneasy(adj.)
@@ -3610,22 +3577,21 @@ unfortunate(adj.)
 unfair(adj.)
 unfortunately(adv.)
 unhappy(adj.)
-unite(vi.vt.)
+unite(vi.vt.) Let's unite as a team and win this game! 团结,联合,合并
 universal(adj.n.)
 unity(n.)
 uniform(n.adj.vt.)
 unique(adj.n.)
 unit(n.)
-unify(vt.)
+unify(vt.) People are unified when facing natual disasters 使联合,统一
 universe(n.)
 union(n.)
 unjust(adj.)
 unknown(adj.n.)
-unload(vi.vt.)
+unload(vi.vt.) It's going to take all afternoon to unload these boxes. 卸(货)
 unlike(adj.prep.)
 unpleasant(adj.)
 unusual(adj.)
-
 
 upbringing(n.)
 upon(prep.)
@@ -3634,28 +3600,20 @@ upright(adj.n.)
 upset(adj.n.vi.vt.)
 upward(adj.adv.)
 
-
 urban(adj.)
 urgent(adj.)
-urge(vi.vt.n.)
+urge(vi.vt.n.) He urged the pig to go faster. 催促,力劝,驱策
 
 usage(n.)
 useless(adj.)
 useful(adj.)
-use(vi.vt.n.)
 user(n.)
 usually(adv.)
 
 utility(n.adj.)
-utilize(vt.)
+utilize(vt.) It's better utilize the waste than to throw is away. 利用
 utmost(adj.n.)
-utter(vt.adj.)
-
-
-
-
-
-
+utter(vt.adj.) Being patted on the butt, the horse was annoyed and uttered a growl 发出,发射
 
 vacation(n.vi.)
 vacant(adj.)
@@ -3664,34 +3622,28 @@ vague(adj.)
 vain(adj.)
 valley(n.)
 valid(adj.)
-value(vt.n.)
+value(vt.n.) which do you value more ? 重视,给...定价
 valuable(adj.n.)
 van(n.vt.)
-vanish(vi.vt.n.)
+vanish(vi.vt.n.) he vanished after the rabbit did a magic trick 使消失
 vapor(n.vi.vt.)
 various(adj.)
 variety(n.)
 variation(n.)
-vary(vi.vt.)
+vary(vi.vt.) each cup made by these kids varies slightly. 相异,改变,使多样化
 variable(adj.n.)
 vast(adj.n.)
-
-
-
 
 vehicle(n.)
 velocity(n.)
 venture(n.vi.vt.)
 version(n.)
 versus(prep.)
-verify(vt.)
+verify(vt.) This card can verify the man's identity. 证明,查证
 vertical(adj.n.)
 verb(n.)
 vessel(n.)
 veteran(n.adj.)
-
-
-
 
 via(prep.)
 vicious(adj.)
@@ -3706,7 +3658,7 @@ violet(n.adj.)
 violent(adj.)
 violence(n.)
 violin(n.)
-violate(vt.)
+violate(vt.) the bird's behavior voilated the sign's rules 违反,侵犯,亵渎
 virus(n.)
 virtue(n.)
 virtual(adj.)
@@ -3719,42 +3671,27 @@ vital(adj.)
 vitamin(n.)
 vivid(adj.)
 
-
-
-
-
-
 vocal(adj.n.)
 vocabulary(n.)
-volunteer(n.adj.vi.vt.)
+volunteer(n.adj.vi.vt.) Will anybody volunteer  to clean the park up? I'll do it! 自愿做,自愿加入
 voluntary(adj.n.)
 volt(n.)
 volcano(n.)
 voltage(n.)
 volume(n.adj.vi.vt.)
-vote(vi.vt.n.)
+vote(vi.vt.n.) I was force to vote for one of them as Miss Countryside. 选举,投票
 voyage(n.vi.vt.)
 
-
-
-
-
-
 vulnerable(adj.)
-
-
-
-
-
 
 wagon(n.vt.)
 wage(n.vi.vt.)
 waiter(n.)
 waist(n.)
-waken(vi.vt.)
-wake(vi.vt.n.)
+wake(vi.vt.n.) my mun waked me up with her rude manner. 使觉醒,激发
+waken(vi.vt.) The alarm clock wakens me at 6 o'clock every day. 弄醒,醒来
 wallet(n.)
-wander(vi.vt.)
+wander(vi.vt.) The young couple is wandering in the park. 闲逛,漫游,迷路
 wardrobe(n.)
 warfare(n.)
 warmth(n.)
@@ -3763,26 +3700,21 @@ waterproof(adj.n.vt.)
 wave(n.vi.vt.)
 wax(n.vi.vt.adj.)
 
-
-
-
-weakness(n.)
 wealth(n.)
-weaken(vi.vt.)
-weave(vt.vi.n.)
+weaken(vi.vt.) The fever weakened the little girl's body and mind. 使虚弱,消弱
+weakness(n.)
+weave(vt.vi.n.) The elder is weaving a basket. 编织
 weapon(n.)
 wealthy(n.adj.)
 Wednesday(n.)
 wedding(n.)
-weep(vi.vt.n.)
+weep(vi.vt.n.) I could feel his sadness when I saw him weeping. 哭泣,悲痛
 weed(n.vt.vi.)
 weekly(adv.adj.n.)
 welfare(n.adj.)
-weld(vi.vt.n.)
+weld(vi.vt.n.) He is welding together the two pieces of metal. 焊接
 well-known(adj.)
 western(adj.n.)
-
-
 
 whale(n.vi.vt.)
 whatsoever(pron.)
@@ -3790,36 +3722,31 @@ wherever(adv.conj.)
 whenever(conj.adv.)
 whistle(n.vt.)
 whilst(conj.)
-whisper(vi.vt.n.)
+whisper(vi.vt.n.) they are whispering as they are talking about gossips. 耳语,密谈
 whichever(pron.adj.)
-whip(n.vi.vt.)
+whip(n.vi.vt.) he whips the horses to make them run faster 鞭打,抽打
 whoever(pron.)
 
 wicked(adj.)
 widow(n.vt.)
 widespread(adj.)
 width(n.)
-widen(vi.vt.)
+widen(vi.vt.) this road was too narrow, so now we have to widen it 加宽,变宽
 willing(adj.)
 wild(adj.adv.n.)
 wing(n.vi.vt.)
-win(vi.vt.n.)
-wipe(vi.vt.n.)
+win(vi.vt.n.) our team has won the basketball match 赢得,(获)胜
+wipe(vi.vt.n.) wipe the floors 擦,揩
 wire(n.vi.vt.)
 wisdom(n.)
-withdraw(vi.vt.)
-withstand(vi.vt.)
+withdraw(vi.vt.) I'd like to withdraw 500 dollars from the machine. 提款,收回,撤退
+withstand(vi.vt.) I can't withstand any more strong sun! 忍受,抵挡
 witness(n.vi.vt.)
 wit(n.)
 
-
-
-
-
-
 wolf(n.vt.)
 woman(n.)
-wonder(vi.vt.adj.n.)
+wonder(vi.vt.adj.n.) The woman wonders if she carries a boy or a girl. 想知道,惊奇
 wool(n.)
 wooden(adj.)
 worm(n.vi.vt.)
@@ -3831,57 +3758,18 @@ worse(n.adj.adv.)
 world-wide(adj.)
 worker(n.)
 worst(n.adj.adv.)
-worship(vt.vi.n.)
+worship(vt.vi.n.) he worship Buddha and prays to him every day 做礼拜,拜神
 worthwhile(adj.)
 worthless(adj.)
 
-
-
-wrap(vi.vt.n.)
+wrap(vi.vt.n.) She wrapped  the gift with some colorful paper. 捆,包,裹
 wreck(n.vi.vt.)
 wrist(n.vt.)
 writing(n.)
 writer(n.)
 wrinkle(n.vi.vt.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-yawn(vi.vt.n.)
-
-
-
+yawn(vi.vt.n.) "I'm so tired," she said as she yawned. 打着哈欠说
 
 yeast(n.)
 yearly(adj.adv.n.)
@@ -3889,35 +3777,12 @@ yellow(adj.n.vi.vt.)
 yes(n.adv.)
 yesterday(n.adv.)
 
-
-
-
-yield(vi.vt.n.)
-
-
-
-
-
+yield(vi.vt.n.) the fields yielded many carrots for harvest this year 出产,让行,屈服,放弃
 
 yours(pron.adj.)
 youthful(adj.)
 youth(n.)
 youngster(n.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 zealous(adj.)
 zeal(n.)
