@@ -1,81 +1,91 @@
-abandoned(adj.)
+abandoned(adj.) The abandoned() house looks extremely terrifying.
 abandon(n.vt.)
-ability(n.)
-able(adj.)
+ability(n.) He has the ability() to run on water.
+able(adj.) Now he is able() to walk without the help of crutches.
 aboard(adv.prep.)
-abroad(adv.adj.n.)
-absorb(vt.)
-absorbed(adj.)
+abroad(adv.adj.n.) This is a picture of us when we traveled abroad().
+absorb(vt.) Sponges can absorb()a lot of water.
+absorbed(adj.) My daughter is absorbed()  in her story book.
 abstract(adj.n.vi.vt.)
-absolutely(adv.)
-absolute(adj.n.)
-absence(n.)
-absent(adj.vt.)
-abundant(adj.)
-abundance(n.)
+absolutely(adv.) The ad said the product was absolutely() guaranteed to work.
+absolute(adj.n.) This room is an absolute() mess.
+absence(n.) None of the classmates konw the reason for his absence().
+absent(adj.vt.) What a surrprise! The best student is absent() from school.
+abundant(adj.) Holland has an abundant() supply of tulips.
+abundance(n.) The man bought an abundance() of food.
 abuse(vt.n.)
 
-academy(n.)
+academy(n.) This is an academy() for soldiers to train.
 academic(adj.n.)
-accent(n.vt.)
+accent(n.vt.) He has such a funny accent()! 
 accuse(vt.vi.)
-accord(n.vi.vt.)
+accord(n.vi.vt.) Finally they all reached an accord() about what the tready should say.
 accumulate(vi.vt.)
-accommodation(n.)
+accommodation(n.) This hotle offers good accommodation() where guests can feel like home.
 according to(phr.)
-accustomed(adj.)
-accurate(adj.)
-accordance(n.)
-accompany(vi.vt.)
-account(n.vi.vt.)
-accommodate(vi.vt.)
-accelerate(vi.vt.)
-accuracy(n.)
+accustomed(adj.) He got accustomed() to the food after 10 years of living here.
+accurate(adj.) I never miss my target because my aim is so accurate().
+accordance(n.) The little boy wore a helmet in accordance() with safety regulations.
+accompany(vi.vt.) I always accompany() my children to their school.
+account(n.vi.vt.) I have no money in my bank account().
+accommodate(vi.vt.) The hotel room can comfortably accommodate() two travelers.
+accelerate(vi.vt.) The way I dumped my girlfriend was to accelerate() my vehicle drastically.
+accuracy(n.) The man shot the target with great accuracy().
 accomplish(vt.)
 accidental(adj.)
 accept(vi.vt.)
 accident(n.)
 accountant(n.)
 access(n.vt.)
-achievement(n.)
+achievement(n.) Walking on the moon was a remarkable achievement().
 achieve(vi.vt.)
 ache(n.vi.)
-acid(adj.n.)
+acid(adj.n.) Make sure not to touch the acid() - it will burn.
 acknowledge(vt.)
-acquaintance(n.)
+acquaintance(n.) They greet each other out of manners, since they are just acquaintance().
 acquisition(n.)
 acquire(vt.)
 acre(n.)
-actual(adj.)
-actress(n.)
+actual(adj.) I refused the red envelop, but the actual() fact was that I wanted it.
+actress(n.) The beautiful actress() loves the attention she gets from her fans.
 activity(n.)
 actor(n.)
 action(n.)
 active(adj.n.)
-acute(adj.)
+acute(adj.) I have a very acute(), sharp pain in my stomach.
 
 adapt(vi.vt.)
-additional(adj.)
-addition(n.)
+additional(adj.) Each additional() scoop made the ice cream more delicious. 
+addition(n.) Simple addition() is the easiest part of math class.
 address(n.vt.)
 adequate(adj.)
+There's an adequate() amount of water for the elephants to drink.
 adjective(n.adj.)
 adjust(vi.vt.)
 admire(vi.vt.)
 admission(n.)
+Sorry, no admission() - you can't come in.
 administration(n.)
+He's the top man in the administration() of the organization.
 admit(vi.vt.)
 adopt(vi.vt.)
 adult(n.adj.)
 adventure(n.vi.vt.)
+Jumping off a mountain was part of his adventure() .
 adverb(n.adj.)
 advertisement(n.)
+This advertisement() is to promote a new product.
 advertise(vi.vt.)
+We advertise() our company on TV to make it well-known.
 advice(n.)
+The doctor is giving her some good advice().
 advise(vi.vt.)
 advisable(adj.)
+Due to you weight, it's advisable() that you change your diet.
 advance(vi.vt.n.adj.)
+He finished his homework in advance().
 advantage(vi.vt.n.)
+The rocket gives his an unfair advantage()!
 advanced(adj.)
 advocate(vt.n.)
 
@@ -86,80 +96,118 @@ affair(n.)
 affect(vt.vi.n.)
 afford(vt.)
 affection(n.)
-afterward(s)(adv.)
-afternoon(n.)
 afterward(adv.)
 
 agenda(n.)
+Waht topics should we put on the agenda() for our afternoon meeting?
 agency(n.)
+It's more convenient to buy tickets from a ticket agency().
 agent(n.adj.vt.)
+The agent() helped us buy a new house.
 age(n.vi.vt.)
 aggressive(adj.)
 ago(adv.adj.)
 agriculture(n.)
+Farmers rely on agriculture() for their living.
 agreement(n.)
+Both of them were happy with their agreement.()
 agree(vi.vt.)
 
 ahead(adv.adj.)
+I am runing ahead() of the rest of the group.
 
 aid(n.vi.vt.)
 aim(vi.vt.n.)
 airport(n.)
+The plane landed at the airport().
 air(n.vi.vt.)
+Could you blow some air() into the balloons?
 aircraft(n.)
+That aircraft() has no polit flying it!
 airplane(n.)
+You can go through the clouds by taking airplane(). It feels so amazing!
 airline(n.adj.)
 aisle(n.)
+There is an aisle() in the center of the church.
 
 alarm(n.vt.)
+The police car turned on the alarm() as it passed.
 alcohol(n.)
+Drinking too much alcohol() gave the man a headache.
 alert(adj.n.vt.)
+The cat is alert() when guarding its fish.
 alive(adj.)
+His beating heart shows he's alive() .
 alike(adj.adv.)
+The two dogs are a lot alike().
 allowance(vt.n.)
+Ming got his monthly allowance() with delight.
 alliance(n.)
+Our new alliance() allows us to work together to solve problems.
 allow(vi.vt.)
 ally(n.vi.vt.)
+The two sides decided to ally() against the enemy.
 alloy(n.vi.vt.)
 allocate(vi.vt.)
 alongside(adv.prep.)
 alphabet(n.)
 alternative(n.adj.)
+There are five alternative()  answers for each question.
 altogether(adv.n.)
+Death has broken 4 Stark family members altogether().
 although(conj.)
+She kept smoking although() she was pregnant.
 alter(vi.vt.)
 altitude(n.)
 aluminum(n.)
 
 amateur(n.adj.)
+This office worker is also an amateur() soccer player.
 amaze(vt.)
 ambitious(adj.)
+Although he isn't young anymore, the businessman is still ambitious() .
 ambition(n.vt.)
+This powerful man's political ambition() was to unify the three kingdoms.
 ambassador(n.)
+Each cellphone company sent an ambassador() to the conference.
 ambulance(n.)
 amid(prep.)
+Help! I'm lost amid() all the colored balls!
 amount(n.vi.)
+He made a huge amount() of money.
 among(prep.)
 amongst(prep.)
 amuse(vt.)
 
 analyze(vt.)
 analysis(n.)
+Could you write up an analysis() of how the market is moving this week?
 ancestor(n.)
+our ancestor() looked kind of like monkeys.
 anchor(n.vi.vt.adj.)
+"Please be careful when you drop the anchor()!", the shark shouted.
 ancient(adj.n.)
+These ancient() statues are over 2000 years old.
 angle(n.vi.)
+The angle()  of each corner is 60 degrees.
 anger(n.vi.vt.)
+She cannot control her anger().
 ankle(n.)
+An injured ankle() should be wrapped in a bandage.
 annual(adj.n.)
+This annual()  big sale is held specially for the single.
 announce(vt.vi.)
 annoy(vi.vt.n.)
 anniversary(n.)
+He gave his wife a diamond ring on their tenth anniversary().
 ant(n.)
 anticipate(vt.)
+I anticipate() him winning the first prize as he is really great!
 antique(n.adj.vi.)
 anxiety(n.)
+She is in a state of anxiety() as she lacks monoy for raising a baby.
 anxious(adj.)
+I am so anxious() about the exam! What should I do?
 anybody(pron.n.)
 anyone(pron.)
 anyway(adv.)
@@ -167,21 +215,34 @@ anyhow(adv.)
 anywhere(adv.n.)
 
 apart(adv.adj.)
+They set one man apart() from the rest.
 apartment(n.)
 apology(n.)
+he planned to make an apology() by giving a gift to his girlfriend.
 apologize(vi.vt.)
+I want to apologize() for going to dinner with my ex-girlfriend. I'm so sorry!
 appointment(n.)
+I made an appointment()  with my doctor.
 approach(vi.vt.n.)
 applause(n.)
+my talk was so popular that there was applause() from everyone.
 appetite(n.)
+Wow, what a huge appetite() you have!
 apparatus(n.)
+He's the only one who knows how the apparatus() works.
 apparent(adj.)
+It's apparent() that the boy is taller than the girl.
 applaud(vi.vt.)
+We strated to applaud() after he finished his presentation.
 appoint(vi.vt.)
 appeal(vi.vt.n.)
+Money has great appeal() to most people.
 appear(vi.)
+I'm so excited! My idol is about to appear() on stage!
 apply(vi.vt.)
+Now, I'll apply() some cream to your face.
 appropriate(adj.vt.)
+Cinderella's foot size is appropriate() for the glass shoe.
 applicant(n.)
 apple(n.)
 appreciate(vt.vi.)
@@ -194,56 +255,82 @@ appraisal(n.)
 appliance(n.)
 
 Arabian(adj.n.)
+The Arabian() prince died so young, What a pity!
 arbitrary(adj.)
+Flipping a coin is an arbitrary() way to make decisions.
 architect(n.)
+The architect() imagines the house that his client wants to build.
 architecture(n.)
+The architecture() of these ancient buildings is amazing!
 argument(n.)
+The girl had an argument() with her boyfriend about the video game.
 argue(vt.vi.)
 arithmetic(n.)
+The boy is doing arithmetic() homework. It's easy for him.
 arise(vi.)
+He arise() at 7 a.m. every morning.
 arrow(n.vt.)
 arrangement(n.)
+There was a comfortable arrangement() of tables for outdoor dining.
 arrival(n.)
+After my arrival(), I called my boyfriend and asked him to pick me up.
 arrest(vt.n.)
+Monkey King was under arrest() for defacing public property.
 arrange(vt.vi.)
+I can arrange() my toys so that they all fit in a box.
 artist(n.)
+The artist() is painting.
 artificial(adj.)
+Even with an artificial() leg, he can still beat you in a race.
 artistic(adj.)
+You're never too old to discover your artistic() side.
 article(n.vi.vt.)
-artificial leg(phr.)
 
 ashamed(adj.)
+The cat felt ashamed() that it was caught when eating the goldfish.
 ash(n.)
 aside(adv.n.prep.)
 aspect(n.)
 assign(vi.vt.)
 assignment(n.)
 assist(n.vi.vt.)
+The nurse will assist() you in walking to your car.
 assistance(n.)
+I climbed uo the hill with the assistance() of my friend.
 assistant(n.adj.)
+His assistant() asked him to sign the papers.
 assess(vt.)
+It's her job to assess() her patient's health.
 assemble(vi.vt.)
 assembly(n.)
+Representatives() from different countries attended the assembly() of the UN.
 asset(n.)
 assume(vt.)
 assumption(n.)
+After merriage, we make the assumption() that a baby will soon follow.
 assure(vt.)
 associate(vi.vt.n.adj.)
 association(n.)
 astonish(vt.)
 astronaut(n.)
+As a kick-ass astronaut(), I have a special spaceship.
 
 athlete(n.)
+He was a great athlete() who ran really fast. 
 Atlantic(adj.n.)
 atmosphere(n.)
+We should protect the atmosphere() of the earth to reduce global warming.
 atomic(adj.)
+A mushroom cloud formed after the atomic() bomb went off.
 atom(n.)
 attack(n.vi.vt.)
 attitude(n.)
+The waiter has such a bad attitude().
 attempt(n.vt.)
 attract(vi.vt.)
 attractive(adj.)
 attraction(n.)
+As soon as we meet, there was an instant attraction() between us.
 attain(vt.vi.n.)
 attend(vi.vt.)
 attention(n.)
@@ -251,113 +338,145 @@ attach(vi.vt.)
 attorney(n.)
 
 auction(n.vt.)
+I hold an auction() to sell my house because I am broke.
 audio(adj.)
 audience(n.)
 aunt(n.)
 automatic(adj.n.)
+The automatic() production line improves the working efficiency greatly.
 authority(n.)
+The judge is the authority() on the meaning of the law.
 author(n.vt.)
+I want to be an author() and write books.
 auto(n.vi.)
 automobile(n.vt.)
 auxiliary(adj.n.)
 
 available(adj.)
 average(n.adj.vi.vt.)
+His height equals the average()  of his parents' heights.
 avenue(n.)
+The avenue()  is lined with lush green trees.
 aviation(n.)
 avoid(vt.)
 
 await(vt.)
 aware(adj.)
+The teacher is aware()  of students that cheat on the exam.
 award(n.vt.)
+I can't believe I won the award() for best actress.
 awake(adj.vi.vt.)
+It's already 3:22 a.m, but she is still awake().
 awful(adj.)
+There was an awful() smell comong from the dusbin.
 awkward(adj.)
+He felt a bit awkward() when receiving a bunch of crops.
 
-
-
-
-baby(n.vt.adj.)
 background(n.adj.vt.)
+I have a photogragh with the sea in the background().
 bacteria(n.)
+I'm infected with some bacteria(); that's why I have to go to the hospital.
 bacon(n.)
 backward(adj.adv.)
-bad(adj.adv.n.)
 badminton(n.)
+Playing badminton() on the grass makes the little boy so happy.
 badly(adv.)
 baffle(vi.vt.n.)
 baggage(n.)
-bag(n.vi.vt.)
+The young man is waiting for his baggage().
 bake(vi.vt.n.)
 balance(n.vi.vt.)
 balloon(n.vi.vt.adj.)
 balcony(n.)
 ball(n.vi.vt.)
 ballet(n.)
-ban(vt.n.)
+ban(vt.n.) The restaurant bans() smoking indoors. 
 bangs(n.)
+The women is cutting her own bangs().
 bankrupt(adj.n.vt.)
+With no more money, I'm completely bankrupt().
 banner(n.)
 banana(n.)
 bang(n.vt.adv.)
 band(n.vi.)
+The Beatles's live band() performance fascinated their fans.
 barn(n.vt.)
+The barn() was full of grains -- what a rich harvest!
 bar(n.vt.prep.)
+There's no one drinking in the bar(); it's too early.
 bargain(n.v.)
+The old lady is trying to bargain() with the paddler.
 bare(adj.vt.)
+He is running arround in bare() feet.
 barely(adv.)
 bark(vt.n.)
 barrier(n.vt.)
 barrel(n.vi.vt.)
 barber(n.vi.vt.)
 basin(n.)
+The basin() is out bathroom was very clean.
 basement(n.)
+The basement() is musty and has a strange smell.
 basis(n.)
 base(n.vt.adj.)
 baseball(n.)
 battle(n.vi.vt.)
+The soldiers fought really hard in the battle().
 bat(n.vi.vt.)
 bath(n.vi.vt.)
+I took a long bath() to relax myself.
 bathe(vi.vt.n.)
 battery(n.)
 bay(n.vi.vt.)
-
-
-
+The bay() cuts into the land and makes a perfect place to go swimming.
 
 beat(vi.vt.n.adj.)
+I beat() the meat flat so we can make hamburgers.
 bean(n.vt.)
+Coffee is made from coffee bean().
 beach(n.vi.vt.)
+We spent a wonderful day at the beach().
 beard(n.vi.vt.)
+Santa is famous for his big white beard().
 bearing(n.)
+To reach the park from the subway, walk a bearing() of 70 degrees north-east.
 beam(n.vi.vt.)
 beast(n.)
 bear(n.vi.vt.)
 beauty(n.)
 bechelor(n.)
 become(vi.vt.)
+This little green shoot will soon become() a beautiful flower.
 bee(n.)
+Thank you, little bee(), for making such delicious honey.
 beer(n.vi.)
 beg(vi.vt.)
 beggar(n.vt.)
+That beggar() must be cold and hungry.
 behalf(n.)
+Lord Bao attended the conference on behalf() of Baicizhan.
 behavior(n.)
+His behavior() in class has improved a lot over the past month.
 behave(vi.vt.)
 belong(vi.)
 belief(n.)
+I have a strong belief() in God.
 beloved(n.adj.)
+You are my beloved().
 belt(n.vi.vt.)
+Each belt() represents a different Taekwondo level.
 bench(n.vt.)
 benefit(vi.vt.n.)
+Morning exercises benefit() old people.
 beneath(prep.adv.)
+Most of the iceberg is beneath() the surface.
 beneficial(adj.)
+It would be beneficial() for you to go to outside every once in a while.
 bend(vi.vt.n.)
 besides(prep.adv.)
 bet(n.vi.vt.)
+I made a huge bet() in the game but I lost, and now I have no money.
 beyond(adv.n.prep.)
-
-
-
 
 bible(n.)
 bicycle(n.vi.vt.)
@@ -366,214 +485,288 @@ big(adj.adv.)
 bike(n.vi.)
 billion(num.n.adj.)
 bind(vi.vt.n.)
+The mummy is helping to bind() each other with the bandage.
 biology(n.)
 biscuit(n.adj.)
 bitterly(adv.)
+He was bitterly() disappointment after being rejected by her again.
 bite(vi.vt.n.)
 
-
-
 blast(n.vi.vt.)
+The building was destroyed in the blast() after he turned around.
 blank(adj.n.vi.vt.)
+Your notepad is blank(); write some notes about the meeting!.
 blade(n.)
 blanket(n.adj.vt.)
 blame(vt.n.)
 blend(vi.vt.n.)
 bleed(vi.vt.)
 blind(adj.adv.n.vt.)
+I'm blind(), but my dog can see for me.
 bloody(adj.adv.vt.)
+He cut himself and created a bloody() mess.
 block(adj.vt.n.)
 bloom(vi.vt.n.)
+These purple flowers bloom() in spring.
 blouse(n.vi.vt.)
 blockade(n.vt.)
 blonde(adj.n.)
 
-
-
 board(n.vi.vt.)
+There is a board() hanging on the outside of the door.
 boast(vi.vt.n.)
 boil(vi.vt.n.)
 bold(adj.)
 bolt(n.vi.vt.adj.)
 bomb(n.vi.vt.)
+Let's get out of here! The bomb() will go off in three seconds!
 bond(n.vi.vt.)
+Family members have a strong bond(). You can never tear them apart.
 bone(n.vi.vt.)
 boot(n.vt.)
 boom(n.vi.vt.)
 boost(vi.vt.n.)
 boring(adj.n.)
+I've done my boring() homework - now can I go outside and play?
 border(n.vi.vt.)
 bottle(n.vi.vt.)
+I hope someone finds my message in this bottle().
 bother(vi.vt.n.)
+Don;t bother() me! I'll never play with you again!
 bottom(n.vi.vt.adj.)
 bounce(vi.vt.n.)
 bound(adj.n.vi.vt.)
+Many people are bound() to their jobs.
 boundary(n.)
 bow(vi.vt.n.adj.)
 box(n.v.vt.)
 boy(n.)
 
-
-
 branch(n.vi.vt.)
+The man cut off a branch() from the tree.
 brake(vi.vt.n.)
+Not agian -- I hate having to brake() my car for cows.
 brandy(n.)
+Many people prefer brandy() to other hard liquors.
 brass(n.)
+The 18 brass() monks are a secert weapon of Shaolin monastery.
 brand(n.vt.)
 brave(adj.vt.n.)
 breadth(n.)
+You can measure the breadth() of the room with this measuring tool.
 breast(n.vt.)
+She held her baby to her breast() to give some milk.
 breed(n.vi.vt.)
 breeze(n.vi.)
+She smiled when a gentle breeze() blew her hair.
 breakthrough(n.)
 briefcase(n.)
+My new briefcase() is black.
 brick(n.vt.adj.)
 British(adj.n.)
+He's waving the British() flag.
 bride(n.)
+The bride() is holding a bouquet of flowers.
 brilliant(adj.)
 brief(adj.n.vt.)
 Britain(n.)
 brow(n.)
 brother(n.int.)
 broad(adj.adv.n.)
+The road is so broad() that many cars can run at the same time.
 broom(n.vi.vt.)
+One of my duties is to sweep the floor with a broom().
 broadcast(vi.vt.n.adj.)
 brown(n.adj.vi.vt.)
 brush(n.vi.vt.)
+Different sizes if brush() may be applied int different situations.
 brutal(adj.)
-
-
+This terrorist attack was incredibly brutal()!
 
 bubble(vi.vt.n.)
 bucket(n.vi.vt.)
 budget(n.adj.vi.vt.)
 bulb(n.vi.)
+Putting a bulb() in your mouth may seem fun, but it probably isn't too smart.
 bulk(n.vt.)
+Buying tomatoes in bulk() is more economical than buying in small quanttities.
 bullet(n.vi.)
+I need to buy some bullet() for my gun.
 bump(n.vi.vt.adv.)
 bundle(n.vi.vt.)
+Mum said I was the freebie from a bundle() sale.
 bunch(n.vi.vt.)
 burst(n.vi.vt.)
+The burst()  of the bomb led to the mushroom cloud in the sky.
 burden(n.vt.)
+Our homework burden() is too heavey.
 bureau(n.)
 bury(vt.)
 bush(n.vi.vt.adj.)
+The shape of the bush() looks like a ball.
 bus(n.)
 butcher(n.vt.)
 button(n.vi.vt.)
 butterfly(n.)
 
-
-
-
-
-
 cab(n.vi.)
 cabbage(n.)
+I am cutting up this cabbage() to make a salad.
 cabin(n.vi.vt.)
+We like to go to our small log cabin() in the woods.
 cable(n.vi.vt.)
 cabinet(n.adj.)
 cafe(n.)
 cage(n.vt.)
+Get me out of this cage()! Where's the key?!  
 cake(n.vi.vt.)
 calm(adj.n.vi.vt.)
+She is so calm() although the endless work bothers her.
 calculate(vt.vi.)
+Let's calculate() the final amount.
 calendar(n.vt.)
+The month is over, so it's time to flip to the next month on the calendar().
 calculator(n.)
 calorie(n.)
 campaign(n.vi.)
+Many people came to support the president's campaign().
 campus(n.)
+The college campus() is a great place for dating.
 camel(n.adj.vi.)
 cancer(n.)
+Smoking can cause lung cancer() .
 cancel(vi.vt.n.)
 candy(n.vt.vi.adj.)
+I love to eat all kinds of candy().
 canal(n.vt.)
 candidate(n.)
 Canadian(adj.n.)
 capture(vt.n.)
 capacity(n.)
+The capacity() of this cup is 2 liters.
 captain(n.vt.)
+That captain()  is so charming.
 cap(n.vi.vt.)
+Police wear a blue cap()  when on duty.
 capable(adj.)
+Your penguin is a weightlifter? That must be a very capable() bird!
 capital(n.adj.)
+Big Ben is a famous landmark in the capital() city of London.
 cartoon(n.vi.vt.)
+In cartoon() world, everything  seems nice and cute.
 card(n.vt.)
+Here is my card(). It has my phone number and email on it.
 carrier(n.)
+The carrier() takes the goods towards his trunk.
 cargo(n.)
+This machine loads the cargo() onto the ship.
 carrot(n.)
 carbon(n.adj.)
+Coal burns so easily because it contains lots of carbon().
 carpet(n.vt.)
+Owning a flying carpet() is just like a dream to me.
 car(n.)
 carriage(n.)
+I would love to take a carriage() ride with you in the park.
 career(n.adj.vi.)
 carpenter(n.vi.vt.)
 cart(n.vi.vt.)
 casualty(n.)
+We suffered one casualty() at work today.
 cash(n.vt.)
 cast(vi.vt.n.)
+My friend says he wants to fly so I help to cast() him.
 cassette(n.)
+People used to play music with cassette() tapes.
 cashier(n.vt.)
+The impolite customer shouted at the innocent cashier().
 castle(n.vt.)
+One day, I will be a king and live in a castle().
 casual(adj.n.)
 cattle(n.)
+Some cattle()  are grazing in the field.
 catalog(n.vi.vt.)
+There is a variety of clothes on the catalog()  for us to select.
 cat(n.)
 category(n.)
 cautious(adj.)
+It's good to be cautious() and use your seat belt.
 cause(n.vt.)
+Somking can cause() lung cancer.
 cave(n.vi.vt.)
-
-
-
 
 cease(vi.vt.n.)
 cell(n.vi.)
 cement(n.vi.vt.)
+We pour the cement()  in before it dries.
 centigrade(adj.)
+Flowers would be nicely treated at 25 degress centigrade().
 centimeter(n.)
 center(n.vi.vt.adj.)
+You'll get lots of points if you hit the center() of the target.
 central(adj.n.)
+We should all meet at a central() point.
 census(n.vt.)
 ceremony(n.)
+The student was awarded his certificate during the graduation ceremony().
 certificate(n.vt.)
+After I finished the course they gave me a certificate().
 certainly(adv.)
+He will certainly() lost if he plays basketball with Yao Ming.
 certain(adj.pron.)
 
-
-
-challenge(n.vt.)
+challenge(n.vt.) Dare you take the ice bucket challenge() like me? 
 chair(n.vt.)
+Sitting in the dentist chair() always fills me with fear.
 chart(n.vt.)
+This chart() shows taht our annual sales have continued to rise.
 chamber(n.adj.vt.)
+The chamber() has enough seats for a meeting.
 channel(n.vt.)
 chain(vt.n.)
 chat(vi.vt.n.)
+The women chat() casually about their lives
 characteristic(n.adj.)
+The main characteristic() of an elephant is its long trunk.
 charter(n.vt.)
+The American Constitution is a charter() that outlines a system of government.
 chapter(n.vt.)
+Please open your books to the first chapter().
 champion(n.vt.adj.)
+Mr. Bug won the poop-rolling game! Congratulations to the champion().
 character(n.vt.)
 charming(adj.)
+The princess in that movie was very charming().
 charity(n.)
+This charity() provides practical help to homeless children.
 charge(vi.vt.n.)
+My phone is out of power, charge() it now.
 charm(n.vi.vt.)
 characterize(vi.vt.)
 chase(vi.vt.n.)
 chap(n.vi.vt.)
 chaos(n.)
 chew(vi.vt.n.)
+Please don't chew() and speak at the same time.
 chest(n.)
+That's a big chest() for a man.
 cheek(n.vt.)
 chemical(n.adj.)
 check(vi.vt.n.)
+Let me check() that our blood pressure is OK.
 cheat(vi.vt.n.)
+I always cheat() when I play cards.
 cheerful(adj.)
 chemist(n.)
 chimney(n.)
+The smoke from the factory's chimney() can be seen from miles away.
 chill(n.vi.vt.adj.)
+I feel a chill() coming on. The temperature us set too low.
 China(n.adj.)
 chief(n.adj.adv.)
+As the chief() of the team, the male lion can have many mates.
 childhood(n.)
+My childhood() was a happy and innocent time! I was lucky.
 child(n.)
 chip(n.vi.vt.)
 Chinese(n.adj.)
@@ -581,33 +774,42 @@ chin(n.vi.vt.)
 chop(vt.n.)
 choke(vi.vt.n.)
 choice(n.adj.)
+To make the right choice(), you have to attend the lessons.
 choose(vi.vt.)
 chocolate(n.adj.)
 Christian(n.adj.)
 chromic(adj.)
 Christ(n.int.)
+Jesus Christ() is an important figure for billions of people.
 chronological(adj.)
+The list of these books is in chronological() order.
 
 cigarette(n.)
 cigar(n.)
 circle(n.vi.vt.)
 circumference(n.)
+Can you measure the circumference() of this apple?
 circumstance(n.)
 circuit(n.vi.vt.)
+The electrician is taking a look at the circuit() board.
 circulate(vi.vt.)
 citizen(n.)
+Every citizen() aged eithteen or over has the right to vote in China.
 cite(vt.)
 civil(adj.)
+Votind is an important civil() right.
 civilian(n.adj.)
 civilization(n.)
-
-
+The Egyptian civilization() lasted for thousands of years.
 
 clap(vi.vt.n.)
+In a show of support they all began to clap() their hands.
 class(n.vi.vt.adj.)
 classical(adj.n.)
+I love classical() music.
 claw(n.vi.vt.)
 clause(n.)
+The last clause() states that he has to do what she says.
 claim(vi.vt.n.)
 clarity(n.)
 classic(adj.n.)
@@ -618,20 +820,26 @@ clash(vi.vt.n.)
 clerk(n.vi.)
 climate(n.)
 cliff(n.)
+The steep white cliff() surrounded the bay.
 cling(vi.)
+The koala cling() to the tree.
 climb(vi.vt.n.)
+I dont't think I  could climb() that mountain.
 click(vi.vt.n.)
 client(n.)
 clothe(vt.)
 clothing(n.)
 cloth(n.adj.)
+This cloth() has a beautiful design.
 clue(n.vt.)
+The detecttive is looking for a clue() to help him find the criminal.
 clumsy(adj.)
-
-
+The clumsy() man fell dow the staurs and hurt himself.
 
 coarse(adj.)
+This sack is made of coarse() cloth.
 coach(n.vi.vt.)
+My fitness coach() teaches me how to exercise.
 cock(n.)
 code(n.vi.vt.)
 cognitive(adj.)
@@ -639,51 +847,80 @@ coil(n.vi.vt.)
 collapse(vi.vt.n.)
 column(n.)
 collision(n.)
+Fortunately no one was injured in the collision() between the cars.
 colleague(n.)
+I really learned a lot by discussing with my colleague().
 color(n.vi.vt.)
 collar(n.vt.)
+The collar() of this shirt is too tight.
 collective(adj.n.)
+Class fund is collective() property. It needs everybody to contribute.
 collect(vi.vt.adj.adv.)
 colony(n.)
 college(n.)
 collection(n.)
 communication(n.)
+They like to use cellphone for communication() .
 competitor(n.)
 complex(n.adj.)
+Modern road system can be very complex() .
 comprise(vt.)
 comrade(n.)
+A comrade() may save your life in the war.
 compose(vi.vt.)
+The man compose() new songs on his keyboard.
 combat(n.vi.vt.adj.)
+In ancient times fighters rode horses into combat().
 comprehensive(adj.n.)
+She's making a comprehensive() consideration of all her option.
 commission(n.vt.)
 commercial(adj.n.)
 complete(adj.vt.)
 compute(vi.vt.n.)
+I like using a calculator to compute().
 compass(n.vt.)
+When you get lost outdoors, you can use a compass().
 community(n.)
+All of us are living on earth as a community().
 comment(n.vi.vt.)
+Her friends comment() on her post.
 competitive(adj.)
+The soccer game was really competitive().
 comedy(n.)
+This TV comedy() show is quite interesting.
 component(n.adj.)
+There are different kinds of electrical component().
 compound(n.adj.v.)
+They are considering how to create a new compound().
 company(n.vi.vt.)
+Our company() has a new office building.
 commerce(n.)
 commitment(n.)
+They made a commitment() to each other at their wedding ceremony.
 competition(n.)
+Who is going to win this competition()?
 competent(adj.)
+She's a competent() worker and good at her job.
 compel(vt.)
 complaint(n.)
 communist(adj.n.)
 comparative(adj.n.)
+I did a comparative() study of which kind of car uses the least fuel, and decided on the smallest car.
 compete(vi.)
+We compete() against each other to see who's the faster rider.
 communism(n.)
+The idea of communism() was first introduced by Kral Marx.
 complain(vi.vt.)
 composition(n.)
 comparable(adj.)
+The two dogs are comparable() in size and strength.
 comb(vt.vi.n.)
 companion(n.vt.)
+In my English textbook, thay are great studying companion().
 combine(vt.vi.n.)
+You must combine() many different kinds of food to make this dish.
 complicated(adj.)
+Math is a very complicated() subject - it makes my head hurt.
 comprehension(n.)
 comfort(n.vt.)
 compress(vi.vt.)
@@ -698,71 +935,122 @@ comparison(n.)
 compare(vi.vt.n.)
 commander(n.)
 congress(n.)
+This is the place where the congress() members would have a meeting. 
 concentration(n.)
+Completing an exam requires a lot of concentration().
 confront(vt.)
+The two man confront()  each other with anger.
 conductor(n.)
 concise(adj.)
+His word is always concise(), which shows his unique attitude.
 consent(n.vi.)
+I give you my consent(); you can do it if you want.
 conjunction(n.)
+In language, conjunction()  are words like and and but.
 contrary(adj.adv.n.)
+The lady and the man hold contrary() views.
 congratulation(n.)
 constant(adj.n.)
+The constant() noise from the construction site makes me crazy.
 consult(vi.vt.)
 consist(vi.)
 convenience(n.)
+Sometimes I eat instant noodles for convenience().
 consciousness(n.)
+He bumped into a wall and lost consciousness().
 contest(n.vi.vt.)
+The contest() is so fierce that we can't tell the winner now.
 conversation(n.)
+I enjoy having a conversation() with friends.
 conversely(adv.)
+The two men conversely() thought about the water in the glass.
 conference(n.vi.)
+I attended the conference() t learn from other people.
 considerate(adj.)
+As a considerate() boyfriend, he took good care of her when she was ill.
 conscience(n.)
 contain(vt.vi.)
+Bottles with this sign usually contain() poison.
 confess(vi.vt.)
+Father, I'm here to confess() all mu sins.
 confine(vt.n.)
 confuse(vt.)
+I always confuse() the girl with her twin sister.
 conquest(n.)
+The cat made a conquest() of it enemy in the pillow fight.
 connect(vi.vt.)
 conventional(adj.)
+They look like conventional() businessmen.
 conform(vi.vt.)
 condense(vi.vt.)
+We condense() all kinds of herbs into pill form.
 confident(adj.)
+The cat felt confident(); in his mind, he was a powerful beast.
 conduct(vi.vt.n.)
 conversion(n.)
+Thankfully, the conversion() rate of RMB to foreign currency is getting better gradually.
 conclusion(n.)
+I finally draw a conclusion() from these facts.
 concentrate(vi.vt.n.)
+If you want to hit the target, you will have to concentrate() and focus.
 constitute(vt.)
+Bread, beef, cheese and salad constitute() the perfect burger.
 concept(n.)
+Let me explain the concept() with this diagram.
 concert(n.vt.vi.adj.)
+I want to got to the band's concert() so much! I LOVE their music.
 concrete(n.adj.vi.vt.)
+I love to watch builders mixing concrete().
 concession(n.)
+The mother made a concession() and allowed the boy to continue watching TV.
 consume(vt.vi.)
 conscious(adj.)
+The patient finally became conscious() after the operation.
 convict(n.vt.)
+The convict() is in prison for some pretty terrible crimes.
 contribution(n.)
+Thanks to all of you for making a contribution() to our charity.
 condition(n.vt.)
+The living condition() here are really poor.
 congratulate(vt.)
 contribute(vi.vt.)
+Many people contribute() money to help people in need.
 construction(n.)
+The house is under construction().
 consider(vi.vt.)
+I will consider() your offer, but I think I can get a better one.
 consequent(adj.n.)
+A consequent() effect of not sleeping is dark eye-bags.
 convince(vt.)
 confidence(n.adj.)
+She really has confidence() about how her face looks.
 controversy(n.)
+Which kind of flavour is more delicious? There was controversy() over the result!
 content(n.adj.vt.)
 convey(vt.)
 convenient(adj.)
+It's so convenient()! You can buy things here at any time.
 console(vt.n.)
+My boyfrienf always tries his best to console() me when I'm upset.
 condemn(vt.)
 consumption(n.)
+My monthly electricity consumption() costs me a lot!
 controversial(adj.)
+Is a bot baby better than a girl baby? This is a controversial() topic.
 concede(vt.vt.)
+Although it's hard to accept the truth, I must concede() that she is prettier than me.
 construct(vt.n.)
+To construct() a whole house from the ground up isn't easy.
 container(n.)
+There are a lot of container() at the port.
 conceal(vt.)
+I use this mask to conceal() my face.
 consumer(n.)
+The customers buy many consumer() goods.
 continuous(adj.)
+That genius drew a singing man with one continuous() line.
 conservative(adj.n.)
+This man's outfit was too conservative() that he even covered his face!
 concern(n.vt.)
 consequence(n.)
 conflict(n.vi.)
@@ -790,14 +1078,18 @@ conquer(vi.vt.)
 constitution(n.)
 confirm(vt.)
 cooperative(adj.n.)
+It requires cooperative() efforts to beat the red team.
 cooperate(vi.)
+If we cooperate(), we will get the job done more quickly.
 cook(n.vt.vi.)
 cooperation(n.)
 coordinate(vi.vt.n.adj.)
 copyright(n.adj.vt.)
+They are fighting over the copyright() of that moon logo.
 cop(n.vt.)
 copper(n.adj.vt.)
 corner(n.vi.vt.)
+The litter boy unhappily sat in the corner()  of the room.
 corporation(n.)
 correspondence(n.)
 correct(adj.vi.vt.)
@@ -822,8 +1114,6 @@ county(n.)
 counsel(n.vi.vt.)
 coverage(n.)
 cow(n.vt.)
-
-
 
 crawl(vi.vt.n.)
 crazy(adj.)
@@ -859,8 +1149,6 @@ crude(adj.n.)
 cruise(n.vi.vt.)
 crystal(n.adj.)
 
-
-
 cube(n.vt.)
 cubic(adj.)
 cue(n.vt.)
@@ -884,11 +1172,7 @@ custom(n.adj.)
 cushion(n.vt.)
 cut(vi.vt.adj.n.)
 
-
-
-
 cycle(n.vi.vt.)
-
 
 dairy(n.adj.)
 daily(adj.adv.n.)
@@ -906,9 +1190,6 @@ date(n.vi.vt.)
 daughter(n.adj.)
 dawn(n.vt.)
 daylight(n.)
-
-
-
 
 deadline(n.)
 deal(n.vi.vt.)
@@ -1003,9 +1284,6 @@ devise(n.vt.)
 device(n.)
 develop(vi.vt.)
 
-
-
-
 diary(n.)
 dialect(n.adj.)
 diameter(n.)
@@ -1082,11 +1360,6 @@ division(n.)
 diverse(adj.)
 divorce(n.vi.vt.)
 
-
-
-
-
-
 document(n.vt.)
 dock(n.vi.vt.)
 dog(n.vt.)
@@ -1109,8 +1382,6 @@ downward(adv.adj.)
 downtown(adj.adv.n.)
 dozen(n.adj.)
 
-
-
 dramatic(adj.)
 draw(vi.vt.n.)
 drawer(n.)
@@ -1132,8 +1403,6 @@ drought(n.)
 drum(vi.vt.n.)
 drunk(adj.)
 
-
-
 due(adj.adv.n.)
 dull(adj.vi.vt.)
 dump(vi.vt.n.)
@@ -1144,14 +1413,11 @@ durable(adj.n.)
 dust(n.vi.vt.)
 dusk(n.vi.vt.adj.)
 
-
 dwelling(n.)
-
 
 dye(vi.vt.n.)
 dying(adj.n.)
 dynamic(adj.n.)
-
 
 eagle(n.)
 eager(adj.)
@@ -1162,7 +1428,6 @@ ear(n.vi.)
 eastward(adv.adj.n.)
 eastern(adj.n.)
 ease(n.vi.vt.)
-
 
 economical(adj.)
 economics(n.)
@@ -1176,7 +1441,6 @@ edition(n.)
 editor(n.)
 educate(vi.vt.)
 
-
 effort(n.)
 efficiency(n.)
 effective(adj.)
@@ -1185,13 +1449,10 @@ efficient(adj.)
 
 egg(n.vt.)
 
-
 eighty(num.n.adj.)
 eight(num.n.adj.)
 eighth(num.adj.)
 eighteen(num.n.adj.)
-
-
 
 elastic(adj.n.)
 elaborate(adj.vi.vt.)
@@ -1268,7 +1529,6 @@ envelope(n.)
 envy(n.vi.vt.)
 environment(n.)
 
-
 episode(n.)
 
 equipment(n.)
@@ -1294,7 +1554,6 @@ estimate(vi.vt.n.)
 eternal(adj.)
 ethnic(adj.)
 
-
 evaporate(vi.vt.)
 evaluate(vi.vt.)
 everywhere(adv.n.)
@@ -1310,7 +1569,6 @@ evident(adj.)
 evidence(vt.n.)
 evolution(n.)
 evolve(vi.vt.)
-
 
 examine(vi.vt.)
 exaggerate(vi.vt.)
@@ -1375,7 +1633,6 @@ extent(n.)
 eye(n.vt.)
 eyesight(n.)
 
-
 fabric(n.)
 faculty(n.)
 facility(n.)
@@ -1415,9 +1672,6 @@ favor(n.vt.)
 favorable(adj.)
 favourable(adj.n.)
 
-
-
-
 feasible(adj.)
 feature(n.vi.vt.)
 feather(n.vi.vt.)
@@ -1432,9 +1686,6 @@ fertile(adj.)
 fertilizer(n.)
 festival(n.adj.)
 fetch(vt.vi.n.)
-
-
-
 
 fiber(n.)
 fiction(n.)
@@ -1451,8 +1702,6 @@ finding(n.)
 financial(adj.)
 fisherman(n.)
 five(num.adj.n.)
-
-
 
 flat(n.vt.vt.adj.adv.)
 flame(n.v.)
@@ -1472,8 +1721,6 @@ flood(n.vi.vt.)
 flourish(vi.vt.n.)
 fluent(adj.)
 fluid(n.adj.)
-
-
 
 focus(n.vi.vt.)
 fog(n.vi.vt.)
@@ -1514,8 +1761,6 @@ fourteen(num.n.)
 four(num.)
 fox(n.vi.vt.)
 
-
-
 fragment(n.vi.vt.)
 framework(n.)
 frame(n.vi.vt.adj.)
@@ -1537,8 +1782,6 @@ fruitful(adj.)
 frustrate(vi.vt.adj..)
 fry(vi.vt.n.)
 
-
-
 fuel(vi.vt.n.)
 fulfill(vt.)
 funeral(n.adj.)
@@ -1551,11 +1794,6 @@ further(adj.adv.vt.)
 furnish(vt.)
 fur(n.vt.)
 fuss(n.vi.vt.)
-
-
-
-
-
 
 gain(vi.vt.n.)
 gallery(n.vi.vt.)
@@ -1574,9 +1812,6 @@ gauge(n.vt.)
 gay(n.adj.)
 gaze(vi.n.)
 
-
-
-
 gear(n.vi.vt.adj.)
 generate(vt.)
 genius(n.)
@@ -1592,14 +1827,10 @@ German(adj.n.)
 germ(n.vi.)
 gesture(n.vi.vt.)
 
-
-
 ghost(n.vt.vi.)
 
 giant(adj.n.)
 girl(n.)
-
-
 
 glance(vi.vt.n.)
 glimpse(n.vi.vt.)
@@ -1611,8 +1842,6 @@ glove(n.vt.)
 glow(n.vi.)
 glue(n.vt.)
 
-
-
 goal(n.vi.)
 goat(n.)
 golf(n.vi.)
@@ -1620,8 +1849,6 @@ goods(n.)
 goodness(n.int.)
 govern(vt.vi.)
 governor(n.)
-
-
 
 grandfather(n.vt.)
 gratitude(n.)
@@ -1655,8 +1882,6 @@ growth(n.)
 gross(adj.n.adj.)
 grocer(n.)
 
-
-
 guard(n.vi.vt.)
 guarantee(vt.n.)
 guilty(adj.)
@@ -1668,12 +1893,8 @@ gulf(n.vt.)
 gum(n.vt.)
 guy(n.vi.vt.)
 
-
-
-
 gymnasium(n.)
 gym(n.)
-
 
 hair(n.vi.vt.adj.)
 halt(vi.vt.n.)
@@ -1701,9 +1922,6 @@ hatred(n.)
 hay(n.vi.vt.)
 hazard(n.vt.)
 
-
-
-
 heading(n.)
 headline(n.vt.)
 headquarters(n.)
@@ -1729,9 +1947,6 @@ herd(n.vi.vt.)
 herself(pron.)
 hesitate(vi.vt.)
 
-
-
-
 highlight(vt.n.)
 highway(n.)
 hillside(n.)
@@ -1739,11 +1954,6 @@ hint(n.vi.vt.)
 hip(n.adj.)
 hire(vi.vt.n.)
 historic(adj.)
-
-
-
-
-
 
 hobby(n.)
 hole(n.vi.vt.)
@@ -1769,11 +1979,6 @@ housewife(n.)
 household(n.adj.)
 housing(n.)
 
-
-
-
-
-
 humorous(adj.)
 hum(vi.vt.n.int.)
 humble(adj.vt.)
@@ -1784,13 +1989,7 @@ hunt(n.vi.vt.)
 hurricane(n.)
 hut(n.vt.vi.)
 
-
-
-
 hydrogen(n.)
-
-
-
 
 iceberg(n.)
 
@@ -1801,16 +2000,10 @@ ideal(adj.n.)
 identification(n.)
 idle(adj.vi.vt.)
 
-
-
 ignition(n.)
 ignorant(adj.)
 ignore(vt.)
 ignorance(n.)
-
-
-
-
 
 illustrate(vi.vt.)
 illusion(n.)
@@ -1952,9 +2145,6 @@ investment(n.)
 invasion(n.)
 inward(adv.adj.n.)
 
-
-
-
 iron(vi.vt.adj.n.)
 irrigation(n.)
 
@@ -1964,12 +2154,6 @@ issue(n.vi.vt.)
 Italian(adj.n.)
 item(n.adj.v.)
 
-
-
-
-
-
-
 jail(n.vt.)
 jam(n.vi.vt.)
 Japanese(adj.n.)
@@ -1977,32 +2161,15 @@ jar(n.vi.vt.)
 jaw(n.vt.vi.)
 jazz(n.adj.vi.vt.)
 
-
-
-
 jealous(adj.)
 jeans(n.)
 jet(n.vi.vt.adj.)
 jewel(n.vt.)
 
-
-
-
-
-
-
-
-
-
 joint(n.vi.vt.adj.)
 journal(n.)
 journalist(n.)
 journey(n.vi.)
-
-
-
-
-
 
 judgement(n.)
 judge(vi.vt.n.)
@@ -2011,21 +2178,9 @@ jungle(n.adj.)
 jury(n.adj)
 justice(n.)
 
-
-
-
-
-
-
-
-
-
 keen(adj.n.)
 kettle(n.)
 keyboard(n.vi.vt.)
-
-
-
 
 kid(n.adj.vi.vt.)
 kilometer(n.)
@@ -2036,24 +2191,8 @@ kindness(n.)
 kiss(vi.vt.n.)
 kit(n.vi.vt.)
 
-
-
-
-
 kneel(vi.)
 knot(n.vi.vt.)
-
-
-
-
-
-
-
-
-
-
-
-
 
 label(n.vt.)
 labor(n.vi.vt.)
@@ -2082,9 +2221,6 @@ layer(n.vi.vt.)
 layout(n.)
 lazy(adj.)
 
-
-
-
 learning(n.)
 leak(vi.vt.n.)
 leading(adj.n.)
@@ -2104,9 +2240,6 @@ lens(n.vt.)
 length(n.)
 lessen(vi.vt.)
 lever(n.vi.vt.)
-
-
-
 
 liar(n.)
 liable(adj.)
@@ -2136,11 +2269,6 @@ literary(adj.)
 liver(n.)
 lively(adj.)
 
-
-
-
-
-
 loaf(n.vi.vt.)
 loan(n.vi.vt.)
 load(vi.vt.n.)
@@ -2165,21 +2293,11 @@ lower(vi.vt.adj.)
 loyal(adj.n.)
 loyalty(n.)
 
-
-
-
-
-
 lucky(adj.)
 luggage(n.)
 lump(n.vi.vt.adj.adv.)
 lung(n.)
 luxury(n.adj.)
-
-
-
-
-
 
 machinery(n.)
 mad(n.adj.)
@@ -2228,9 +2346,6 @@ maximum(n.adj.)
 mayor(n.)
 maybe(adv.n.)
 
-
-
-
 measure(vi.vt..n.)
 measurement(n.)
 meantime(n.adv.)
@@ -2269,9 +2384,6 @@ meter(n.vi.vt.)
 method(n.adj.)
 metric(adj.n.)
 
-
-
-
 microphone(n.)
 microscope(n.)
 midnight(n.adj.)
@@ -2300,11 +2412,6 @@ mislead(vt.)
 mist(n.vi.vt.)
 mix(vi.vt.n.)
 mixture(n.)
-
-
-
-
-
 
 mobile(n.adj.)
 modify(vi.vt.)
@@ -2335,11 +2442,6 @@ mount(vi.vt.n.)
 mountain(n.)
 movement(n.)
 
-
-
-
-
-
 mud(n.vi.vt.)
 mug(n.vi.vt.)
 multiply(vi.vt.adj.adv.)
@@ -2353,14 +2455,10 @@ muscular(adj.)
 muscle(n.vi.vt.)
 mutual(adj.)
 
-
-
-
 mysterious(adj.)
 mystery(n.)
 myself(pron.)
 myth(n.)
-
 
 nail(n.vt.)
 naked(adj.)
@@ -2373,9 +2471,6 @@ naturally(adv.)
 navy(n.)
 navigation(n.)
 naval(adj.)
-
-
-
 
 nearby(adj.adv.prep.)
 nearly(adv.)
@@ -2400,20 +2495,12 @@ neutral(adj.n.)
 nevertheless(conj.adv,)
 newly(adv.)
 
-
-
-
 niece(n.)
 nightmare(n.adj.)
 ninety(num.n.adj.)
 ninth(num.n.adj.)
 nineteen(num.)
 nine(num.adj.)
-
-
-
-
-
 
 noble(adj.n.vt.)
 noisy(adj.)
@@ -2430,11 +2517,6 @@ novel(n.adj.)
 nowadays(adv.n.)
 nowhere(adv.adj.n.)
 
-
-
-
-
-
 nucleus(n.)
 nuclear(adj.)
 nuisance(n.)
@@ -2444,12 +2526,7 @@ nurture(vt.n.)
 nut(n.vi.)
 nutritious(adj.)
 
-
-
-
 nylon(n.)
-
-
 
 obey(vi.vt.)
 object(n.vi.vt.)
@@ -2472,17 +2549,11 @@ occasional(adj.)
 
 odd(adj.n.)
 
-
 official(n.adj.)
 offensive(adj.n.)
 offend(vi.vt)
 offer(n.vi.vt.)
 offense(n.)
-
-
-
-
-
 
 olive(n.adj.)
 
@@ -2492,7 +2563,6 @@ oneself(pron.)
 onion(n.)
 online(adj.adv.)
 onto(prep.adj.)
-
 
 operational(adj.)
 operate(vi.vt.)
@@ -2510,7 +2580,6 @@ optimistic(adj.)
 optimum(adj.n)
 option(n.)
 
-
 oral(adj.n.)
 orbit(vt.vi.n.)
 orchestra(n.)
@@ -2524,7 +2593,6 @@ organize(vi.vt.)
 organic(adj.)
 origin(n.)
 original(adj.n.)
-
 
 otherwise(adv.adj.conj.)
 
@@ -2559,8 +2627,6 @@ ownership(n.)
 owner(n.)
 
 oxygen(n.)
-
-
 
 packet(n.vt.)
 pack(vi.vt.n.)
@@ -2606,9 +2672,6 @@ pause(vi.n.)
 paw(n.vi.vt)
 payment(n.)
 
-
-
-
 peasant(n.)
 peak(n.vi.vt.adj.)
 pea(n.)
@@ -2644,8 +2707,6 @@ pessimistic(adj.)
 petrol(n.)
 petroleum(n.)
 
-
-
 phase(n.)
 phenomenon(n.)
 philosopher(n.)
@@ -2674,8 +2735,6 @@ pipe(n.vi.vt.)
 pit(n.vi.vt.)
 pitch(vi.vt.n.)
 
-
-
 planet(n.)
 player(n.)
 plague(n.vt.)
@@ -2692,8 +2751,6 @@ plug(vi.vt.n.)
 plunge(vi.vt.n.)
 plural(adj.n.)
 plus(prep.n.adj.)
-
-
 
 pocket(n.adj.vi.vt.)
 poet(n.)
@@ -2733,8 +2790,6 @@ pour(vi.vt.n.)
 poverty(n.)
 powerful(adj.adv.)
 powder(n.vi.vt.)
-
-
 
 practice(vi.vt.n.)
 prayer(n.)
@@ -2840,7 +2895,6 @@ product(n.)
 
 psychological(adj.)
 
-
 publish(vi.vt.)
 pub(n.)
 publicity(n.)
@@ -2861,31 +2915,6 @@ purse(n.vt.)
 pursue(vi.vt)
 puzzle(n.vi.vt.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 quarter(vi.vt.n.)
 quality(n.adj.)
 quarrel(vi.n.)
@@ -2899,11 +2928,6 @@ quite(adv.)
 quiz(n.vt.)
 quote(vi.vt.n.)
 quotation(n.)
-
-
-
-
-
 
 race(n.vi.vt.)
 racial(adj.)
@@ -2937,9 +2961,6 @@ ratio(n.)
 rate(n.vi.vt.)
 raw(adj.n.vt.)
 ray(n.vi.vt.)
-
-
-
 
 realm(n.)
 realistic(adj.)
@@ -3086,8 +3107,6 @@ review(vi.vt.n.)
 revise(vi.vt.n.)
 reward(n.vt.)
 
-
-
 rhythm(n.)
 
 ribbon(n.vi.vt.)
@@ -3104,11 +3123,6 @@ ripe(adj.)
 risk(n.vt.)
 river(n.)
 rival(n.vi.vt.adj.)
-
-
-
-
-
 
 roast(vi.vt.adj.n.)
 roar(n.vi.vt.)
@@ -3133,11 +3147,6 @@ routine(n.adj.)
 route(n.vt.)
 royal(adj.n.)
 
-
-
-
-
-
 rub(vi.vt.n.)
 rude(adj.)
 rug(n.)
@@ -3147,11 +3156,6 @@ rumor(n.vt.)
 rural(adj.)
 rust(vi.vt.n.)
 rush(vi.vt.n.adj.)
-
-
-
-
-
 
 sacrifice(vt.vi.n.)
 sack(n.vt)
@@ -3246,8 +3250,6 @@ severe(adj.)
 sew(vi.vt.)
 sexual(adj.)
 
-
-
 shade(n.vi.vt.)
 shallow(vi.vt.adj.n.)
 shadow(n.vi.vt.adj.)
@@ -3305,7 +3307,6 @@ site(n.vt.)
 sixty(num.)
 sixteen(num.adj.)
 six(num.)
-
 
 sketch(n.vi.vt.)
 skillful(adj.)
@@ -3414,8 +3415,6 @@ spur(vt.vi.n.)
 
 square(n.adj.adv.vi.vt.)
 squeeze(vi.vt.n.)
-
-
 
 stamp(n.vi.vt.)
 station(n.vt.)
@@ -3556,7 +3555,6 @@ suspend(vi.vt.)
 suspicion(n.vt.)
 suspicious(adj.)
 
-
 sway(n.vi.vt.)
 swallow(n.vi.vt.)
 swell(vi.vt.adj.n.)
@@ -3571,7 +3569,6 @@ swing(vi.vt.n.adj.)
 Swiss(adj.n.)
 sword(n.)
 
-
 sympathy(n.)
 sympathize(vi.)
 sympathetic(adj.n.)
@@ -3581,7 +3578,6 @@ synthetic(adj.n.)
 systematic(adj.)
 systematic(adj.)
 system(n.)
-
 
 tackle(vi.vt.n.)
 tag(n.vi.vt.)
@@ -3595,9 +3591,6 @@ target(n.vt.)
 taste(vi.vt.n.)
 tax(n.vt.)
 taxi(n.vi.vt.)
-
-
-
 
 tear(vi.vt.n.)
 tea(n.vi.vt.)
@@ -3628,8 +3621,6 @@ terror(n.)
 territory(n.)
 textile(n.adj.)
 textbook(n.)
-
-
 
 thank(n.vt.int.)
 therapy(n.)
@@ -3674,11 +3665,6 @@ tire(vi.vt.n.)
 tissue(n.vt.)
 title(n.vt.adj.)
 
-
-
-
-
-
 toast(n.vi.vt.)
 tobacco(n.)
 today(n.adv.)
@@ -3700,8 +3686,6 @@ towel(n.vi.vt.)
 toward(s)(prep.adj.)
 town(n.)
 toy(n.vi.adj.)
-
-
 
 tray(n.)
 tractor(n.)
@@ -3750,8 +3734,6 @@ truly(adv.)
 trumpet(n.vi.vt.)
 trust(vi.vt.n.)
 
-
-
 tube(n.vi.vt.)
 Tuesday(n.)
 tuition(n.)
@@ -3760,7 +3742,6 @@ tunnel(n.vi.vt.)
 turbine(n.)
 tutor(n.vi.vt.)
 
-
 twelfth(num.n.)
 twenty(num.n.adj.)
 twelve(num.n.adj.)
@@ -3768,24 +3749,12 @@ twentieth(num.n.adj.)
 twin(adj.n.vi.vt.)
 twist(vi.vt.n.)
 
-
 typical(adj.)
 typewriter(n.)
 type(n.vi.vt.)
 typist(n.)
 
-
-
-
-
-
-
-
 ugly(adj.)
-
-
-
-
 
 ultimate(adj.n.)
 
@@ -3826,14 +3795,12 @@ unlike(adj.prep.)
 unpleasant(adj.)
 unusual(adj.)
 
-
 upbringing(n.)
 upon(prep.)
 upper(adj.)
 upright(adj.n.)
 upset(adj.n.vi.vt.)
 upward(adj.adv.)
-
 
 urban(adj.)
 urgent(adj.)
@@ -3850,12 +3817,6 @@ utility(n.adj.)
 utilize(vt.)
 utmost(adj.n.)
 utter(vt.adj.)
-
-
-
-
-
-
 
 vacation(n.vi.)
 vacant(adj.)
@@ -3876,9 +3837,6 @@ vary(vi.vt.)
 variable(adj.n.)
 vast(adj.n.)
 
-
-
-
 vehicle(n.)
 velocity(n.)
 venture(n.vi.vt.)
@@ -3889,9 +3847,6 @@ vertical(adj.n.)
 verb(n.)
 vessel(n.)
 veteran(n.adj.)
-
-
-
 
 via(prep.)
 vicious(adj.)
@@ -3919,11 +3874,6 @@ vital(adj.)
 vitamin(n.)
 vivid(adj.)
 
-
-
-
-
-
 vocal(adj.n.)
 vocabulary(n.)
 volunteer(n.adj.vi.vt.)
@@ -3935,17 +3885,7 @@ volume(n.adj.vi.vt.)
 vote(vi.vt.n.)
 voyage(n.vi.vt.)
 
-
-
-
-
-
 vulnerable(adj.)
-
-
-
-
-
 
 wagon(n.vt.)
 wage(n.vi.vt.)
@@ -3963,9 +3903,6 @@ waterproof(adj.n.vt.)
 wave(n.vi.vt.)
 wax(n.vi.vt.adj.)
 
-
-
-
 weakness(n.)
 wealth(n.)
 weaken(vi.vt.)
@@ -3981,8 +3918,6 @@ welfare(n.adj.)
 weld(vi.vt.n.)
 well-known(adj.)
 western(adj.n.)
-
-
 
 whale(n.vi.vt.)
 whatsoever(pron.)
@@ -4012,11 +3947,6 @@ withstand(vi.vt.)
 witness(n.vi.vt.)
 wit(n.)
 
-
-
-
-
-
 wolf(n.vt.)
 woman(n.)
 wonder(vi.vt.adj.n.)
@@ -4035,8 +3965,6 @@ worship(vt.vi.n.)
 worthwhile(adj.)
 worthless(adj.)
 
-
-
 wrap(vi.vt.n.)
 wreck(n.vi.vt.)
 wrist(n.vt.)
@@ -4044,44 +3972,7 @@ writing(n.)
 writer(n.)
 wrinkle(n.vi.vt.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 yawn(vi.vt.n.)
-
-
-
 
 yeast(n.)
 yearly(adj.adv.n.)
@@ -4089,35 +3980,12 @@ yellow(adj.n.vi.vt.)
 yes(n.adv.)
 yesterday(n.adv.)
 
-
-
-
 yield(vi.vt.n.)
-
-
-
-
-
 
 yours(pron.adj.)
 youthful(adj.)
 youth(n.)
 youngster(n.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 zealous(adj.)
 zeal(n.)
@@ -4126,3 +3994,1802 @@ zero(num.n.)
 
 zone(n.vi.vt.)
 zoo(n.)
+He reveals() his identify to be Super Man.
+The ball hit the ground and bounced(). 
+All this typing gives me wrist() pains.
+Make sure your objects is in focus() before taking the photo.
+He was a president, but now he’s just an ordinary() man. 
+The rabbit was captured() by the hunter.
+The wreck() of the plane was left here. 
+Don’t worry, this lion is tame() – It won’t hurt you. 
+I just don’t like measuring() my height!  
+The watch is water resistant(). 
+He always likes to quote() the words of chairman Mao. 
+The baby crawls() forward on his arms and legs. 
+She really dislike() vegetables. 
+The feather is the token() of her identity. 
+This is a very famous painting(). 
+The flower is purple(). 
+The temperature is 37 degrees Celsius, which is about 99 degrees Fahrenheit(). 
+Alice caught a quick glimpse() of Wonderland throught the tiny door. 
+The zebra has black and white stripes() on its sides. 
+Jacke Ma is an influential() figure in the global market. 
+The lion feeds on flesh().
+The dog really drives me mad()! It always pees on my shoes!.  
+The immune() system is like a shell, protecting our body from disease. 
+The train is delayed(), so she has to wait longer.  
+He makes me feel I'm inferior() to him. 
+She was elected as a representative() of the National People's Congress. 
+The spring is a very elastic() thing that can stretch far. 
+Worms() make good fish bait. 
+The jury() saw the injury.  
+Her salary() is her only supplementary.  
+The rules and regulations() of our school drive us mad!
+The cat is filled with the desire() to eat the fish.
+I created() the painting all by myself.
+It snowed throughout() the day and night.
+I'm on a diet(), so I'll just have a salad().
+The big boss objected() to their new plan.
+The stamp()  on the pig shows the good quality of it.
+I took my car to the garage()  to be repaired
+Customers pay money at the counter() .
+He took the silver medal, which is secondary()  in importance.
+The girl uses a pepper spray()  to protect herself.
+He eventually climbed to the summit()  of the mountain.
+The man is submitting()  the report to his boss.
+My mobile phone is very reliable() .
+What a waste()  to throw the food away.
+I wish he love me, she sighed()  with disappointment.
+The superhero punched his enemy()  in the face.
+This gallery()  has a lot of flower pictures.
+The pretty shirt is so cheap that I want to purchase()  it at once.
+The pupil is completely immersed in the glory()  of receiving a red scarf.
+Yhe man is checking the largr yellow tank() .
+Our grandfather()  loves to read us stories.
+Going after the sun exhausted()  Kuafu.
+It was fun participating in the race() .
+They accused()  each other of being wrong.
+She can reverse()  her car into a parking space.
+He has an extreme hunger()  right now. Feed him!
+The sniper looked through the scope()  to see the target.
+There is a lump()  on his neck.
+According to the schedule() , I have lots of work to do today.
+After my vacation, I showed my friends all of my travel photographs() .
+The aim of the court()  is to provide justice.
+There are many benches()  along the street.
+The rice crops are planted in long horizontal() .
+
+I would love a bowl of mild() chicken soup right now.
+A flock() of sheep were grazing on the grassland.
+Damn() it! Why do I keep getting fired!
+Turn off the stove(), or the food will be overcooked.
+Don't worry, he's an expert(), he'll know how to fix the computer.
+How did you get your hair() so straight? 
+You want me to call him? Sure(), I can do that! 
+lin falls down and creates a huge pit()  in the ground!
+Your violin has a beatuiful tone() .
+The boat is approaching()  the jetty at a high speed.
+Did you see the editorial()  in the newspaper?
+My mother dresses my twin brothers in identical()  clothing.
+The road is very straight() .
+The elephant raised his trunk()  in a salute.
+You ought()  to wipe your butt after pooping.
+Christians()  believe in Jesus.
+It's better to maintain silence()  when you do not know what to say.
+Have you read this script() ? It's very funny.
+She looks mature()  with heavy make-up.
+The tap is dripping() . Please turn it off.
+My will power makes me float()  in the air.
+The horse's long tail()  lifted up into the air as it ran.
+The optional()  subjects are usually more interesting than majors.
+I told her I wanted to break up and she attacked()  me!
+This ice cream bar tastes()  so good!
+He was so abgry that he snapped()  the pencil in two.
+I was left alone at the train station() .
+There are many different versions()  of Monkey King.
+Use the other end of the hammer to remove()  nails.
+Drinking while pregnant will do great harm()  to your baby.
+Employer exploits()  his workers ruthlessly for his own profits.
+This camera lens()  costs a lot.
+I prefer portable()  computers -- they're more convenient.
+Will you live to ninety()  years old?
+Sort()  your garbage into different bins.
+All you need to sew clothing is a needle()  and thread.
+You can see the entire city from the upper()  floors of the Empire State Building.
+Glue()  is very useful for stricking things together!
+The fat man is wondering how to pass through the narrow()  road.
+I think your hat is too flat() .
+The square dancers might be aged,but they're still dynamic() !
+Sign this with a pen(), please.
+The girl describing() to the police about what happened.
+My grandfather retired() at 60 and raised a bird.
+The welfare() of the workers is getting better.
+They are wearing traditional folk()  clothing.
+There are the face of former()  presidents.
+When I drop a rock on my foot, every single toe()  hurts.
+She use a rag()  to clean the glass window.
+He has made progressive()  progress in his grade.
+The scientist was hurt by explosive()  liquid!
+I'm trying to eat a diet()  of only fruits and vegetables.
+They used to use telegrams()  for messages.
+Use the slit()  to insert coins and activate the machine.
+The status of subordinates()  is lower than their superior.
+The reeds sway()  back and forth in the wind.
+The cat caught so many mice, so he deserved()  the reward.
+Some cement fell from the wall, leaving the bricks exposed() .
+The broken-hearted man tears()  the photo into pieces.
+It's sensible()  to avoid drinking or smoking too much.
+Your Majesty, can you still recall() the day you met her?
+My grandfather is eighty() years old.
+This car can reach a high speed() .
+He is trying to shoot() te birds in the shy.
+I'm seizing() this money -- I need is the most.
+I hate being enclosed() int this cage.
+The family tree shows everyone I'm related() to.
+This pizza is oven baked() and 100% delicious.
+Look eastward() to watch the sunrise.
+Wow, you hit hte bullseye with three arrows()! Nice shooting!
+When he tried to kiss her, she resisted().
+The worker drills() into the wall.
+She can't hold her tears when she chops() the onion.
+Give me back my hat, said the mushroom() sadly.
+I'm blind, but I can read this book using my sense() of touch.
+Some man-made fibers() can be used for making ropes.
+We set out with enough provisions() to last the trip.
+The light is very dim(), I can's see who it is.
+I'll commit suicide() if you don't feed me fish!
+You should take the initiative() and go fitst.
+The building collapsed() after the earthquake.
+Little George is the youngest prince() of the United Kingdom.
+Fishing is my hobby(), so I often go to the lake on weekends.
+We invited the mayor() to the ribbon-cutting ceremony.
+The thivkness() of the wall is 6cm.
+After their retired, my grandparents received a pension() every month.
+A Swiss Army knife contains many different useful() tools.
+She has so many vivid facial expressions().
+He brought three glasses of water on a tray().
+Applications in smart phones have enriched() our life.
+Butcher()'s job ismainly cutting and selling meat.
+IS this question true or false()?
+Mom often helps me with my learning().
+The doctor will show you how to use the mobile() phone.
+I've collected all the writings() of Shakespeare.
+This bug cup can hold a pint() of beer.
+Adverb() can be uesd to modify verbs.
+The dog uses an umbrella() to block the sun.
+They pray and read the Bible because of their religious() beliefs.
+The bird's nest is the most famous stadium() in Beijing.
+These statistics() can help analyze the stock market.
+We use tractors() to farm.
+This necklace is made id beautiful jewels().
+I bought insurance() for my car.
+The paper is covered with many small dots().
+The US embassy() in the U.K. is located in London.
+I like the white sheet() since it looks clean.
+He was very good with monetary() matters and always saved his money.
+I speculate() the trend of foreign exchange market to make money.
+Violet() is a kind of purple flower.
+I canceled() my shopping order.
+Yes! I hit the target(), right in the center!
+Although I failed the exam, I believe that I will make it sometime().
+Stop smoking! It will have a bad influence() on your kid.
+The garbage truck dumps() its garbage in the dump yard.
+he used a wise strategy() in the battle.
+She would suffer() from intense pain every month.
+Plants thrive() if they get enough sunlight.
+my favorite sport is soccer().
+You can change the language of the phone in the setting() menu.
+This girl belongs() to me! he said. 
+She exercises everyday, thus has managed to lose some weight.
+He gave a statement() to the news reporters.
+From the top of the mountain I could see the entire valley() below.
+The destination() of their jounery is the west.
+Abstract() art doesn't look like anything.
+The poor woman became a widow() after her husband's death.
+It's typical() for many Japanese to eat rice this way.
+The USA is comprised() of 50 states.
+Sixteen ounces() equal to one pound.
+Gradually robots have replace factory workers.
+The village's surroundings() are mostly forests and greenlands.
+The helpful librarian helped me find the books I needed.
+The boy made an inference() about love.
+I'm so unfortunate() -- why does it only rain on me?
+Transistor() are small but necessary to make computers.
+The singer is good at both vocal and facial expressions!
+The stroke() of the his club sent the ball flying high in the air.
+The laboring people are honorable().
+It's too bad that the Titanic hit that iceberg().
+The pattern() consists of many different colored triangles.
+The chart showed that we were making progress(), selling more every year.
+Everyone was feeling upset, except() for one guy.
+There were five candles on his fifth() birthday.
+Do not enter! This is Mr. Dog;s private() property.
+He brought special equipment() to fix the water leak.
+The city has a port() where you can dock your boat.
+The toy almost choked() the baby to death.
+The baby is still innocent() -- he knows nothing of the evils of the world.
+The cat leaves some scratch() on the wall.
+The car is yours() now -- drice safe!
+Five minus() two is three.
+As a doctor, I keep my medical kit() with me at all times.
+The teacher is strict() during the exam.
+The high density() of buildings makes the city so crowded.
+She consults() her doctor to find out what she should do about the pain.
+Only a few columns() of the old building are still standing.
+We must take the elevator() to get to the second floor.
+She is analyzing() the company's monthly finances.
+The possibility() That I pick the black ball is fifty percent.
+Thank you ! I truly() love the flowers you sent me.
+I'm wondering who taught this guy mathematics().
+It's very insulting to call a black peoeson "Negro()".
+Strike() the ball flat and hard to knock it out of the stadium.
+Plants need sunlight for growth().
+
+Walking a tightrope requires extreme stability().
+Intense pressure results in psychological() problems of the poor man.
+The outlook() over the mountains is very grand.
+We can use these racks() to hang our clothes.
+On this diet, you can only eat a very limited() amount of food.
+A bicycle consists() of many parts.
+Over time, houses were built further up the hillside().
+During the job interview(), the man seemed nervous.
+To return the money you found or nor, it's a moral() dilemma.
+"Attitude is everything" is a  common phrase().
+If you sow() the seeds, they will grow into crops.
+I looked in the mirror() and saw my face.
+I enjoy working with my peers(); we all understand each other.
+Even though I'm a mechanic(), I still can't fix this car!
+Giving blood is 100% voluntary(); noboby will force you to do it.
+No, I don't live here, I'm just a transient() visitor.
+She said the taste of the chocolate is as smooth() as silk. Give me some!
+The beautiful model made a sexy pose() for the camera.
+After much consideration, the employee resigned() from his job.
+The lower part of the jaw() is highlight in blue.
+I love it when you roast() the chicken like that.
+The plane took off from Terminal() A.
+The tractor is slowly driving on the trash() filed.
+That politician is a liar()! Don't believe him!
+You have to visit Times Square() when you get to New York.
+It's a tradition() to give lucky money to kids during Spring Festival.
+These medals are the symbel of honor().
+The bridge's span() is about half a kilometer.
+The general was admired() for his brilliant feat in battle.
+The local() people have their own clothing and culture.
+I got my nine gifts on my ninth() birthday.
+look! The three rats() are waving to us.
+Many types of stocks() are displayed on the large screen.
+She and her father were fishing in the pond().
+My hut() is at the foot of the snow mountain.
+The girls are sitting on the ground drawing() pictures.
+I like the smell() of folwers.
+The leaves were covered with frost().
+My breath smells terrible. I need some gum().
+She puts those files() ont the dest.
+We wear masks as a precaution() agains catching a cold.
+There are so many new structures() going up.
+As a good wife, she iron() the shirts for her husband every day.
+I can deal with the scrape() on my knee by myself.
+Always use a crosswalk when you cross() the road.
+We are going to stay at my parent's lodge() in the mountains.
+Watch out! The gas tank is going to explode()!
+During the festival(), everyone dresses up and parties.
+The businessman was on a quest() to make money.
+He had to resort() to sell his house because of the high medical costs.
+I use a pencil() to do math.
+Her lips() are the most beautifaul part of her face.
+The cat was in panic() before the kick was taken.
+They ware really sad during their father's funeral().
+Sulphur(), the chemical, exists in different forms.
+Hell() is the place where the devils lives.
+He is digging() a grave for himself with a shovel.
+While youngsters enjoy extreme() sports, old people think it's courting death.
+After the trial(), the judge found the prisoner guilty.
+Do you know the optimum() temperature for the fish?
+This stopwatch shows that a quarter() of a minute has passed.
+According to() the law, you are guilty.
+There are so many switches() in your home!
+We have to pay a tax() on all of our sales.
+I'm afraid of flying, so I usually use the railroad() to travel.
+The government minister() gives a speech.
+On yes! I responded() when the cute girl asked if I wanted a candy.
+The swimming pool is only one meter() deep, so don't jump in.
+He embarrassed() himself by farting in front of a lady. 
+Why would you risk() you safety like that?
+Paris is a good place to buy luxury() goods.
+Lord Bao receives a gift in reward() for his hard work.
+The sky() is blue, I feel blue, and my life is blue.
+They demonstrated the proper way to split() legs.
+Sometimes a single individual() can change everything.
+Miss bear disguised() herself as a panda by wearing black stockings.
+They devote() all their love to Christianity. 
+He is the dominant() one in the relationship.
+It's so cute when my dog gives me its paw() for a high-five.
+Excessive() food intake made the cat overweight.
+Yes sir, I'll be there immediately().
+Superman has all kinds of super powers, like flying and super() strength!
+All sectors() of the economy are vital to the continued prosperity of our people.
+The forecast() shows that things are going up!
+My coworkers told me that I did, indeed(), do a good job.
+I always look for a sale tag() to get a lower price.
+This old car has already been rusted().
+They're too fat to walk properly so they roll().
+There is only one food on his favorite() food list
+I didn't read the story; I only saw the headline().
+I have to keep up with my monthly() house payments.
+These channels() are the most popular ones on televisoin.
+My twin() brother and I get along very well.
+She spread some jam() on the bread.
+He helped her off the bus out of courtesy().
+The sun() is going down.
+The store keeps a large reserve in case prices suddenly go higher.
+Oh dear! Look at that big red stain() on his shirt.
+My mate() and I can lie in bed together for hours.
+They are preparing() to launch the poor guy into the sky.
+I'm lucky I have this shield to provide some defense().
+What a glorious() sunset!
+He announced() the birth of his child on his WeChat.
+My bluetooth phone can exchange information with any similar phone that is nearby().
+Industrial() activity is good for the economy, but sometimes bad for the enviroment.
+These engagement rings are made of silver().
+The label() tells the detailed information of the clothes.
+The girl managed to restrain() her anger.
+I am confined() to my jail cell.
+I suppose() I should probably find a part-time job.
+Do I still look good with y lips swelling() up?
+Gay() people alse have the right to love.
+My teacher advised() me to use the APP when I failed the English exam.
+He published() an article about the app in The Times.
+
+The state Health Care Commission() meets once every month to set policy.
+Electronic devices such as telephones are universal() now.
+He lifts us up easily with his powerful() arms.
+My dormitory() is clean and tidy.
+
+Taking a cab() to get there will be quicker.
+Commercial() businesses make a lot of money.
+The sea bird skims() the water's surface for a fish.
+The leading() cyclist was starting to pull away from the rest.
+The artist made a pattern of blue spots() on the white wall.
+The mouse and keyboard are input() devices.
+Only one in four people know the correct() answer to the question.
+The rain ceased() and the rainbow showed up.
+This experiment demonstrates() the chemical principle we are discussing.
+
+Taxes are too high; I can't handle the strain().
+And, finally, The puzzle is complete().
+Please forgive me! I beg you!
+They build shelters() from ice to keep themselves warm.
+He was awarded a medal on the merit() of his bravvery.
+The doctor passed the prescription() to the patient.
+Delegates() from both netions signed the peace agreement.
+Jazz() music has become popular all over the world.
+Our teacher assigns() us some homework.
+We make a promise() by pulling each other's litter finger.
+Is the water in the swimming pool deep enough to dive() into?
+He has organized a public rally().
+The boxer punched his opponent() severely!
+Hot pot and Mahjong are essential() components of SiChuan culture.
+They had a dispute() over who should be his dance partner.
+He is such a fool() that he can't answer this question.
+We have the right to elect() our government.
+Pedestrian() should cross the road through the zebra crossing.
+The boys venture() deep into the forest.
+She is a good housewife(). She always stays home to cook and clean.
+The suspect() was body-searched by a policeman.
+What a good fortune()! I won the first prize.
+Pandas are hard to find because they're so rare().
+I took my phone out of my pocket().
+The movies starts in 10 minutes, in the meantimes(), let's go get some popcorn.
+The lane extended() for a few miles.
+We have to be at work by ten o'clock(), so I'm already a few minutes late.
+Scan() the code to get further information.
+I sentence() you to a year in prison!
+People play different roles in their lifetime().
+The protesters blocked() the street.
+He gave a lecture() in front of many people.
+We kept the campfire burning overnight().
+The athlete was carrying the Olympic torch().
+This is just the draft() design of a building.
+"I have a parcel() for you," said the mailman.
+He looks like a tough() guy -- you don't want to fight with him.
+The cake was cut and beer was served on the occasion().
+The solar() ennegy is collected to generate electricity.
+Our textile() factory sells many different types of cloth.
+Those two lambs() are so cute!.
+The coach blew the whistle() to end the game.
+People from different cultures() usually have different ways of greeting each other.
+He looked very grave() when he heard the bad news.
+Mommy, I want the doll with the butterfly wings()!
+The cook used many different kinds of peppers() in his recipe.
+Nowadays(), phones are more advanced than this brick.
+The right side of theis photo frame is somewhat() lower than the left.
+Each packet() of sauce will flavor one meat!
+I took my daughter to the grocery store() to buy some food.
+The dog is chained() up so as not to hurt people.
+Dairy() foods contain lots of calcium.
+We're runing in circles()!
+The policeman is detecting() the crime scene.
+
+Whoever() is taller than me must sit down!
+The little girl really likes her dolls().
+The waiter servered() us the best wine.
+I'm eating a bigger burger because U'm bigger! It's proportional() to my weight.
+The lady feels sympathetic() towards the beggar, so she gives him money.
+It's the boy's twelfth() birthday, which means he's arriving at puberty.
+I am a big fan of domestic() products.
+Prior() to crossing roads, the school bus goes first.
+Pulling a rabbit out of a hat is the most classic magic() trick.
+She enjoys herself by reading novels().
+She wears a pair of yellow trousers().
+There's a lot of thinking() going on in his young brain.
+The freight() train transports the goods.
+He faces any sitiation with a positive() atitude.
+"We promiss to deliver() mail as soon as possible."said the postman.
+How thick a rope() do we need?
+The can was crushed() and put into the recycling bin.
+I want to travl everywhere() in the world.
+I use() a pencil to draw a picture.
+The man has a lot of tension() from working too hard.
+She directly rejected() marrying him.
+My grandmother has a full head of gray() hair.
+The trees were fading() away into the msit.
+Turn the handle() to open the door.
+I drive at the utmost() speed; it is so fast.
+Exercise() is the key to good health.
+He is editing() the film right now. He'll edit out the unnecessary parts of tje film.
+Once upon a time, there was a king ruling() the country.
+Don't listen to her -- she's beautiful, but she's evil()!
+The student union recruits() new members every years.
+With such efficiency of carrying bricks(), I'll get rich ssoon!
+Mr. Banana feels so shy as I strip() it naked.
+"Look, I can spin() hte basketball on my finger!" said the litter girl.
+
+He looked at his phone and screamed().
+The roof of hte house is made of tiles().
+I love winter because I can ski() when it snows.
+I'm a loyal user() of Apple products.
+Today() is the day for me to pay my taxes.
+This monument() of christ is located in Rio de Janeiro.
+This chart can be devided into six sections() of different sizes.
+The preliminary() drawings of the building are already finished.
+She is lying in the sun with bare foot().
+My boss has appointed() me to manage this project.
+
+He couldn't reach the soap since he's too fat to stoop().
+Submarine() travel underwater and attack enemy ships.
+Leave me alone! I'm trying to write a program() on the computer!
+The house went up in flames(); we lost everything.
+She was taking whilst() driving.
+The music is stored in the disc().
+Steam() is coming frome the pot. Turn off the stove!
+Water flows from the tap().
+As the water boils() it gives off steam.
+
+The two rivals() compete to see who's better.
+What really disgust() me isn't one, but a half worm in an apple.
+You must go through the security() check at the airport.
+The score() is 30 to 40.
+These pill will cure() you sickness.
+The function() of our digestive system is to feed us and keep us alive.
+An ordinary man may also make a heroic() move.
+Our viliage was totally ruined() by hte UFO lasers.
+There is a disease() spreading around the office.
+As an intellectual(), I write poetry anytime.
+Passive() smoking causes great harm to children and pregnant women.
+
+The beer bottle broke into many fragment().
+The quality() of this spoon is terrible!
+Our scheme() for the next game is a 4-4-2 formation.
+The boss was angry and dismissed() the employee.
+The soldier would sacrifice() his life to save others in the war.
+The parents take their kids playing outdoors().
+At dawn(), the sun rises over the mountain.
+The lamp was suspended() from the ceiling.
+You have to pay the toll() if you ride the highway.
+A misty fog() floats above the trees.
+Missiles() are used to attack enemies from a long distance.
+He is conducting() an orchestra.
+The knight fights with a sword and shield().
+The little girl is the only witness() of this accident.
+
+Hooray! My ball's going into the hole()!
+Here's a present -- I even tied a ribbon() around it.
+The man is going to pump() some water.
+There are ghosts in movies and stories, but I don't think they are real.
+"Junior" means young or younger.
+Could you check my spelling() of that word?
+There are tens of thousands of different species() of birds.
+No words could express my regret() when she was gone.
+Computers run on binary code().
+Can you see the tiny cells()?
+It's unknown() where the flying object came from.
+The family creats an education fund() for their baby.
+They come from two different areas, so they speak different dialect().
+The anti-virus software secure() our computers.
+Food van() on the street have the cheapest and best food.
+
+This is the motor() of the four-wheel drive.
+The doctor showed me an X-ray() of my broken hip.
+Our manager wants us to feel pride() in the quality of our work.
+Look! A little girl is hiding behind the curtain()!
+In modern society, WiFi is the most fundamental() need.
+Check all you receipts() when you do your taxes.
+This digital() stopwatch is very precise.
+It's so pleasant to rest here in the shade() of the tree!
+
+The wit() of that little boy fascinates us!
+The cows are hungry -- bring them some hay() to eat.
+"I finally got this bag!" she yelled with delight().
+He swam to the shore().
+How much will it cost to repair() my car?
+He has recovered() well from his foot injury.
+Each lock has its own corresponding() key.
+I'll need a sample() of your blood to see if you're sick.
+I'll push the nail in by means() of this hammer.
+This superhero runs as fast as lightning().
+The gross() cost for all these things is very high.
+He checks out the document() before signing it.
+The little boy went backword() on the beach.
+Bats() hang themselves upside down when they sleep.
+Baicizhan is a perfect() English study application.
+"Thanks to all the sponsors() for the support!" said the host.
+The guard() stood outside and defended the palace gates.
+The interior() furnishing of the living room is very delicate.
+The school is surrounded by a large fence().
+
+The little guy shows his talent at playing the drum().
+The egg shell() broken in half.
+
+My mouth watered when the waiter took the lid() off the plate.
+Our oil supply() comes from this pipe.
+The hands of the farmer are tough().
+Jack Ma is an outstanding() example of enterpreneurs.
+A smart phone is the most up-to-date() way to get important information.
+These tubes() are made of steel.
+I donate() blood to help those who need it.
+Buddha was a divine() soul who spread the message of love and peace.
+Please pass me a fork() for my salad.
+Mom really made a fuss() when I broke an egg.
+Taking these supplements() makes you more beautiful.
+The agent invite() us in to have a look at the house.
+The prospective() King is trying on his father's outfit.
+Don't touch these wires, They'll give you an electric() shock.
+I have always wanted to play music on the guitar().
+We should drink more mineral() water -- it's good for our health.
+
+The harbor() contains so many boats.
+The two windows are surrounded() by green leaves.
+I want a new, flat screen computer monitor().
+The design if her ring() is very interesting and uique.
+Use a spoon to stir() the coffee before you drink it.
+Spread() the butter evenly to all parts of the bread.
+I like painting with red() paint, because red is a lucky color.
+Mr. Bao is very nervous because the following() performance will be his solo.
+The nurses wear white uniform() when they work.
+When the leaf is seen up close, you can see a lot of fine details().
+The hare decides to take a rest, meanwhile(), the tortoise kept moving.
+"Help me, I'm drowning()!" he shouted as he sank under the water.
+When he took his mask() off, I saw that he looked very defferent.
+
+The wedding was very fancy(), there ware flowers everywhere.
+The cheetah is the swift() land animal.
+We pay our rents() to the house owner every month.
+The child dreads() the ghost so much that he couldn't fall asleep.
+Reading so many graphs() really exhausted me!
+
+The cat attempts() to catch that fish!
+I fell downward() though the air, hoping my parachute would open.
+Driving down the dirt road so fast created a lot of dust().
+I need to be more healthy, so would favor() an apple over a burger.
+We made a loop() out of rope foe future use.
+In winter, I perfer shirts with long sleeve().
+I measure  out a single dose() of the medicine for the patient.
+The stock index rises and falls all the time. Invest cautiously.
+It was a high stakes() poker game.
+I like this toy(); It can be used to scare others.
+Notwithstanding() the snow, the girl is still selling the matches.
+Under his leadership, they made it to the top!
+I'm having trouble digesting() all this spicy food.
+He annoys me by talking all the time.
+The lion let out a mighty roar().
+This photo was taken when I went sightseeing() in Paris.
+The waves() are washing off the drawing on the beach.
+
+My hard hat is so rigid() that even a Nokia phone can't crack it!
+Instant coffee is soluble() in hot water.
+
+I'm so prosperous() that mt bed is made of solid gold.
+The raw sewage drains() into the river.
+I could hear the couple's quarrel() from the other room.
+She used cream on her cheeks() to take care of her skin.
+The new bulb is the replacement() of the old one.
+Sichuan has consumed() a great amount of chili.
+Violent warfare() is taking place in this area.
+
+An orphan faces a life of great hardship().
+He's not really() good at shooting arrows.
+Even today, the humen race continues to evolve().
+The guitar is a musical() instrument which is hard to learn.
+The giraffes rest by the tree at sunset().
+It's probable() to win in gambling if you are good enough at maths.
+The homeless refugee() girl is deep in sorrow.
+American gained its independence() from Britain in 1776.
+This vast() desert looks impossible to pass.
+The gilr puts the notice() on the board.
+We took an excursion() into the forest.
+The soldiers are marching foward in an ordlerly() way.
+The fruit merchant() gave me a good price on his tomatoes.
+I'll be your waiter() tonight -- may I recommend the fish?
+Cities near the ocean often face the rish of hurricane().
+"All of my menoy is gone!" the man cried in dispair().
+She is an excellent student so she gets the scholarship() event year.
+"Ouch -- my back is so stiff()!" the athlete complained.
+
+If you're in my zone(), you have to listen to me!
+They are whiper() as they are talking about gossips.
+The green light allows() you to go.
+Don't make me read that thick() book - I only read thin one.
+The oven's output() is 48 loaves per hours.
+The vacuum cleaner helps me to get git of the dirt().
+The nuclear bomb went off and created a massive() mushroom cloud.
+From the outset() of the race, the man was ahead.
+As a medical() doctor, I work mainly with sick people.
+As a nurse, I love to work closely with my patients().
+Soda() water is good for your health.
+They gave me an American visa, so I now have permission() to travel there.
+Eating spinach will enhance() his power!
+The water surge() over the road.
+A farmer uses a spade() to remove soil easily.
+
+The green light allows() you to go.
+Those two fellows() are celebrating their success.
+The federal() level of government is responsible for the whole country.
+He wrote down a topic() for us to discuss.
+It's rude to talk on the phone during() dinner.
+My college professor() really enjoys teaching.
+The water is pure() enough to drink from the tap.
+In some families they say a prayer() together before each meal.
+This guy particularly() likes eating meat!
+She prayed with an earnest() look on her face.
+She expressed her desire for the cookie by implication().
+It's fortunate() to find a four-leave clover.
+Be careful around the hot furnace().
+The water is starting to evaporate().
+The arrival of this man was timely().
+Those who attended the seminar() learnt a lot.
+Raising his forefinger(), he began to give instructions to the team.
+The city handles trash disposal() for us.
+Mary is reading a bedtime story() to her kids.
+Once and for all, it's time to quit() smoking.
+I torture() my husband to dig out who Jingjing is!
+Primitive() men made fire by themselves since they had no electricity.
+You should wear something proper() when having an interview.
+The kitten raises() his friend up to steal the fish.
+
+It's a bird sitting on the wire().
+A detective() must know how to see through prople's lies.
+I climbed up the ladder() to change the light bulb.
+Nowadays most long-distance travel is by jet() plane.
+When I camp in the mountains, I alway wear hiking boots().
+Increasingly(), we're making out money in the China market.
+The City was hit by extensive() flooding.
+My mom bothers me on a frequent() basis.
+I have prepared sufficient() pancakes for my daughter.
+I went on a trip with ten() of my friends.
+Many people are fond of Italian() food.
+Watch out - if you mix those chemicals() togather they will explode!
+The author spend hours at his typewriter().
+The cator enjoys fame() and loves the attention it brings him.
+
+The tide() comes in, and the water sprays over the rocks.
+This safe is very solid().
+I hope our sales show some improvement() soon.
+Watch out - the valcano() is erupting!
+Crocodiles are vicious() animals, Stay away from them if you can.
+They give twenty() percent discount for online payment. Take out you phone.
+I work downtown() but I live outside the city.
+The court will make fair judgments().
+A dog that doesn't eat its own poop is worthy() of praise!
+People of all nationalities() come togather for the Olympic Games.
+Some people had a prejudice() againse black people in the past.
+Admit your mistakes to God, and repent()!
+The friction() heats up the wood and starts a fire.
+You should expect a lot of criticism() when starting a new job.
+
+In our culture, It's a custom() to wear these special bracelets.
+Let me tell you a secret() about uncle Jack.
+The girl has a lot of defiance() in her!
+The student is very polite() to his teacher.
+This news really amazes() me!
+My husbanf likes to rouse() me with a gentle touch in the morning.
+Oh no, I've spilled() the green nail polish.
+Mom put a pot of soup into the refigerator().
+They went on a mountain expedition().
+The university's sports meeting is a very popular event().
+The grandparents spoil() their grandchild by doing everything for him.
+Why do you give me stale() oranges to eat?
+We need to move farther() to reach the destination.
+The tune() of the song is wonderful.
+The scales() of justice never lie.
+
+The rapper used his fluent() English to complete the freestyle.
+Just surrender(); don't try to fight back.
+Working hard in the gymnasium() keeps us fit.
+If I can't increase sales, I'll be a failure()!
+The musical genius() was a composer even in childhood.
+The declaration() states that the US is an independent country.
+She was really upset() after her presentation to the class didn't go well.
+This Western saddle() is comfortable when I have to ride all day.
+She showed me the flower in her palm().
+You can hear a humming sound coming from the transformer() at the power plant.
+A cube() is a three dimensional square.
+Accessibility facilities() help improve the living standard of the disabled.
+In an election(), we decide who our leaders will be.
+I drop off my kids at the nursery() before I go to work.
+The format() of the newspaper is well arranged.
+I've never stoped my pursuit() of money.
+He is always modest() about his excellent.
+The two engineer() are discussing their new building plans.
+The man is willing() to be at his boss's service.
+These pipes() are made of plastic, so they are very light.
+These two senators() met each other in front of the while house.
+No~~ don't drag() me in. You can't do this to me!
+The final score brought me great dishonour()!
+We burn these for our ancestors in the spitit() world.
+The angry villagers are rioting() in the street.
+25 substrcted() from 100 is 75.
+Biology() is the study of life.
+I decided to ware a western() style wedding dress.
+The origin() of mankind is still mysterious, but we think our ancestors lived in the trees.
+Water is vital() for life.
+The typhoon caused much destruction(), knocking over trees and damaging houses.
+With a 90% market share, this brand totally dominates() the market.
+This city has many canals() running throught it.
+
+The stone house is quite steady() under the extreme weather.
+I've prepared a few snacks() for you to enjoy before dinner.
+These pills weigh three grams().
+The teacher is giving a lesson about physiological() knowledge.
+Many ethnic() groups have their own contumes.
+Look here girls. That's what the boy's dorm() looks like.
+All the workers are trying to solve the engineering() problem.
+His laser-like() syse saw right through me.
+This device will eliminate() the weeds in my garden.
+
+She shrieked() and grabbed her hair.
+My teacher gave me a lot of homework assignments() for the weekend.
+Smoking is not only harmful() to yourself but also to others.
+The moon changes in a predictable monthly sequence().
+The two businessmen are trying to establish() links.
+The offical stamp showed that my document are valid().
+Wherever() you want your package to go, we can deliver it.
+The builders are laying the foundation() of a building.
+I've bought this entire stack() of goods through e-shopping!
+My parent's expectation() sounds like a mission impossible.
+We want a durable() vehicle for this rough road.
+Atoms are very small particle().
+We use adjectives() to describe things.
+I deposit() money in my piggy bank when I can.
+Look! This dragon() can breathe fire!
+Can this little boy eat the whole loaf() of bread?
+A student loan() helps many poor students go to college.
+I bought a new piece of white furniture() to add beauty to my room.
+This veteran() has been in many wars and received numerous honours.
+I got a good grade() in the final exam!
+The boy who keeps pulling the girl's hair is really a nuisance()!
+I've never thought that I'd encounter() my favorite star one day!
+This bottle can be filled with 2 liters() of coke.
+The sailor() has been out to sea for several months.
+There are several types() of dog for sale.
+These tents are just temporary() as they'll move soon.
+These workmen() are busy building the house.
+Could you please give a short summary() of you project?
+My daddy has many handy() tools.
+I'm the most loyal reader() of the newspaper.
+We need a more systematic() approach to finding mistakes in our product.
+The store specialize() in selling hiking gear.
+"My discus is missing. Where is it?" The status wondered.
+The man wears formal() clothes for the job interview.
+The landspace has been altered() so much in recent years.
+"Be careful, this machine has a high voltage".
+I need to go to the gym() to lose some weight.
+We will be driving on this road() for a while.
+
+Mr. Bao painted the ad() on the wall to let more people know about us.
+The headmaster() of the magic school is a kind old man.
+The newspaper repoerted the scandal() of the police officer.
+The pipe is filled with tobacco().
+The girl looks at her model() house with a smile.
+We have multiple() colors to choose from.
+That's an odd() hat you're wearing!
+He has to jump up the vertical() flagpole to get a high score.
+He is skiing down the slope(), I hope he won't fall.
+The cat has sharp claws().
+The little boy wants to became a star observer() in the future.
+The dog and its master() are close to each other.
+I'm fond() of having phisical contact with my masculine boyfriend.
+The residents() here like to interact with each other.
+This man is very rude() when he is on the phone.
+They spit() on the zombie, hoping it can be killed.
+The plural() from of the word 'fish' is still 'fish'.
+The old man financed() the poor student's education.
+The memorial() of the Confucius is built to remind us of his achievements.
+Will he find any gold in the mine()?
+Sulfur() can be used in the production of gunpowder.
+Crack open the shell to eat the nut() inside.
+
+I love the simplicity() of the single flower floating on the water.
+The little boy emits() a ray of light from his hands.
+All of the media coverage() is just about the lottery winner.
+I will have whichever() drink is most delisious.
+A happy family is based on sexual() equality.
+The old woman is dropping a sack() of litter into the rubbish bin.
+I punish() you to kneel on the laundry board!
+Cinderalla has a pair of crystal() shoes.
+Lights out bu midnight()! I mean it!
+I took my dog to the vet to be examine().
+The grand() view really amazed me.
+The president is handling the political affairs().
+They wear clothes of Japanese() style.
+The building has a very systematic() design, with every part repeated.
+It's a emergency(): get her to the hospital as soon as possible.
+I won first place, and got the gold medal().
+The dictionary is now in its eighth edition().
+RMB is the currency() of China.
+The wire on his head is used for the transmission() of signals.
+For this week only, a 25% price reduction() on all our clothes!
+This giant() hamburger cannot fit in my mouth, but I', so hungry I will eat is all!
+That guy made a proposal() to his girlfriend with a diamond ring.
+The family assembled() in the living room for a family photo.
+The fruit was plentiful() at the farmer's market.
+The girl took a vacation() on the beach.
+He has the power of prophecy() - he can tell the future.
+Let's work together, I think we can come to some kind of settlement().
+Airplanes fly all over the globe(), even over the poles.
+Please give me the timetable() for the flights.
+No one offered a seet to the elderly() man.
+This is the proof of my ownership() of the house.
+Wow, you can driver a manual() transmission car?
+The water is shallow() here.
+
+An A+ is the best possible result(). Good work!
+I finaly found water in the desert().
+The pie attracted() both Tom and Jerry.
+I'll squeeze() some oranges to make orange juice.
+Japanese people show respect() by bowing.
+We reinforce() the strucure of the building with steel tods.
+This phone is reduced() to $998 in the sale.
+These mooncakes' flavours are very peculiar()!
+This gang() of troublesome young men likes to cause trouble.
+The twins always dress similarly().
+The man install() a celling fan.
+I exerted() all my strength to lift all the boxes.
+The story was about a fairy() with butterfly wings.
+It's too hot at midday(), so don't go outside.
+I'm wearing my raincoat(), so I don;t have to worry about the rain.
+The typist() is finishing her documents.
+The man aims() at the center of the target.
+Car production() is a difficult and complicated process.
+My puppy created a mess() after I left home.
+
+The troops were defeated and retreated() from the battle.
+He really takes good care of his sister, What a thoughtful() boy.
+Ever since she started her diet, she has had a very slim() figure.
+The two grave robbers are exploring() a newly found tomb.
+Even though a wolf() looks a bit like a dog, it is actually much more dangerous.
+You can see the framework() of the building so well at the moment.
+My colleagues congratulated() me on the promotion.
+The spider() weaves a web to catch flies.
+The boy learned math and science formula() at a young age.
+My hair is quite() soft and smooth without any special effects.
+The applicants() for the job are waitng outside before the interview.
+The incident() of the missing flight is still mystery.
+You have so much prestige() and fame, I bet you're rich, too.
+Different people react() differently when showna horror movie.
+The management() team is having a regular meeting.
+The soldier scout() the enemy in the grass.
+Suddenly, the dolphin emerged() from the sea.
+Compared to the island, the mainland() is much bigger.
+He felt a good impression() on the interview.
+This goat's horns() are very long and curly.
+The United States has a republican() form of government.
+My niece() is my sibling's daughter.
+The proportion() shows that the females outnumber the males in the university.
+Be cautious when you steer() a car.
+He didn't understand her vague() words.
+He compelled() me to walk forward - mostly by pulling my tie.
+She uses a blue towel() to dry her hair.
+These people dress differently for their different kinds of emplyment().
+The village offical() is reading newspapers.
+My house is worth() two hundred thousand dollars.
+I feel happier on sunny() days.
+The main is skilled() at dealing with all kinds of things.
+I made a million() dollars last year!
+The man in the pub() ordered a beer and a bowl of peanuts.
+Press this button to go back to the previous() page.
+I put my cat on my luggage().
+The flowers in the pot are dying() from lack of water.
+The monkey's imitation() of my dance was very funny!
+"I have great determination() to lost weight". said the big girl.
+The diagram shows the water cycle() process.
+
+The sun is the ultmate() source of energy.
+The happy couple are standing on the front od the ship's deck().
+The black plague() took thousands of livers away in the middle ages.
+This grocer() is very nice, he always gives me a discount.
+It's my dream to jump into a heap() of money.
+The mum clothed() the baby.
+"Should this be the standard for the perfect figure()"?
+Her ideal() weight is about twenty kilos lighter.
+Please fill up my car with gasoline().
+The reflection() the cat saw in the mirror was not itself, but a lion.
+Wow, what a muscular() body you have.
+She has prepared the cooking material() for lunch.
+"I have so many pretty pieces of clothing!" said the girl.
+We took this picture of ourselves().
+His facnt car is a symbol of his status().
+She is such a superfucial() girl that she only likes his face!
+The company is performing worse() and worse.
+I used a big hammer() to push in the nail.
+They are desperate to reconcile() and fix their broken hearts.
+The gitl's soul() leaves her body.
+We saw the airplane with radar() before we could see it with our own eyes.
+The worker earned() his pay after carrying so many bricks.
+Who do you prefer out of these famous foreign writers()?
+We found his unconscious() on the floor.
+
+I have a very high regard() for this teacher.
+There are hundreds of different dog breads().
+I saw the sunrise in the eastern() sky.
+The hook() is used to fish with.
+The kids painted their hands every color() of the rainbow.
+The logs() are put on top of each other.
+The heart, brain and lungs are examples of vital organ() in the human body.
+Jesus is holy() to the Christians.
+I finally attained() my driving license!
+An editor() checks and corrects a book's text before publication.
+The worker was measuring the lumber's diameter().
+The sight over the Great Wall is so spectacular()!
+I grew up in a large household().
+I'll have to rush() to the canteen otherwise there'll be nothing left.
+The Yin-Yang is a symbol of harmony().
+The wild() kid is making a big mess in the dining room.
+The lavatory() in the middle is for the disabled.
+The kiar claimed that his medicine cam remedy() all diseases.
+I love Latin() dance! It makes me sexy and passionate!
+Do you know which rabbit is the fake() one?
+I wear this sweater() to keep me warm.
+Which one is the genuine() painting of the famous artist?
+We fnally reached an understanding() about how the house would be built.
+The express() train travels at over 300 kilometers per hour.
+She went to church to confess her sins().
+Grains() like wheat are used to make bread.
+The office building has an undergroud() parking.
+There are many wood chips() on the table.
+This merry-go-rounnd is revolving() at a high speed.
+When cooking a new recipe I always refer() to the cookbook.
+I'll let go of your hair provided() you let go of my leg.
+The curriculum() includes math, science and English.
+We export the goods overseas().
+My spouse() and I have been married for many years.
+These foods show a lot of variation() in color, but not in taste.
+
+People often apply quotation() from Shakespeare.
+The girl is so briliant() that she can solve the difficult question.
+It looks like you were, recently(), outside in the sun.
+The inner() core of the earth is made up of lead.
+Dogs are always loyal() to their owners.
+I'm looking for a good translation() of some Chinese poems.
+How much is the tuition() at your university?
+The footprint convinces() the police that the bear is the suspect.
+Helping the old is a traditional virtue() of China.
+Pests() are those irritating and harmful insects.
+Since I've graduated from college, my job prospects() are great.
+Revolutionarise() fought against the dictatorship.
+Sleep deficiency() may cause dark circles under the eyes.
+It's wonderful to soar() in the sky like a bird.
+I spend too much money on clothes!
+"Here, doggy, fetch!" I shouted as I threw the ball.
+"I'm so worried!" She shouted in obvious distress().
+The toilet is for the mother and baby exclusively().
+These ethnic minorities() wear colorful clothes.
+My weight has reached the maximum()! Oh not!
+This purse() can hold a lot of change.
+Look at that colorful rainbow() in the sky.
+Old people liked to play mah-jong for recreation().
+Water was nowhere() to be found.
+The Pacific() Ocean is the biggest ocean in the world.
+He was very gentle() and gave me his coat.
+Their actions were friendly, but in realtiy() they hated each other.
+Luckily, this kind of shoe is waterproof().
+The worker is getting rid of the weed().
+The rock was formed b erosion() over millions of years.
+Everytime I eat bread, I always leave the crust().
+I like to relax and enjo a little liquor() after work.
+We live to the southwest() of out school.
+I wonder what could be in the package().
+Many civilians() joined the protests against the army.
+
+This group of lads() all have a different style.
+The salesman displayed() the latest laptop.
+Shopping always excites() girls.
+My mother's suffering() is intense - her back really hurts.
+The strings are made of nylon().
+Good communication can build a bridge of mutual() understanding.
+The employee() felt very happy when his boss prised him.
+Doves are the symbol() of peace.
+In our organization(), everyone takes orders from me. Is that clear?
+My wife's complaints() are usually about me.
+We'll use the thermometer() to see if you have a fever.
+My joints() hurt from all this running!
+You can get a brief idea of a book from the table of contents().
+Sweet corn() tastes best eaten with salt and butter.
+My cat sank into a deep depression() since I had a boyfriend.
+This is a portrait() of a powerful 17th century nobleman.
+Communist() hope to create an equal society.
+Navigation() can be done using a map, the stars, or GPS.
+Many people are affected() by the air pollution in winter.
+Her tears are full of sorrow().
+I think the likehood() that I will find love eventually is very high.
+I followed a trail() through the filed.
+I perform my workout on the mat().
+A little cat is sleeping in the old lady's lap().
+I'd like to have some dessert() with a cup of tea after dinner.
+I deserved a satisfactory() service at the barber shop.
+He uses scissors() to cut his hair.
+The balloons are fully with hydrogen() in order to ascend to the air.
+We get to know how fast we are from the speed gauge().
+The company does a survey() to collect to collect users' opinions.
+Geometry() is my least favorite subject - I hate it!
+This ia an expensive residential() area.
+The fierce() dog is chasing the little yellow guy!
+My secretary() helped me with mu email.
+The fact that he's having an affair with someone has becone evident().
+I realized() my mistake too late.
+The boastful man is explaining his theory() on how to attract girls.
+The eye doctor said that my vision() is excellent.
+Unfortunately(), It's supposed to rain all weekend.
+
+Social media and the internet made world-wide() communication very simple.
+Oh, no! I think we are struck in the mud()!
+He clicked() the mouse to open the file.
+He is one of the most famous rap() singers in China.
+The users of this product are largely() female.
+It was my fate() to marry him.
+The premature() baby was born one month early.
+The birds finally get their freedom()! There are flying out of the cage!
+We forbid() smoking in the restaurant.
+Religious people get their sense of morality() - what's right and wrong - from their religious books.
+The dog was reluctant() to take a bath.
+My cat was totally shocked() by the big surrprise!
+Our company created a virtual() store on the internet.
+Now that I have enough money, it's time to buy some property().
+Many factories let out gaseous() waste.
+The belt conveys() the luggages() out.
+He bowed to show his sincere() thanks to the doctor.
+"I'm so angry!" shouted the woman with rage() in her voice.
+Dictators always cause people to revolt().
+Did you see the whale() jump out of the sea?
+The cat is stretching() its body.
+I have to enduce() a bunch of weird smells on my way to work.
+The blow to her head was strong enough to render() her unconscious.
+Look! A mass() of minions are coming.
+Please don't cut is all off; I just want a short trim().
+It's not a serious injury, but merely() a cut.
+Every autumn we have to enroll() in classes.
+How elegant() the ballet dancer is!
+Our nursery offers a seletion() of spring flowers of many different colors.
+That lighting effect() makes the stage look mysterious.
+If you go to New York, you should see the Status of Liberty().
+The new trend() is for girls to wear very colorful colthing.
+
+This is just a brief sketch() of what I think the machine should look like.
+The two characters() are created to be different in presonality.
+We have a regular() meeting on every Monday morning.
+Online() shopping provides a more convenient way of shopping.
+I found a pot() of gold coins.
+The singer bowed() to us after the show.
+The helicopter() is flying over the sea.
+These workers are the labor() force int this factory.
+I like to read magazines() about fashion and celebrities.
+I chose five particular() people out of the crowd.
+The delicious pizza satisfied() that boy.
+The boats are tied up along the dock().
+This is a serious problem; only surgery() can fix it.
+I love sleeping with soft pillows().
+That boy admitted() that he broke the vase.
+Sometimes people have to depend() on others for help.
+Silicon() is a chemical element and its chemical symbol is "Si".
+In a democratic() country, the people choose their leaders by voting.
+Drunk drivers are a hazard() on the road.
+Yeast() is what makes bread rise.
+The cars in the traffic jam are stationary().
+This dog is condemned() for its bad behavior.
+I keep my horses in this stable().
+It's easy to distinguish() the black duck from the yellow ones.
+I'm always punctual(); I'm never late for work.
+I'm uneasy() about my husband's health - I hope he recovers soon.
+The common forms of transportation() include bus, plane, ship and train.
+It's better to use a credit() card than to carry cash.
+I shot the bird with my refle().
+No, I did not copy the design, this is my own creation().
+The robber escaped and left the victim() lying on the street.
+The mirror has a pleasing oval() shape.
+He made a decisive() shot to help the team win at the last moment.
+Let me share the method() of taking a selfie with you guys.
+I buy novels in paperback() because they're cheaper than hardback.
+That dog's loyalty() should be acclaimed.
+My mom is really worried about the wrinkles() that are forming around her eyes.
+A theif just robbed() her in the park.
+We're getting married() today! We are so happy!
+The boat is drifting() down the river.
+"Nice shot()!" I said as he hit the ball.
+The receptionist told me that there was only one room avaliable().
+It's so noisy() outside, I can't stand this kind of environment.
+
+This pathetic bird is going to be executed() by the cruel hunter.
+I love to sit by the river and watch the water flow() by.
+Even though she can't move her legs, she's still an independent() person.
+"Bro, I'm cold", he said as he shivered() from the cold.
+Our profits depend on a number of different circumstances().
+Usually children got to a primary() shcool at the age of 6.
+These pillars() hold the roof up.
+I had a sore throat() after I caught a cold.
+The crane() is lifting the girders to construct the building.
+DNA consitss of a large number of genes().
+The fare() for this ride is $99999.
+He taught me survival() skills, like how to start a fire in the forest.
+I took revenge() on my boss for making me work so hard!
+
+The students raised their hands in response() to the teacher's question.
+The chubby dog is determined() to lose weight.
+You should take immediate() actions when facing your problems.
+What z zealous() bunch of sports fans! They love their team.
+He gets a lot of publicity(), he's always on TV.
+Oh dear! The moon represents() my love for you!
+I want that specific() peach - the one right there!
+The helicopter hovers overhead()!
+The girl made a profit() by selling the dree.
+I really don't like the smell of cigars().
+With theinternet, we can have a global() network of friends.
+I will go to the volleybal match() this evening.
+The actors are in costume() for the show.
+A cold draught() of air blew in from the open window.
+The people on the left have to listen to their superior().
+Our company has undergone steady expansion() for the last ten years.
+The road goes in many direction().
+The thermometer smashed and the mersury() flew out.
+You are so good! You should join our soccer league()!
+You should obtain a license() before driving on the road.
+I got the worst() score in the class on my exam.
+The wind scattered() the books in every direction.
+The little girl is very grateful for the gifts from her relatives.
+She tried to murder Snow White with a poisonous() apple.
+
+Because of the inflation(), we could buy less fruit with the same money.
+Standing on the shoulder of a gaint robot, I can see further().
+Scientists aim at finding experimental() evidence from experiments.
+In correct perspective(), all horizontal lines meet at a single point.
+Liquid(), like water, can flow freely.
+The old couple are considering how to distribute theri heritage().
+She found his words very offensive(), which made her really upset.
+The man is burdened with the housing debt().
+The woman lifts weights to strengthen() her arms.
+The big guy is making a thread() to the man in blue.
+Occupying a bus an is illegal().
+The dam() keeps the river from flooding the twon.
+The cat's most urgent() need now is to pee.
+The noise made by the generator() is so annoying!
+If we all pull on this rope together, we can win.
+The Queen's head appears in profile() on British stamps.
+We keep all our plates and bowls in the cupboard()!
+Auntie Xiang Lin is always complaining() about her son being eaten by a wolf!
+Being patted on the butt, the horse was annoyed and uttered() a growl.
+Mr. Banana presented a naked() dance to us.
+The priest() loves to sing about God.
+The ignorant() man has been bothered by a simple math question.
+I finally achieved() my goal of winning the race.
+These two things are of equivalent() weight.
+A true gardener() cares for his plants every day.
+The distance() between the two building is 2 km.
+Wow! The pilot() in the movie look so cool!
+The birds often fly in a v-shaped formation().
+
+These companies all have very well-known brands().
+According to the dictionary, we have a new definition() of math.
+The world is not flat, it is a sphere().
+The five jars() contain two kinds of jam.
+Let's make our home inside this hollow() tree!
+The tricycle has a pretty big flaw() - its wheels are square.
+After four years of hard work, I finaly got my bachelor's() degree!
+My phone reminded() me that I have an appointment this afternoon.
+You need a remote() to turn on the air conditioner.
+His skills qualify() him for his work.
+The porter() carries customer's suitcases.
+The green arrow is an indication() showing that you're allowed to turn left.
+The emperor selected the bedmate at random().
+He was so angry that he slapped() his friend.
+The apple is divided() into two equal parts.
+As the saying goes, "Diamonds() are a girl's best friend."
+
+The big fleet() of ships always stay together.
+Please summarize the main point of this paragraph().
+The peacock's frathers look magnificent()!
+The self-study period is so dull() that everyone falls asleep.
+The discovery() of water on Mars is exciting to us!
+He really has an insight() into math.
+The surrounding() river of the castle looks so blue!
+He used logic() to figure out who cimmitted the crime.
+Please pay me with cash().
+The baby had an emotional day, laughing and crying, then took a long nap afterwords().
+Will you come to watch my band play later? Definitely()!
+Food and water are necessary() for life.
+My children were all educated() in public school.
+Her blonde curls() are very beautiful.
+The agent is introducing these housing() properties to me.
+I wish these stupid donkeys would all stop staring() at me!
+Please hang up the receiver().
+Look ar this big yellow() sunflow.
+The story has a romantic plot().
+Be very careful when doing scientific().
+He was a very original() thinker, always coming up with new ideas.
+People wait in the lounge() for boarding.
+When things weren't going right, she was restless() at night.
+I found the location() on the map.
+I will discard() this paper into the garbage bin.
+The skin treatment will restore() the youthfulness to your skin.
+I use the farming machine to cultivate() my field.
+My granddaughter is always very helpful to me.
+Her artificial legs are a deadly weapon().
+My teacher gives us sanction() to not wear our school uniforms.
+His talk show entertained() us, I like his dirty jokes!
+I can't wait to meet my nephew().
+Sometimes we are emotional(), our mood changes from time to time.
+This math() problem is easy.
+The meeting room had many seats, but they ware all empty().
+Physical() exercise is good for the body and the mind.
+Vegetables enable() me to be healthy.
+My family enjoy ourdoor activiies(), like flying kites.
+
+People used to use a telegraph() to send inportant messgaes.
+The differences between the two picture can be readily() identified.
+The boss pays me minimum() wage, I wish he would pay me more!
+It's time to put the last piece into the puzzle().
+We all enjoy this outward() journey.
+The fountain() becomes so colorful at night.
+These two girls bought many handbags().
+The spacecraft() is used to explore the unknown area in space.
+So we agree, you'll buy my house? Do we have a deal()? good!
+The man shows his faith() by getting on his knees and praying.
+I can get all the current() news instantly on my call phone.
+He's devoted his life to politics().
+The man writes everything down in his journal().
+My favorite music compositions() were written by Chopin.
+Blend() the flour and the water with a spoon.
+The destination is still distant(); we will not get there for a while.
+The woman tooks some pills() when she was ill.
+Fingerprints are unique() to each individual.
+They're hostile() towards each other in the fight for love.
+The cat is slowly creeping() towards her.
+My car wasn't working so it needed maintenance().
+I knocked my man's head with the pan().
+Axes() are the symbol of their gang.
+As a true friend, Jerry will always provide protection() to Tom.
+American Indians are the only people native() to the USA
+
+"Darling, I'm pregnant. Please acknowlwdge() this text".
+Do you know the socialist() core value?
+Death is grim(), never smiling as he dose his duty.
+She was dumb(), and could not speak at all.
+There is a bag of flour().
+Without farmers(), we would have no food.
+Mid-Autumn Festival is a day for family reunion().
+We keep all of the baby's stuff() in his bedroom.
+They only play instrumental() music, their band doesn't have a singer.
+The man is adding fuel() to the car.
+Your eyesight() is terrible! You need glasses.
+She went through a significant transformation() in the last 4 years.
+
+It takes mental and physical endurance() to run a marathon.
+
+The only way throught the maze is an indirect() one.
+We will succeed if we work as a unit().
+The students are having fun at the playground() after class.
+Most countries gain profits through exporting() their local goods.
+The ship() is carrying a lot of goods.
+We need all the musical instrument() to perform in the show.
+Somehow(), I must make the baby stop crying.
+People isn the parade() put on many stange costumes.
+Preposition() are usually used before mouns to give additional information.
+The man on the stage is a well learned() professor.
+The gilr combs() ber hair after taking a bath.
+My favorite part of the performance() was the fire-dance.
+If you make an error(), you can just erase it and try again.
+The floor is wet - make sure you don't slip() and fall.
+The smell is so unpleasant() and offensive.
+The model poses for a photograph in the studio().
+The grass is moist() due to last night;s heavy rain.
+The single woman feels envy() when she sees happy couples.
+People usually go to temples() to pray for good fortune.
+The pine() tree is a symbol of Mount Huangshan.
+All of them are international() students from different countries.
+The point of prayer is to humble() yourself before God.
+Yeah, your car's visible() - I can see it over there.
+A revolution() in science and technology has changed the way that we communicate.
+Our anti-virus software will defend() your computer againest attacks.
+I often think about the meaning of life and other questions of philosophy().
+Water came out of the wall through several outlets().
+The baby always sucks() his fingers.
+The car speeds up at the crossing() suddenly, which scares the girl.
+Which dress do you think I should select()?
+Our company dominates a small segment() of the market.
+The German() football team will be pretty hard to beat.
+They may be old, but they're still as lively() as ever.
+You're asking me on a date? I have no interest in you whatsoever()!
+A bee stung(sting) me on the arm and it really hurt!
+My car has a mechanical() problem.
+My parenets are over fifty() years old.
+The family burst into laughter() togather.
+The African were taken to be slaves().
+These two actors are performing a great love drama().
+If you are as intelligent() as this scientist, you may change the world.
+
+Wow! The tomato sauce() in the bowl looks so dilicious.
+Penny was miserable() when she heard the bad news.
+I felt tremendous() living presure.
+These yummy baozi are cooking in the steamer(). "Eat me!" they say.
+I like it when she rubs() my forehead, since I have bad headaches.
+Press the button() to turn off the computer.
+The woman must take pills everyday, moreover(), she hsould eat lots of fruit.
+If we make tin() can telephones, we can talk without our parents hearing us!
+Hold on, let me dial() his number.
+These four books are the classics of Chinese literature().
+Those members of the council() have a heated discussion.
+You should substitute() fruits and vegetables for sweets.
+Taking a bath is a good way to relax() yourself.
+To save money, he always makes the most economocal() decisions.
+The magazine is finished and ready for publication().
+There're many kinds of insects(), such as butterflies, bees and ants.
+The judge() decides if I will go to jail.
+Could you give me some extra() ice cream?
+I got up early today and saw a beautiful sunrise().
+Run! This toaster is faulty() and might kill your toast at anytime!
+The layers() of the cake are in different colors.
+His skin color differs() from the others'.
+I will darw a circle to lay a curse() on you.
+March 3rd is the due() date to pay for my VIP account.
+A railway track is a perfect example of parallel() lines.
+The mother loves to do crafts() with her kids.
+I want a lot of people involved() so we can finish the task quickly.
+All of the stuff was carried in the lorry().
+The radicals() caused chaos at the protest.
+She is reading the articles() in the newspaper.
+The building's exterior() is beautiful.
+Gloves() keep my fingers warm in the winter.
+Germs() might be small, but they can make you very sick.
+I have never seen such an ugly() dog as this.
+The slow motion() clearly shows how he dodges the bullets.
+Sorry, this club is very exclusive(): VIPs only.
+My colleagues are favorable() to my idea.
+I love to eat biscuits() when I drink coffee.
+Fruits such as oranges and grapes are rich in vitamin() C.
+This actor is certan() that he will win the award.
+The biggest company has a monopoly() in the market!
+
+She rotates() her body in the dance.
+I have to renew() my ID card because it has expired.
+The candidates() are presenting the speeches for the election.
+These small vessels() catch fish and bring them back to port.
+Aluminum() drink cans are light and convenient.
+Logical() thinking is impportant for understanding other properly.
+I want to climb that mountain().
+These autos() are parked in good order.
+Once upon() a time, there was a temple upon a mountain.
+She gave a hint() there was no problem.
+Walking the tight rope requires a strong sense of banlance().
+My professor always answers my questions with long explanations().
+You may see this pink symbol on a female() bashroom!
+The statistical() data shows that most people cannot afford a house.
+
+I tore a hole in my pants, so I sewed a patch() over it.
+She exited the train and walked down the platform().
+They are a well-known couple in Chinese myth().
+How does the dictionary define() the word 'respect'?
+Our leader() is waving the flag in the front of team.
+The senior() soldier gains respect from the new recruits.
+I enjoy watching the sunset at dusk().
+Ever since you started exercising, you're become so much more slender()!
+Even well-fed cats will kill mice, because of thier hunting instincts().
+The lemon has such a sour() taste!
+Misuc fans love listening to music in hi-fi stereo().
+I will depart() for a different city.
+The united Kingdom at one time had a huge empire().
+There're three steps in the procedure() of hot-dog production.
+I think she's too young to watch a horror() movie.
+High intensity() of light may blind your eyes.
+That girl is so lovely and youthful(). I like her!
+We are having a discussion() about the future of our company.
+I paid $5 to the waiter for tip().
+The blask cat deduced() that the white cat was the criminal.
+She showed kindness() to her cat.
+The noble() couple show their affection in public.
+Click this button to browes the preceding() text.
+Dreams are needless for the bastard in a wealthy() family.
+The driver slowly overtook() the driver in first place.
+The little girl uses a tissue() when she sneezes.
+
+For this card trick, please put the cards in series() first.
+I was ranked() number one in the game.
+The football smashed() the glass into pieces.
+Only adults() are allowed to watch this video.
+Our wondorful wedding is just the beginning of a wonderful marriage().
+Look! There is a herd() of sheep!
+I'd like a medium() size television.
+We can tell a sence of strong suspicion() from his eye.
+Thanks to the invertor() of the telephone, we can talk anytime anywhere.
+Those who commit crimes() must be severely punished.
+My house is an importantpart of my assets().
+My mum scolded() me for my messy bedroom.
+The couple walked hand in hand into the church at their wedding().
+He planned a very romatic() trip for our honeymoon.
+I have a Nokia and iPhone, obviously, the latter() is newer.
+Evety county develops its military() force to defend its territory.
+I had some difficulties() riding up the hill, but I made it.
+We feed a cow() to get milk for breakfast.
+This lane() will lead you to cross the forest.
+Most kids love sweet() food such as candy.
+We should recycle() trash by putting it into different bins.
+He disclosed() the classified secret to the public.
+I turned the volume() up to hear the radio.
+I was glad when the doctor told me my heart beat was normal().
+The soil is so productive() that the tomatoes grow very well.
+The red line tells you where the margin() is.
+The journalist() is always in pursuit of new stories.
+Let's drive off towards() that beautiful sunset.
+The boy wrote his father's signature() at the bottom of the paper.
+Hot water cat retain() its heat for hours in the vacuum cup.
+The best cooking oil is made from olives.
+These are five great inventions() of China.
+The college students are getting settled() in their new dormitory.
+Our devorce caused a devision() in our family.
+What made my money shrink() so much?
+Our teacher let us use calculators() on the math test.
+Square dance can easily be organized within a neighborhood().
+
+It's unfair()! She eats so much, but she's still slim.
+The dung of corws makes the land more fertile.
+It was a spiritual() experience to watch the sun peacefully.
+Dogs are the most faithful(), loyal pets you can have.
+After the party, we went back to our respective() hotel rooms.
+The cat was astonished() by the big fish he received.
+Years of practice have made him a very skillful() pianist. 
+Her piano preformance is superb().
+It was an unjust() trial.
+They are having an intense() quarrel over a critical issue.
+This drawing is so realistic()!
+I am an energetic() runner.
+My kids are so violent() - they'd rather fight than talk about things.
+Rice is acceptable, but fish is preferable()!
+The palace looks really splendid() at night.
+She is a diligent() student, studying in most of her free time.
+Precious() gems like diamonds are very valuable.
+She thinks that reading is tedious().
+The guy who rides on the horse is an honourable() knight.
+This guy was so humorous() and made everyone laugh.
+The red one is more noticeable() than the blue ones.
+Audio() books can help the blind people to readings.
+I really admire her optimistic() attitude.
+She is such a lucky() dog! She just won the jackpot in the lottery.
+The smart() dog can read newspapers.
+My love story quickly became widespread() through the internet.
+The magic cape mage Harry's body invisible().
+The wicked() witch forced Snow White to drink the poison.
+The kitten is so tiny() that it could be held in one hand.
+Having got many blames, the child looks very guilty().
+This historic() building was built over two thousand years ago.
+He always dose things on the basis of books; it is so theoretical().
+The damaged parts of the car show the accident was disastrous().
+My teacher silently approached me! How horrible()!
+The cats are curious() about what's behind the door.
+It is inevitable() for people to get old.
+Now I have my driver's license, it's legal() for me to drive on the road.
+The patient is in critical() condition -- move quickly!
+I suffer from chronic() pain.
+The kids are eager() to eat the ice cream before it melts.
+My boyfriend told me that he would be responsible() for this baby.
+That guy has an unusual() ability! He can fly!
+The fan went crazy() when he saw the actor.
+My girlfriend was an hour late for our date. I was getting impatient().
+We saw various() types of fish during our dive.
+Her indifferent() look showed that she was not interested in me.
+They gave a salute with a solemn() expression.
+Dominoes fall down in a successive() way.
+One should be tolerant() of all cultural differences.
+You committed the crime, and now you are liable() for the consequences!
+The red cog is crucial(); all other cogs depend on it.
+Compared with the immense() universe, our planet is so small.
+That decent()  gentleman enjoys his leisure time with wine and cigar.
+it’s very foolish() to play around with guns. 
+Oh my God ! A mysterious() man is running in my yard!  
+The debate over the color of the dress is actually a visual() trick. 
+This house is not as costly() as I thought.  
+The selfish() boy doesn't share the candies with other kids.
+The indoor() temprature is much higher than the outside.
+Look at my fruitful() apple tree! Do you want an apple?
+The computer is useless() , I need to get a new one.
+The taste in art is a highly subjective()  matter.
+Press this button to play the subsequent()  track.
+our country works hard at racial()  equality.
+This iron is magnetic() , so it attracts other things made of iron.
+I'm a liiter bit uncomfortable()  around my new boss.
+I love eating candy apples, but the caramel is so sticky() !
+The screen of my phone is broken, but it is still operational() .
+She is an actress who has good dramatic() action on stage.
+The forest is so dense(); there are trees absolutely everywhere.
+He's always so enthusiastic() about video games--he loves them so much.
+Man is on an eternal() journey to understand the universe.
+When you see another man whit your girlfriend, it's hard not to be jealous().
+It's prevalent() to use this kind of mobiles telephones int the 90s.
+These spoons and forks are made of stainless()  steel.
+I felt nervous(), hoping the teacher would not ask me to answer the question.
+You can only see girls feeding chickens in rural() areas.
+This is an enormous() cup of coffee! how big is it?
+The Moon invariably() orbits the Earth.
+Evidently(), It was my cat who are ate my dinner!
+Singapore is exceedingly() hot in July.
+He finally() found the right key after trying all the others.
+He was seemingly() happy but we didn't know haw sad he really was.
+Have some healthy food instead() of hamburgers.
+University was difficult for me, but I graduated eventually().
+This droid is partly()  functional having lost an arm.
+The big man hates the small man; likewise() , the small man hates the big man.
+They turned into butterflies and stayed together forever() .
+The Mongolian realm() in the north is not that large. 
+She makes efforts() to do exercise so that she can keep fit.
+I think the other plan is the better solution().
+These beautiful ores() are the materials for the production of iron.
+The children's upbringing() is filled with arts and crafts.
+The digestive tract() allows your body to use food for energy.
+The heading() of the newspaper is large in size.
+After the skin treatment(), my skin looks younger and healthier.
+I feel a sense of terror() whenever I see sharks.
+A succession() of horses passed us in the forest.
+This cream() will help your skin stay smooth.
+The majority() of the basketball fans support the L.A. Lakers.
+The pigeon() is taking a rest on the tree.
+The thickness of a single coin is on millimeter(). 
+The garlic() stinks; you should get rid of it.
+The zebras() are running across the river.
+Heavy industry() is important for our economy. Build more factosies.
+I love it when the entire orchestra() plays music together.
+The squirrel has sufficient food in storage() for winter.
+The art gallery had an exhibition() of my photos.
+Is your favorite creature() the dog, cat, or rabbit?
+The musician() plays beautiful music.
+The one ant is at a disadvantage() against so many others.
+These fishes dived into a depth() of 150 meters.
+"Please fill my car up with petrol()!" The driver said.
+The stadium() is filled with numerous sports fans.
+The hardware() in the box can be used to fix things.
+GDP fell by four percentage() points this quarter -- what a disaster!
+The farmers have a new irrigation() system to wate the fields.
+Look at the shooting stars! Let's seize the opportunity() to make a wish.
+The sunset over the road created quite a beautiful scene().
+He took out his identity() card to show who he was.
+His revenue() comes from his online work.
+He lost his job in the wave of unemployment().
+Some people call earth "The blue planet()".
+This dress is made out of such beautiful white fabric().
+She is painting her eye brows().
+"I'm in a good mood() today", she said with a smile.
+As an outcome(), the boxing game ended in a draw.
+Show your strength(), hit it again!
+In the USA, the parliament() writes and passes laws.
+Our company will be one of the top 500 globel enterprise().
+Most of the survivors() of Titanic wreckage ware women and children.
+The rescue team went to rescue the victims of the earthquake().
+The postage() depends on the weight of your goods.
+Don't get closer to radiation() if you are not in protective suit.
+The significance() of sun light and water is equally important for plants.
+The cable has 220 volts() of electricity.
+My waist measurement() is 30 inches.
+A huge amount of data() has been stored in the computer.
+The man resisted the temptation() of money.
+A triangle() is a shape with three angles and three sides.
+I completed my final year exam with distinction().
+The moon will pass through all of its phases() in about one month.
+Remember to keep all your files in the drawer().
+There is an increasing tendency() for us to make sales.
+Severak politicicans are talking in front of the Unite States Senate().
+As a strict food critic(), I think the pizaa is just so so.
+Evety morning the teacher checked our presence() in class.
+Turn the key to start the ignition().
+Conscience() and evil are whispering into my ears. 
+She checked the mailbox and began going through her correspondence().
+I want to keep a hen() so I can eat fresh eggs.
+The band performed with great passion().
+She receives physical therapy() for her back pain.
+This clock only show fifteen-second intervals().
+The leaves in autumn make the scenery() more beautiful.
+Baicizhan is a corporation() with great morals and strong work ethic!
+It's bad manners() to speak while you're eating.
+It was the locality() of the crime.
+Optical illusion() play tricks on your eyes.
+The EU headquarters() is located in Brussels.
+Substances() like water can exist in solid, liquid or gaseous form.
+Mechanics() is the science of movement and forces.
+Chinese teachers mainly teach the students literacy().
+I left my car at the workshop() for repairs.
+Taste in clothes changes with every era().
+This ruler measure objects in centimeters().
+Our body changes during the transition() from youth to old age.
+If I don't have a pen, I just say a note into my tape recorder().
+A thief() broke into my car last night.
+This chart shows the distribution() of nuclear weapons around the world.
+Their service feedback() from is direct and concise!
+These flags represent different nations().
+The poor boy's head looks like a tiny onion().
+The earth is in non-stop rotation().
+Even the donkeys() confrom to traffic regulations!
+These wind turbines() can generate electicity.
+The ants() play in a band.
+Climate() differ from place to place, and from season to season.
+I put his birthday card in an envelope().
+The kindergarten() had many toys for children to play with.
+Lend me your wool() please, I'll make you a pretty sweater.
+His English-Chinese interpretation() is strange, I doubt if it is crroct.
+Water is a necessity() for life.
+The youngsters settle the problem by using violence().
+The fisherman() hoped that his net would be full of fish.
+The theory of evolution() is a wonderful explanation of how life arose.
+A keycard is necessary for entry() to the room.
+The sunlight() brightens the green field.
+We have a reservation(), so our table is saved.
+The employee worked overtime to meet the deadline().
+The husband and wife had a very close relationship().
+This textbook() demonstrates how to be a cat person.
+Aviation() is one of my biggest interests -- I love airplanes.
+With the remarkable development of technology(), telephones get smaller.
+The duration() of my wait was about one hour.
+White roses are a symbol of purity().
+The salesman() told us the details about the house for sale.
+China has adopted one-child policy() for a few decades.
+I am a player() on my local basketball team.
+The book's illustration() of fruits help me to recognzie them.
+I received the medal in recognition() of my sports skills.
+After four years of college, I finally received my degree().
+An alien is the main character of this work of fiction().
+The man of wealth() wears a lot of glod and silver.
+This software will help increase your English vocabulary()!
+We go to the movies for some entertainment().
+I joined the navy() to be at sea.
+Einstein was a great physicist().
+The hammer and sickle represent socialism(). Workers, unite!
+Look! I have collected so many carrots()!
+The maximun output of this engine is two hundred horsepower().
+I saw a baby deer() this morning. It was so cute!
+This steak() looks very delicious.
+The spokesman() on stage is answering questions.
+Science() has greatly improved human life.
+I now have a membership() in the airline's VIP club.
+The sunshine() broke through the clouds.
+The recession() has hurt the global economy.
+I hope this fishing rod() is strong enough to catch a big fish.
+Sneezing is a common symptom() of a cold.
+Our group's strength lies in out unity().
+The slogan() will urge us to work hard.
+A roller() can be used to paint a wall faster than a paintbrush.
+There is an exit at the end of the corridor().
+Your father was a quite a sportsman() in his younger days.
+This dwelling() is in a very nice neighborhood.
+Bacon() is made from pig meat.
+Our introduction() was short but friendly -- we shook hands.
+This mystic light swirling over my hands is a miracle().
+I've always wanted to be a member() of the group.
+The teacher gave me lots of instruction() to improve my English.
+Cigarette() are getting more expensive every year.
+The German delegation() received a warm welcome upon arrival to the UK.
+A marketing campaign has several different aspects() such as price, promotion etc.
+These are so many animals in the zoo()!
+Pikachu has an ability to generate electricity().
+I use facts and statistics() to prove my point.
+As a farmer, I own acres() and acres of land.
+The magnet() is the threat to Iron Man.
+The monument looks beautiful form this viewpoint().
+Where dose the door() lead to?
+He has lived in poverty() since he joined the beggar gang.
+I think we have a visitor() at the door.
+The unexpected disaster() destroyed the whole city.
+His objection() made the other man feel unhappy.
+Giving the worker a cart greatly improved his efficiency(), and now he can work twice as fast.
+This book is full of the wisdom() of Confucius.
+They are robots, but they have emotion().
+Canada contains many province().
+These poor African kids suffer a lot from famine().
+Pull down your pants and get ready for your injection().
+There is a wide variety() of tomatoes; they are different in color.
+The policeman asked the girl to give a description() of the criminal.
+We thank Steve Jobs for the establishment() of Apple.
+The probability() of grasping a snake is 2/3.
+This virus() has been making me cough all week.
+In the suburbs(), there are fewer houses and more trees. 
+His religion() taught him to be kind. .
+Would the customer() buy this pair of the blue jeans? 
+These are my relations() - we got together over Christmas.  
+The velocity() of the rocket is over 4.5km/s.
+The United States has four major regions().
+A huge eagle() is flying high in the sky.
+The reporter()  brought us the lastest news.
+The conductors()  is leading the band.
+The teacher gave uo English dictation()  today.
+The installation()  of the air conditioning was a little diffcult.
+The sun is slowly rising from the horizon() .
+He felt a lot f sympathy()  for the dog and gave it a bone.
+Every night I hear an owl()  on the tree outside my room.
+I gave their service a good rating to show my satisfaction() .
+The film has a happy ending() .
+The girl keeps a diary()  everyday.
+My employer()  yells at me everyday.
+This exercise gives me a lot of strength and vigor() !
+A shortcoming()  of this kind of dog is that their legs are too short.
+The man speaks with his microphone() .
+All my clothes are in this wardrobe() .
+The Red Cross is an institution()  devoted to the development of human welfare.
+Drinking is harmful to our liver().
+The bunny jumps over the obstacles() .
+I've had to develop a tolerance()  for loud noise at the place where I work.
+The Bible()  is the holy book of the Christian religion.
+Aristotle may have been the greatest philosopher()  of all time.
+On Father's Day, we show our gratitude()  to our fathers for raising us.
+The revelation()  of the masked man's identify surprised us.
+The lion rules the animal kingdom()  with the help of his friends.
+I bought several new pairs of pants().
+The ugly duck is an exception() among the cute ducks.
+Vampires's weakness() is that they are afraid of sunshine.
+Episode() 1 of this TV series is being shown now.
+I used to be a worker, but now I get a real profession().
+The negotiation() went well and they finally reached an agreement.
+The school's faculty() is responsible for teaching the students.
+She's so young, but she's quite the little scholar().
+Congratulation() on your success!
+He uses the wax paper for the removal() of unwanted hair.
+The circle's radius() is about 10 centimeters.
+We can go to the museum() to look at art.
+Most memfind women wearing stockings() attractive.
+The city must rely on safe drinking water from the reservoir().
+You guys are tough competitors() , but I bet I'll win.
+There's a limitation()  on what he can see.
+They enjoy theri interaction()  with each other on the stage.
+Please place your cup on a saucer()  to keep the table clean.
+I take care of my lawn() to keep it nice and green
+Man A versus() Man B is good fight to watch.
+She provoke() her sister by making a face at her.
+I recommend() this toilet paper because its quality is better.
+School tends to depress() the boy; it always makes him sad.
+Birds reproduce() by laying eggs.
+The boy is reciting() a text to his teacher.
+I succeeded() in shooting three arrows in the center of the target.
+This girl's word discourage() him.
+Although the superstar wears the sunglasses, his fans still recognize() him.
+He accumulates() wealth for future use.
+My dog resembles() a brown mop.
+As the boy blows air in, the balloon expands().
+Our on-line community connects() us all to each other.
+"Hand in your homework!" she repeats 3 times to emphasize() its importance.
+Let's play hide and seek()!
+He deceived() the old man about the contract he was signing.
+The ugly duckling was excluded() by his peers.
+Get up! The chair can't sustain() your weight.
+This guy's duty is to regulate() the traffic.
+The dog despise() the cat for licking her ass.
+I will solve()  this math problem in a minute.
+You look terrible! I suggest() you go see a doctor!  
+I’m trying to deny() that I just farted. 
+The purpose of an oil refinery is to refine() crude oil into petroleum.
+We decorate()  the tree to celebrate Christmas.
+A sewing machine can sew()  so much faster than my hand.
+People awaited()  in a line to get on the bus.
+It's hard for plants to survive() in the dessert.
+The man threatened()  to hurt the girl.
+My friends sympathize() with me over the death of my grandfather.
+My mother is helping me fasten() my seat belt.

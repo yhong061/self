@@ -1,11 +1,10 @@
-
 abandoned(adj.)
-abandon(n.vt.) abandon her baby. 放弃
+abandon(n.vt.) 
 ability(n.)
 able(adj.)
 aboard(adv.prep.)
 abroad(adv.adj.n.)
-absorb(vt.) absorb a lot of water. 吸收
+absorb(vt.) 
 absorbed(adj.)
 abstract(adj.n.vi.vt.)
 absolutely(adv.)
@@ -14,14 +13,14 @@ absence(n.)
 absent(adj.vt.)
 abundant(adj.)
 abundance(n.)
-abuse(vt.n.) Stop abusing her. 虐待
+abuse(vt.n.) 
 
 academy(n.)
 academic(adj.n.)
 accent(n.vt.)
-accuse(vt.vi.) accuse each other 指责
+accuse(vt.vi.) 
 accord(n.vi.vt.)
-accumulate(vi.vt.) accummulate wealth 积累
+accumulate(vi.vt.) 
 accommodation(n.)
 according to(phr.)
 accustomed(adj.)
