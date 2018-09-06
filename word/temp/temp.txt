@@ -1,0 +1,23 @@
+orient
+    adj.
+        orient          东方的
+        orient+ed       导向的；定向的；以…为方向的
+        orient+al       东方的；东方人的
+    n.
+        orient          东方；东方诸国
+        orient+ation    方向；定向；适应；情况介绍；向东方
+        orient+al       东方人
+    v.
+        orient+ed       调整；使朝向（orient的过去分词）；确定…的方位
+        orient+alize    东方化
+    vi.
+        orient          向东
+        orient+ate      向东；定向
+    vt.
+        orient          使适应；确定方向；使朝东
+        orient+ate      给...定位；使适应
+
+
+
+
+
