@@ -1,91 +1,93 @@
 abandoned(adj.) The abandoned() house looks extremely terrifying.
-abandon(n.vt.)
+abandon(n.vt.) abandon her baby. 放弃
 ability(n.) He has the ability() to run on water.
 able(adj.) Now he is able() to walk without the help of crutches.
 aboard(adv.prep.)
 abroad(adv.adj.n.) This is a picture of us when we traveled abroad().
-absorb(vt.) Sponges can absorb()a lot of water.
+absorb(vt.) Sponges can absorb()a lot of water. 吸收
 absorbed(adj.) My daughter is absorbed()  in her story book.
 abstract(adj.n.vi.vt.) Abstract() art doesn't look like anything.
 absolutely(adv.) The ad said the product was absolutely() guaranteed to work.
 absolute(adj.n.) This room is an absolute() mess.
 absence(n.) None of the classmates konw the reason for his absence().
 absent(adj.vt.) What a surrprise! The best student is absent() from school.
-abundant(adj.) Holland has an abundant() supply of tulips.
+abuse(vt.n.) Stop abusing her. 虐待
 abundance(n.) The man bought an abundance() of food.
-abuse(vt.n.)
+abundant(adj.) Holland has an abundant() supply of tulips.
 
 academy(n.) This is an academy() for soldiers to train.
 academic(adj.n.)
 accent(n.vt.) He has such a funny accent()! 
-accuse(vt.vi.) They accused()  each other of being wrong.
+accuse(vt.vi.) They accused()  each other of being wrong. 指责
 accord(n.vi.vt.) Finally they all reached an accord() about what the tready should say.
-accumulate(vi.vt.) He accumulates() wealth for future use.
+accumulate(vi.vt.) He accumulates() wealth for future use. 积累
 accommodation(n.) This hotle offers good accommodation() where guests can feel like home.
 according to(phr.) According to() the law, you are guilty.
 accustomed(adj.) He got accustomed() to the food after 10 years of living here.
 accurate(adj.) I never miss my target because my aim is so accurate().
 accordance(n.) The little boy wore a helmet in accordance() with safety regulations.
-accompany(vi.vt.) I always accompany() my children to their school.
+accompany(vi.vt.) I always accompany() my children to their school. 陪伴
 account(n.vi.vt.) I have no money in my bank account().
-accommodate(vi.vt.) The hotel room can comfortably accommodate() two travelers.
-accelerate(vi.vt.) The way I dumped my girlfriend was to accelerate() my vehicle drastically.
+accommodate(vi.vt.) The hotel room can comfortably accommodate() two travelers. 容纳
+accelerate(vi.vt.) The way I dumped my girlfriend was to accelerate() my vehicle drastically. 加速
 accuracy(n.) The man shot the target with great accuracy().
-accomplish(vt.)
+accomplish(vt.) accomplish my tasks. 完成
 accidental(adj.)
-accept(vi.vt.)
+accept(vi.vt.) I accept your lovely gift 
 accident(n.)
 accountant(n.)
 access(n.vt.)
 achievement(n.) Walking on the moon was a remarkable achievement().
-achieve(vi.vt.) I finally achieved() my goal of winning the race.
+achieve(vi.vt.) I finally achieved() my goal of winning the race. 实现
 ache(n.vi.)
 acid(adj.n.) Make sure not to touch the acid() - it will burn.
-acknowledge(vt.) "Darling, I'm pregnant. Please acknowledge() this text".
+acknowledge(vt.) "Darling, I'm pregnant. Please acknowledge() this text". 回复
 acquaintance(n.) They greet each other out of manners, since they are just acquaintance().
 acquisition(n.)
-acquire(vt.)
+acquire(vt.) wants to acquire a new empire. 获得
 acre(n.) As a farmer, I own acres() and acres of land.
 actual(adj.) I refused the red envelop, but the actual() fact was that I wanted it.
 actress(n.) The beautiful actress() loves the attention she gets from her fans.
-activity(n.)
+activity(n.) My family enjoy ourdoor activities(), like flying kites.
 actor(n.)
 action(n.)
 active(adj.n.)
 acute(adj.) I have a very acute(), sharp pain in my stomach.
 
-adapt(vi.vt.)
+adapt(vi.vt.) hard to adapt to the new school 使适应
 additional(adj.) Each additional() scoop made the ice cream more delicious. 
 addition(n.) Simple addition() is the easiest part of math class.
 address(n.vt.)
 adequate(adj.) There's an adequate() amount of water for the elephants to drink.
 adjective(n.adj.) We use adjectives() to describe things.
-adjust(vi.vt.)
-admire(vi.vt.) The general was admired() for his brilliant feat in battle.
+adjust(vi.vt.) adjust the temperrature 调整
+admire(vi.vt.) The general was admired() for his brilliant feat in battle. 钦佩
 admission(n.) Sorry, no admission() - you can't come in.
 administration(n.) He's the top man in the administration() of the organization.
-admit(vi.vt.) That boy admitted() that he broke the vase.
-adopt(vi.vt.)
+admit(vi.vt.) That boy admitted() that he broke the vase. 承认
+adopt(vi.vt.) She adopt her son 收养
 adult(n.adj.) Only adults() are allowed to watch this video.
 adventure(n.vi.vt.) Jumping off a mountain was part of his adventure() .
 adverb(n.adj.) Adverb() can be uesd to modify verbs.
 advertisement(n.) This advertisement() is to promote a new product.
-advertise(vi.vt.) We advertise() our company on TV to make it well-known.
+advertise(vi.vt.) We advertise() our company on TV to make it well-known. 为...做广告
 advice(n.) The doctor is giving her some good advice().
-advise(vi.vt.) My teacher advised() me to use the APP when I failed the English exam.
+advise(vi.vt.) My teacher advised() me to use the APP when I failed the English exam. 建议
 advisable(adj.) Due to you weight, it's advisable() that you change your diet.
 advance(vi.vt.n.adj.) He finished his homework in advance().
 advantage(vi.vt.n.) The rocket gives his an unfair advantage()!
 advanced(adj.)
-advocate(vt.n.)
+advocate(vt.n.) he is advocating that 提倡
 
 aerial(adj.)
 aeroplane(n.)
 
 affair(n.) The president is handling the political affairs().
-affect(vt.vi.n.) Many people are affected() by the air pollution in winter.
-afford(vt.)
+affect(vt.vi.n.) Many people are affected() by the air pollution in winter. 影响
+afford(vt.) afford the branded goods for me. 负担
 affection(n.)
+afterward(s)(adv.)
+afternoon(n.)
 afterward(adv.) The baby had an emotional day, laughing and crying, then took a long nap afterwords().
 
 agenda(n.) Waht topics should we put on the agenda() for our afternoon meeting?
@@ -96,12 +98,12 @@ aggressive(adj.)
 ago(adv.adj.)
 agriculture(n.) Farmers rely on agriculture() for their living.
 agreement(n.) Both of them were happy with their agreement.()
-agree(vi.vt.)
+agree(vi.vt.) we agree that 同意
 
 ahead(adv.adj.) I am runing ahead() of the rest of the group.
 
 aid(n.vi.vt.)
-aim(vi.vt.n.) The man aims() at the center of the target.
+aim(vi.vt.n.) The man aims() at the center of the target. 瞄准
 airport(n.) The plane landed at the airport().
 air(n.vi.vt.) Could you blow some air() into the balloons?
 aircraft(n.) That aircraft() has no polit flying it!
@@ -116,21 +118,21 @@ alive(adj.) His beating heart shows he's alive() .
 alike(adj.adv.) The two dogs are a lot alike().
 allowance(vt.n.) Ming got his monthly allowance() with delight.
 alliance(n.) Our new alliance() allows us to work together to solve problems.
-allow(vi.vt.) The green light allows() you to go.
+allow(vi.vt.) The green light allows() you to go. 允许
 ally(n.vi.vt.) The two sides decided to ally() against the enemy.
 alloy(n.vi.vt.)
-allocate(vi.vt.)
+allocate(vi.vt.) allocate one piece of cake to each person 分配
 alongside(adv.prep.)
 alphabet(n.)
 alternative(n.adj.) There are five alternative()  answers for each question.
 altogether(adv.n.) Death has broken 4 Stark family members altogether().
 although(conj.) She kept smoking although() she was pregnant.
-alter(vi.vt.) The landspace has been altered() so much in recent years.
+alter(vi.vt.) The landspace has been altered() so much in recent years. 改变 
 altitude(n.)
 aluminum(n.) Aluminum() drink cans are light and convenient.
 
 amateur(n.adj.) This office worker is also an amateur() soccer player.
-amaze(vt.) This news really amazes() me!
+amaze(vt.) This news really amazes() me! 震惊
 ambitious(adj.) Although he isn't young anymore, the businessman is still ambitious() .
 ambition(n.vt.) This powerful man's political ambition() was to unify the three kingdoms.
 ambassador(n.) Each cellphone company sent an ambassador() to the conference.
@@ -139,9 +141,9 @@ amid(prep.) Help! I'm lost amid() all the colored balls!
 amount(n.vi.) He made a huge amount() of money.
 among(prep.)
 amongst(prep.)
-amuse(vt.)
+amuse(vt.) amuse the audience. 娱乐 
 
-analyze(vt.) She is analyzing() the company's monthly finances.
+analyze(vt.) She is analyzing() the company's monthly finances. 分析
 analysis(n.) Could you write up an analysis() of how the market is moving this week?
 ancestor(n.) our ancestor() looked kind of like monkeys.
 anchor(n.vi.vt.adj.) "Please be careful when you drop the anchor()!", the shark shouted.
@@ -150,11 +152,11 @@ angle(n.vi.) The angle()  of each corner is 60 degrees.
 anger(n.vi.vt.) She cannot control her anger().
 ankle(n.) An injured ankle() should be wrapped in a bandage.
 annual(adj.n.) This annual()  big sale is held specially for the single.
-announce(vt.vi.) He announced() the birth of his child on his WeChat.
-annoy(vi.vt.n.)
+announce(vt.vi.) He announced() the birth of his child on his WeChat. 宣布
+annoy(vi.vt.n.) He annoys me by talking all the time. 使烦恼
 anniversary(n.) He gave his wife a diamond ring on their tenth anniversary().
 ant(n.) The ants() play in a band.
-anticipate(vt.) I anticipate() him winning the first prize as he is really great!
+anticipate(vt.) I anticipate() him winning the first prize as he is really great! 预测
 antique(n.adj.vi.)
 anxiety(n.) She is in a state of anxiety() as she lacks monoy for raising a baby.
 anxious(adj.) I am so anxious() about the exam! What should I do?
@@ -167,24 +169,24 @@ anywhere(adv.n.)
 apart(adv.adj.) They set one man apart() from the rest.
 apartment(n.)
 apology(n.) he planned to make an apology() by giving a gift to his girlfriend.
-apologize(vi.vt.) I want to apologize() for going to dinner with my ex-girlfriend. I'm so sorry!
+apologize(vi.vt.) I want to apologize() for going to dinner with my ex-girlfriend.  道歉
 appointment(n.) I made an appointment()  with my doctor.
-approach(vi.vt.n.) The boat is approaching()  the jetty at a high speed.
+approach(vi.vt.n.) The boat is approaching()  the jetty at a high speed. 靠近
 applause(n.) my talk was so popular that there was applause() from everyone.
 appetite(n.) Wow, what a huge appetite() you have!
 apparatus(n.) He's the only one who knows how the apparatus() works.
 apparent(adj.) It's apparent() that the boy is taller than the girl.
 applaud(vi.vt.) We strated to applaud() after he finished his presentation.
-appoint(vi.vt.) My boss has appointed() me to manage this project.
+appoint(vi.vt.) My boss has appointed() me to manage this project.  任命
 appeal(vi.vt.n.) Money has great appeal() to most people.
 appear(vi.) I'm so excited! My idol is about to appear() on stage!
-apply(vi.vt.) Now, I'll apply() some cream to your face.
+apply(vi.vt.) Now, I'll apply() some cream to your face. 涂 
 appropriate(adj.vt.) Cinderella's foot size is appropriate() for the glass shoe.
 applicant(n.) The applicants() for the job are waitng outside before the interview.
 apple(n.)
-appreciate(vt.vi.)
+appreciate(vt.vi.) appreciate this famous painting 欣赏
 approval(n.)
-approve(vi.vt.)
+approve(vi.vt.) approve of my good performance 称许
 appearance(n.)
 application(n.)
 approximate(adj.vi.vt.)
@@ -196,14 +198,14 @@ arbitrary(adj.) Flipping a coin is an arbitrary() way to make decisions.
 architect(n.) The architect() imagines the house that his client wants to build.
 architecture(n.) The architecture() of these ancient buildings is amazing!
 argument(n.) The girl had an argument() with her boyfriend about the video game.
-argue(vt.vi.)
+argue(vt.vi.) argue with his mother 争吵
 arithmetic(n.) The boy is doing arithmetic() homework. It's easy for him.
-arise(vi.) He arise() at 7 a.m. every morning.
+arise(vi.) He arise() at 7 a.m. every morning. 起床
 arrow(n.vt.) Wow, you hit hte bullseye with three arrows()! Nice shooting!
 arrangement(n.) There was a comfortable arrangement() of tables for outdoor dining.
 arrival(n.) After my arrival(), I called my boyfriend and asked him to pick me up.
-arrest(vt.n.) Monkey King was under arrest() for defacing public property.
-arrange(vt.vi.) I can arrange() my toys so that they all fit in a box.
+arrest(vt.n.) Monkey King was under arrest() for defacing public property. 逮捕
+arrange(vt.vi.) I can arrange() my toys so that they all fit in a box. 整理
 artist(n.) The artist() is painting.
 artificial(adj.) Even with an artificial() leg, he can still beat you in a race.
 artistic(adj.) You're never too old to discover your artistic() side.
@@ -213,21 +215,21 @@ ashamed(adj.) The cat felt ashamed() that it was caught when eating the goldfish
 ash(n.)
 aside(adv.n.prep.)
 aspect(n.) A marketing campaign has several different aspects() such as price, promotion etc.
-assign(vi.vt.) Our teacher assigns() us some homework.
+assign(vi.vt.) Our teacher assigns() us some homework. 布置
 assignment(n.) My teacher gave me a lot of homework assignments() for the weekend.
-assist(n.vi.vt.) The nurse will assist() you in walking to your car.
+assist(n.vi.vt.) The nurse will assist() you in walking to your car. 帮助
 assistance(n.) I climbed uo the hill with the assistance() of my friend.
 assistant(n.adj.) His assistant() asked him to sign the papers.
-assess(vt.) It's her job to assess() her patient's health.
-assemble(vi.vt.) The family assembled() in the living room for a family photo.
+assess(vt.) It's her job to assess() her patient's health.  评估
+assemble(vi.vt.) The family assembled() in the living room for a family photo.  集合
 assembly(n.) Representatives() from different countries attended the assembly() of the UN.
 asset(n.) My house is an importantpart of my assets().
-assume(vt.)
+assume(vt.) I assume that the red team would win. 猜想
 assumption(n.) After merriage, we make the assumption() that a baby will soon follow.
-assure(vt.)
-associate(vi.vt.n.adj.)
+assure(vt.) he assure his little buddy 向...保证
+associate(vi.vt.n.adj.) associate red roses with love 联系
 association(n.)
-astonish(vt.) The cat was astonished() by the big fish he received.
+astonish(vt.) The cat was astonished() by the big fish he received. 使惊讶 
 astronaut(n.) As a kick-ass astronaut(), I have a special spaceship.
 
 athlete(n.) He was a great athlete() who ran really fast. 
@@ -235,16 +237,16 @@ Atlantic(adj.n.)
 atmosphere(n.) We should protect the atmosphere() of the earth to reduce global warming.
 atomic(adj.) A mushroom cloud formed after the atomic() bomb went off.
 atom(n.)
-attack(n.vi.vt.) I told her I wanted to break up and she attacked()  me!
+attack(n.vi.vt.) I told her I wanted to break up and she attacked()  me!  打
 attitude(n.) The waiter has such a bad attitude().
 attempt(n.vt.) The cat attempts() to catch that fish!
-attract(vi.vt.) The pie attracted() both Tom and Jerry.
+attract(vi.vt.) The pie attracted() both Tom and Jerry.吸引
 attractive(adj.)
 attraction(n.) As soon as we meet, there was an instant attraction() between us.
-attain(vt.vi.n.) I finally attained() my driving license!
-attend(vi.vt.)
+attain(vt.vi.n.) I finally attained() my driving license! 获得
+attend(vi.vt.) attend the newborn baby 照顾
 attention(n.)
-attach(vi.vt.)
+attach(vi.vt.) attach your name tag to your luggage 贴，系
 attorney(n.)
 
 auction(n.vt.) I hold an auction() to sell my house because I am broke.
@@ -252,40 +254,43 @@ audio(adj.) Audio() books can help the blind people to readings.
 audience(n.)
 aunt(n.)
 automatic(adj.n.) The automatic() production line improves the working efficiency greatly.
-auto(n.vi.) These autos() are parked in good order.
-automobile(n.vt.)
 authority(n.) The judge is the authority() on the meaning of the law.
 author(n.vt.) I want to be an author() and write books.
+auto(n.vi.) These autos() are parked in good order.
+automobile(n.vt.)
 auxiliary(adj.n.)
 
-available(adj.)
+available(adj.) The receptionist told me that there was only one room available().
 average(n.adj.vi.vt.) His height equals the average()  of his parents' heights.
 avenue(n.) The avenue()  is lined with lush green trees.
 aviation(n.) Aviation() is one of my biggest interests -- I love airplanes.
-avoid(vt.)
+avoid(vt.) avoid hitting the dog 避免
 
-await(vt.) People awaited()  in a line to get on the bus.
+await(vt.) People awaited()  in a line to get on the bus.  等候
 aware(adj.) The teacher is aware()  of students that cheat on the exam.
 award(n.vt.) I can't believe I won the award() for best actress.
 awake(adj.vi.vt.) It's already 3:22 a.m, but she is still awake().
 awful(adj.) There was an awful() smell comong from the dusbin.
 awkward(adj.) He felt a bit awkward() when receiving a bunch of crops.
 
+baby(n.vt.adj.)
 background(n.adj.vt.) I have a photogragh with the sea in the background().
 bacteria(n.) I'm infected with some bacteria(); that's why I have to go to the hospital.
 bacon(n.) Bacon() is made from pig meat.
-backward(adj.adv.)
+backward(adj.adv.) The little boy went backward() on the beach.
+bad(adj.adv.n.)
 badminton(n.) Playing badminton() on the grass makes the little boy so happy.
 badly(adv.)
-baffle(vi.vt.n.)
+baffle(vi.vt.n.) it baffle him 使困惑
 baggage(n.) The young man is waiting for his baggage().
-bake(vi.vt.n.) This pizza is oven baked() and 100% delicious.
+bag(n.vi.vt.)
+bake(vi.vt.n.) This pizza is oven baked() and 100% delicious. 烤
 balance(n.vi.vt.) Walking the tight rope requires a strong sense of balance().
 balloon(n.vi.vt.adj.)
 balcony(n.)
 ball(n.vi.vt.)
 ballet(n.)
-ban(vt.n.) The restaurant bans() smoking indoors. 
+ban(vt.n.) The restaurant bans() smoking indoors.  禁止
 bangs(n.) The women is cutting her own bangs().
 bankrupt(adj.n.vt.) With no more money, I'm completely bankrupt().
 banner(n.)
@@ -297,7 +302,7 @@ bar(n.vt.prep.) There's no one drinking in the bar(); it's too early.
 bargain(n.v.) The old lady is trying to bargain() with the paddler.
 bare(adj.vt.) He is running arround in bare() feet.
 barely(adv.)
-bark(vt.n.)
+bark(vt.n.) ths dog barks 狗吠
 barrier(n.vt.)
 barrel(n.vi.vt.)
 barber(n.vi.vt.)
@@ -309,11 +314,11 @@ baseball(n.)
 battle(n.vi.vt.) The soldiers fought really hard in the battle().
 bat(n.vi.vt.) Bats() hang themselves upside down when they sleep.
 bath(n.vi.vt.) I took a long bath() to relax myself.
-bathe(vi.vt.n.)
+bathe(vi.vt.n.) Tom and Jerry bathe together 洗澡
 battery(n.)
 bay(n.vi.vt.) The bay() cuts into the land and makes a perfect place to go swimming.
 
-beat(vi.vt.n.adj.) I beat() the meat flat so we can make hamburgers.
+beat(vi.vt.n.adj.) I beat() the meat flat so we can make hamburgers. 敲打
 bean(n.vt.) Coffee is made from coffee bean().
 beach(n.vi.vt.) We spent a wonderful day at the beach().
 beard(n.vi.vt.) Santa is famous for his big white beard().
@@ -322,24 +327,24 @@ beam(n.vi.vt.)
 beast(n.)
 bear(n.vi.vt.)
 beauty(n.)
-bechelor(n.)
-become(vi.vt.) This little green shoot will soon become() a beautiful flower.
+bechelor(n.) After four years of hard work, I finaly got my bechelor's() degree!
+become(vi.vt.) This little green shoot will soon become() a beautiful flower. 成为
 bee(n.) Thank you, little bee(), for making such delicious honey.
 beer(n.vi.)
-beg(vi.vt.)
+beg(vi.vt.) I beg you 乞求
 beggar(n.vt.) That beggar() must be cold and hungry.
 behalf(n.) Lord Bao attended the conference on behalf() of Baicizhan.
 behavior(n.) His behavior() in class has improved a lot over the past month.
-behave(vi.vt.)
-belong(vi.) This girl belongs() to me! he said. 
+behave(vi.vt.) you behave at school 举止端庄
+belong(vi.) This girl belongs() to me! he said.  属于
 belief(n.) I have a strong belief() in God.
 beloved(n.adj.) You are my beloved().
 belt(n.vi.vt.) Each belt() represents a different Taekwondo level.
 bench(n.vt.) There are many benches()  along the street.
-benefit(vi.vt.n.) Morning exercises benefit() old people.
+benefit(vi.vt.n.) Morning exercises benefit() old people. 受益
 beneath(prep.adv.) Most of the iceberg is beneath() the surface.
 beneficial(adj.) It would be beneficial() for you to go to outside every once in a while.
-bend(vi.vt.n.)
+bend(vi.vt.n.) bend to the left 弯曲
 besides(prep.adv.)
 bet(n.vi.vt.) I made a huge bet() in the game but I lost, and now I have no money.
 beyond(adv.n.prep.)
@@ -350,66 +355,66 @@ bid(n.vi.vt.)
 big(adj.adv.)
 bike(n.vi.)
 billion(num.n.adj.)
-bind(vi.vt.n.) The mummy is helping to bind() each other with the bandage.
-biology(n.)
+bind(vi.vt.n.) The mummy is helping to bind() each other with the bandage. 捆绑
+biology(n.) Biology() is the study of life.
 biscuit(n.adj.) I love to eat biscuits() when I drink coffee.
 bitterly(adv.) He was bitterly() disappointment after being rejected by her again.
-bite(vi.vt.n.)
+bite(vi.vt.n.) he bite the dog 咬
 
 blast(n.vi.vt.) The building was destroyed in the blast() after he turned around.
 blank(adj.n.vi.vt.) Your notepad is blank(); write some notes about the meeting!.
 blade(n.)
 blanket(n.adj.vt.)
 blame(vt.n.)
-blend(vi.vt.n.) Blend() the flour and the water with a spoon.
-bleed(vi.vt.)
+blend(vi.vt.n.) Blend() the flour and the water with a spoon. 混合
+bleed(vi.vt.) i may bleed to death 流血
 blind(adj.adv.n.vt.) I'm blind(), but my dog can see for me.
 bloody(adj.adv.vt.) He cut himself and created a bloody() mess.
-block(adj.vt.n.) The protesters blocked() the street.
-bloom(vi.vt.n.) These purple flowers bloom() in spring.
+block(adj.vt.n.) The protesters blocked() the street.  阻挡
+bloom(vi.vt.n.) These purple flowers bloom() in spring.  开花
+blonde(adj.n.)
 blouse(n.vi.vt.)
 blockade(n.vt.)
-blonde(adj.n.)
 
+boast(vi.vt.n.) stop boasting about her expensive clothing 炫耀
 board(n.vi.vt.) There is a board() hanging on the outside of the door.
-boast(vi.vt.n.)
-boil(vi.vt.n.) As the water boils() it gives off steam.
+boil(vi.vt.n.) As the water boils() it gives off steam. 烧开
 bold(adj.)
 bolt(n.vi.vt.adj.)
 bomb(n.vi.vt.) Let's get out of here! The bomb() will go off in three seconds!
 bond(n.vi.vt.) Family members have a strong bond(). You can never tear them apart.
 bone(n.vi.vt.)
+boost(vi.vt.n.) uses a rocket to boost his speed 增加
 boot(n.vt.) When I camp in the mountains, I alway wear hiking boots().
 boom(n.vi.vt.)
-boost(vi.vt.n.)
 boring(adj.n.) I've done my boring() homework - now can I go outside and play?
 border(n.vi.vt.)
 bottle(n.vi.vt.) I hope someone finds my message in this bottle().
-bother(vi.vt.n.) Don;t bother() me! I'll never play with you again!
+bother(vi.vt.n.) Don;t bother() me! I'll never play with you again! 打扰
 bottom(n.vi.vt.adj.)
-bounce(vi.vt.n.) The ball hit the ground and bounced(). 
+bounce(vi.vt.n.) The ball hit the ground and bounced().  弹起
 bound(adj.n.vi.vt.) Many people are bound() to their jobs.
 boundary(n.)
-bow(vi.vt.n.adj.) The singer bowed() to us after the show.
+bow(vi.vt.n.adj.) The singer bowed() to us after the show. 鞠躬
 box(n.v.vt.)
 boy(n.)
 
 branch(n.vi.vt.) The man cut off a branch() from the tree.
-brake(vi.vt.n.) Not agian -- I hate having to brake() my car for cows.
+brake(vi.vt.n.) Not agian -- I hate having to brake() my car for cows.  刹车
 brass(n.) The 18 brass() monks are a secert weapon of Shaolin monastery.
 brandy(n.) Many people prefer brandy() to other hard liquors.
 brand(n.vt.) These companies all have very well-known brands().
 brave(adj.vt.n.)
 breadth(n.) You can measure the breadth() of the room with this measuring tool.
 breast(n.vt.) She held her baby to her breast() to give some milk.
-breed(n.vi.vt.)
+breed(n.vi.vt.) There are hundreds of different dog breeds().
 breeze(n.vi.) She smiled when a gentle breeze() blew her hair.
 breakthrough(n.)
 briefcase(n.) My new briefcase() is black.
 brick(n.vt.adj.) With such efficiency of carrying bricks(), I'll get rich ssoon!
 British(adj.n.) He's waving the British() flag.
 bride(n.) The bride() is holding a bouquet of flowers.
-brilliant(adj.)
+brilliant(adj.) The girl is so brilliant() that she can solve the difficult question.
 brief(adj.n.vt.)
 Britain(n.)
 brow(n.) She is painting her eye brows().
@@ -417,7 +422,7 @@ brown(n.adj.vi.vt.)
 brother(n.int.)
 broad(adj.adv.n.) The road is so broad() that many cars can run at the same time.
 broom(n.vi.vt.) One of my duties is to sweep the floor with a broom().
-broadcast(vi.vt.n.adj.)
+broadcast(vi.vt.n.adj.) the reporter broadcast news 播报
 brush(n.vi.vt.) Different sizes if brush() may be applied int different situations.
 brutal(adj.) This terrorist attack was incredibly brutal()!
 
@@ -433,7 +438,7 @@ bunch(n.vi.vt.)
 burst(n.vi.vt.) The burst()  of the bomb led to the mushroom cloud in the sky.
 burden(n.vt.) Our homework burden() is too heavey.
 bureau(n.)
-bury(vt.)
+bury(vt.) bury them here 埋葬
 bush(n.vi.vt.adj.) The shape of the bush() looks like a ball.
 bus(n.)
 butcher(n.vt.) Butcher()'s job ismainly cutting and selling meat.
@@ -449,19 +454,19 @@ cafe(n.)
 cage(n.vt.) Get me out of this cage()! Where's the key?!  
 cake(n.vi.vt.)
 calm(adj.n.vi.vt.) She is so calm() although the endless work bothers her.
-calculate(vt.vi.) Let's calculate() the final amount.
+calculate(vt.vi.) Let's calculate() the final amount. 计算
 calendar(n.vt.) The month is over, so it's time to flip to the next month on the calendar().
 calculator(n.) Our teacher let us use calculators() on the math test.
 calorie(n.)
 campaign(n.vi.) Many people came to support the president's campaign().
 campus(n.) The college campus() is a great place for dating.
 camel(n.adj.vi.)
-cancel(vi.vt.n.) I canceled() my shopping order.
+cancel(vi.vt.n.) I canceled() my shopping order. 取消
 candy(n.vt.vi.adj.) I love to eat all kinds of candy().
 canal(n.vt.) This city has many canals() running throught it.
 candidate(n.) The candidates() are presenting the speeches for the election.
 Canadian(adj.n.)
-capture(vt.n.) The rabbit was captured() by the hunter.
+capture(vt.n.) The rabbit was captured() by the hunter. 捕获
 capacity(n.) The capacity() of this cup is 2 liters.
 captain(n.vt.) That captain()  is so charming.
 cap(n.vi.vt.) Police wear a blue cap()  when on duty.
@@ -480,7 +485,7 @@ career(n.adj.vi.)
 carpenter(n.vi.vt.)
 cart(n.vi.vt.)
 casualty(n.) We suffered one casualty() at work today.
-cast(vi.vt.n.) My friend says he wants to fly so I help to cast() him.
+cast(vi.vt.n.) My friend says he wants to fly so I help to cast() him. (用力气)扔 [throw him out]
 cassette(n.) People used to play music with cassette() tapes.
 cash(n.vt.) Please pay me with cash().
 cashier(n.vt.) The impolite customer shouted at the innocent cashier().
@@ -494,7 +499,7 @@ cautious(adj.) It's good to be cautious() and use your seat belt.
 cause(n.vt.) Somking can cause() lung cancer.
 cave(n.vi.vt.)
 
-cease(vi.vt.n.) The rain ceased() and the rainbow showed up.
+cease(vi.vt.n.) The rain ceased() and the rainbow showed up. 停止
 cell(n.vi.) Can you see the tiny cells()?
 cement(n.vi.vt.) We pour the cement()  in before it dries.
 centigrade(adj.) Flowers would be nicely treated at 25 degress centigrade().
@@ -512,27 +517,27 @@ chair(n.vt.) Sitting in the dentist chair() always fills me with fear.
 chart(n.vt.) This chart() shows taht our annual sales have continued to rise.
 chamber(n.adj.vt.) The chamber() has enough seats for a meeting.
 channel(n.vt.) These channels() are the most popular ones on televisoin.
-chain(vt.n.) The dog is chained() up so as not to hurt people.
-chat(vi.vt.n.) The women chat() casually about their lives
+chain(vt.n.) The dog is chained() up so as not to hurt people. 束缚
+chat(vi.vt.n.) The women chat() casually about their lives 闲谈
 charter(n.vt.) The American Constitution is a charter() that outlines a system of government.
 chapter(n.vt.) Please open your books to the first chapter().
 champion(n.vt.adj.) Mr. Bug won the poop-rolling game! Congratulations to the champion().
 charming(adj.) The princess in that movie was very charming().
 charity(n.) This charity() provides practical help to homeless children.
-charge(vi.vt.n.) My phone is out of power, charge() it now.
+charge(vi.vt.n.) My phone is out of power, charge() it now. 充电
 charm(n.vi.vt.)
-characterize(vi.vt.)
+characterize(vi.vt.) they two are characterized by the sexy lips 表示...的特性
 character(n.vt.) The two characters() are created to be different in presonality.
 characteristic(n.adj.) The main characteristic() of an elephant is its long trunk.
-chase(vi.vt.n.)
+chase(vi.vt.n.) the childern are chasing the butterflies 追赶
 chap(n.vi.vt.)
 chaos(n.)
-chew(vi.vt.n.) Please don't chew() and speak at the same time.
+chew(vi.vt.n.) Please don't chew() and speak at the same time. 咀嚼
 chest(n.) That's a big chest() for a man.
 cheek(n.vt.) She used cream on her cheeks() to take care of her skin.
 chemical(n.adj.) Watch out - if you mix those chemicals() togather they will explode!
-check(vi.vt.n.) Let me check() that our blood pressure is OK.
-cheat(vi.vt.n.) I always cheat() when I play cards.
+check(vi.vt.n.) Let me check() that our blood pressure is OK.  检查
+cheat(vi.vt.n.) I always cheat() when I play cards. 欺骗,作弊
 cheerful(adj.)
 chemist(n.)
 chimney(n.) The smoke from the factory's chimney() can be seen from miles away.
@@ -544,10 +549,10 @@ child(n.)
 chip(n.vi.vt.) There are many wood chips() on the table.
 Chinese(n.adj.)
 chin(n.vi.vt.)
-chop(vt.n.) She can't hold her tears when she chops() the onion.
-choke(vi.vt.n.) The toy almost choked() the baby to death.
-choice(n.adj.) To make the right choice(), you have to attend the lessons.
-choose(vi.vt.)
+chop(vt.n.) She can't hold her tears when she chops() the onion. 切
+choke(vi.vt.n.) The toy almost choked() the baby to death.噎住
+choice(n.adj.) To make the right choice(), you have to attend the lessons. 
+choose(vi.vt.) choose healthy foods 选择
 chocolate(n.adj.)
 Christian(n.adj.) Christians()  believe in Jesus.
 chromic(adj.) I suffer from chromic() pain.
@@ -560,35 +565,35 @@ circle(n.vi.vt.) We're runing in circles()!
 circumference(n.) Can you measure the circumference() of this apple?
 circumstance(n.) Our profits depend on a number of different circumstances().
 circuit(n.vi.vt.) The electrician is taking a look at the circuit() board.
-circulate(vi.vt.)
+circulate(vi.vt.) cooled air circulates through air conditioner 循环
 citizen(n.) Every citizen() aged eithteen or over has the right to vote in China.
-cite(vt.)
+cite(vt.) cited a sentence said by a famous writer 引用
 civil(adj.) Votind is an important civil() right.
 civilian(n.adj.) Many civilians() joined the protests against the army.
 civilization(n.) The Egyptian civilization() lasted for thousands of years.
 
-clap(vi.vt.n.) In a show of support they all began to clap() their hands.
+clap(vi.vt.n.) In a show of support they all began to clap() their hands. 拍手,鼓掌
 class(n.vi.vt.adj.)
 classical(adj.n.) I love classical() music.
 claw(n.vi.vt.) The cat has sharp claws().
 clause(n.) The last clause() states that he has to do what she says.
 claim(vi.vt.n.)
-clarity(n.)
+clarify(vi.vt.) asked him to clarify what he wrote 阐明
 classic(adj.n.)
 classification(n.)
-classify(vt.)
+classify(vt.) classify the type of garbage 把...分类
 clay(n.vt.)
-clash(vi.vt.n.)
+clash(vi.vt.n.) the two kids clashed with each other 发生冲突
 clerk(n.vi.)
 climate(n.) Climate() differ from place to place, and from season to season.
-cliff(n.) The steep white cliff() surrounded the bay.
-cling(vi.) The koala cling() to the tree.
-climb(vi.vt.n.) I dont't think I  could climb() that mountain.
-click(vi.vt.n.) He clicked() the mouse to open the file.
+cliff(n.) The steep white cliff() surrounded the  bay.
+cling(vi.) The koala cling() to the tree. 紧紧抓住
+climb(vi.vt.n.) I dont't think I  could climb() that mountain. 爬
+click(vi.vt.n.) He clicked() the mouse to open the file. 点击
 client(n.)
-clothe(vt.) The mum clothed() the baby.
-clothing(n.)
 cloth(n.adj.) This cloth() has a beautiful design.
+clothe(vt.) The mum clothed() the baby. 穿衣
+clothing(n.) "I have so many pretty pieces of clothing!" said the girl.
 clue(n.vt.) The detecttive is looking for a clue() to help him find the criminal.
 clumsy(adj.) The clumsy() man fell dow the staurs and hurt himself.
 
@@ -598,66 +603,66 @@ cock(n.)
 code(n.vi.vt.) Computers run on binary code().
 cognitive(adj.)
 coil(n.vi.vt.)
-collapse(vi.vt.n.) The building collapsed() after the earthquake.
+collapse(vi.vt.n.) The building collapsed() after the earthquake. 倒塌
 column(n.) Only a few columns() of the old building are still standing.
 collision(n.) Fortunately no one was injured in the collision() between the cars.
-colleague(n.) I really learned a lot by discussing with my colleague().
 color(n.vi.vt.) The kids painted their hands every color() of the rainbow.
 collar(n.vt.) The collar() of this shirt is too tight.
+collect(vi.vt.adj.adv.) collect old stamps 收集
 collective(adj.n.) Class fund is collective() property. It needs everybody to contribute.
-collect(vi.vt.adj.adv.)
-colony(n.)
-college(n.)
 collection(n.)
+college(n.)
+colleague(n.) I really learned a lot by discussing with my colleague().
+colony(n.)
+communicate(vi.vt.) communicate with each other by radio 交流
 communication(n.) They like to use cellphone for communication() .
-competitor(n.) You guys are tough competitors() , but I bet I'll win.
+community(n.) All of us are living on earth as a community().
+communist(adj.n.) Communist() hope to create an equal society.
+communism(n.) The idea of communism() was first introduced by Kral Marx.
 complex(n.adj.) Modern road system can be very complex() .
-comprise(vt.) The USA is comprised() of 50 states.
+comprise(vt.) The USA is comprised() of 50 states. 构成
 comrade(n.) A comrade() may save your life in the war.
-compose(vi.vt.) The man compose() new songs on his keyboard.
-combat(n.vi.vt.adj.) In ancient times fighters rode horses into combat().
+compose(vi.vt.) The man compose() new songs on his keyboard. 创作
+composition(n.) My favorite music compositions() were written by Chopin.
 comprehensive(adj.n.) She's making a comprehensive() consideration of all her option.
 commission(n.vt.) The state Health Care Commission() meets once every month to set policy.
 commercial(adj.n.) Commercial() businesses make a lot of money.
 complete(adj.vt.) And, finally, The puzzle is complete().
-compute(vi.vt.n.) I like using a calculator to compute().
+compute(vi.vt.n.) I like using a calculator to compute(). 计算
 compass(n.vt.) When you get lost outdoors, you can use a compass().
-community(n.) All of us are living on earth as a community().
 comment(n.vi.vt.) Her friends comment() on her post.
 competitive(adj.) The soccer game was really competitive().
+competitor(n.) You guys are tough competitors() , but I bet I'll win.
+competition(n.) Who is going to win this competition()?
+competent(adj.) She's a competent() worker and good at her job.
+compete(vi.) We compete() against each other to see who's the faster rider.与...竞争
 comedy(n.) This TV comedy() show is quite interesting.
 component(n.adj.) There are different kinds of electrical component().
 compound(n.adj.v.) They are considering how to create a new compound().
 company(n.vi.vt.) Our company() has a new office building.
 commerce(n.)
-commitment(n.) They made a commitment() to each other at their wedding ceremony.
-competition(n.) Who is going to win this competition()?
-competent(adj.) She's a competent() worker and good at her job.
-compel(vt.) He compelled() me to walk forward - mostly by pulling my tie.
-communist(adj.n.) Communist() hope to create an equal society.
-comparative(adj.n.) I did a comparative() study of which kind of car uses the least fuel, and decided on the smallest car.
-compete(vi.) We compete() against each other to see who's the faster rider.
-communism(n.) The idea of communism() was first introduced by Kral Marx.
+compel(vt.) He compelled() me to walk forward - mostly by pulling my tie. 强迫
 complaint(n.) My wife's complaints() are usually about me.
-complain(vi.vt.) Auntie Xiang Lin is always complaining() about her son being eaten by a wolf!
-composition(n.) My favorite music compositions() were written by Chopin.
+complain(vi.vt.) Auntie Xiang Lin is always complaining() about her son being eaten by a wolf! 抱怨
+compare(vi.vt.n.) compare products 比较
+comparative(adj.n.) I did a comparative() study of which kind of car uses the least fuel, and decided on the smallest car.
 comparable(adj.) The two dogs are comparable() in size and strength.
+comparison(n.)
 companion(n.vt.) In my English textbook, thay are great studying companion().
 complicated(adj.) Math is a very complicated() subject - it makes my head hurt.
 comprehension(n.)
 comfort(n.vt.)
-compress(vi.vt.)
-comb(vt.vi.n.) The gilr combs() ber hair after taking a bath.
-combine(vt.vi.n.) You must combine() many different kinds of food to make this dish.
+compress(vi.vt.) the bags are smaller after being compressed 压缩
 combination(n.)
-compensate(vi.vt.)
+combine(vt.vi.n.) You must combine() many different kinds of food to make this dish. 使混合
+combat(n.vi.vt.adj.) In ancient times fighters rode horses into combat().
+comb(vt.vi.n.) The gilr combs() ber hair after taking a bath. 梳理
+compensate(vi.vt.) he compensated his ex-wife with lots of money 补偿
 command(n.vi.vt.)
 compromise(n.vi.vt.)
-communicate(vi.vt.)
 committee(n.)
-commit(vt.)
-comparison(n.)
-compare(vi.vt.n.)
+commit(vt.) commit a crime 犯罪
+commitment(n.) They made a commitment() to each other at their wedding ceremony.
 commander(n.)
 congress(n.) This is the place where the congress() members would have a meeting. 
 concentration(n.) Completing an exam requires a lot of concentration().
@@ -686,13 +691,13 @@ confuse(vt.) I always confuse() the girl with her twin sister.
 conquest(n.) The cat made a conquest() of it enemy in the pillow fight.
 connect(vi.vt.) Our on-line community connects() us all to each other.
 conventional(adj.) They look like conventional() businessmen.
-conform(vi.vt.)
+conform(vi.vt.) comform to traffic regulations 遵照
 condense(vi.vt.) We condense() all kinds of herbs into pill form.
 confident(adj.) The cat felt confident(); in his mind, he was a powerful beast.
 conduct(vi.vt.n.) He is conducting() an orchestra.
 conversion(n.) Thankfully, the conversion() rate of RMB to foreign currency is getting better gradually.
 conclusion(n.) I finally draw a conclusion() from these facts.
-concentrate(vi.vt.n.) If you want to hit the target, you will have to concentrate() and focus.
+concentrate(vi.vt.n.) If you want to hit the target, you will have to concentrate() and focus. 全神贯注与
 constitute(vt.) Bread, beef, cheese and salad constitute() the perfect burger.
 concept(n.) Let me explain the concept() with this diagram.
 concert(n.vt.vi.adj.) I want to got to the band's concert() so much! I LOVE their music.
@@ -731,14 +736,14 @@ conflict(n.vi.)
 connection(n.)
 consequently(adv.)
 continual(adj.)
-conclude(vt.vi.)
+conclude(vt.vi.) the doctor conculded that it was nothing serious 推断出
 contemporary(adj.n.)
 conservation(n.)
 continent(n.adj.)
 contact(vi.vt.n.)
 conviction(n.)
 confusion(n.)
-contract(n.vi.vt.)
+contract(n.vi.vt.) contract each other by phone 联系
 convert(n.vi.vt.)
 consultant(n.)
 contempt(n.)
@@ -748,14 +753,14 @@ considerable(adj.)
 consideration(n.)
 convention(n.)
 contrast(n.vi.vt.)
-conquer(vi.vt.)
+conquer(vi.vt.) managed to conquer the difficulties 征服
 constitution(n.)
 confirm(vt.)
 cooperative(adj.n.) It requires cooperative() efforts to beat the red team.
 cooperate(vi.) If we cooperate(), we will get the job done more quickly.
 cook(n.vt.vi.)
 cooperation(n.)
-coordinate(vi.vt.n.adj.)
+coordinate(vi.vt.n.adj.) coordinated with each to carry water 使协调
 copyright(n.adj.vt.) They are fighting over the copyright() of that moon logo.
 cop(n.vt.)
 copper(n.adj.vt.)
@@ -770,7 +775,7 @@ core(n.vt.)
 correspondent(n.)
 cord(n.vt.)
 corporate(adj.)
-correspond(vi.)
+correspond(vi.) correspond by email to stay in touch 通信
 costly(adj.) This house is not as costly() as I thought.  
 costume(n.vt.) The actors are in costume() for the show.
 cottage(n.)
@@ -790,7 +795,7 @@ crazy(adj.) The fan went crazy() when he saw the actor.
 crane(n.vi.vt.) The crane() is lifting the girders to construct the building.
 craft(n.vt.) The mother loves to do crafts() with her kids.
 crash(n.vi.vt.)
-crack(vi.vt.n.adj.)
+crack(vi.vt.n.adj.) I cracked my phone 敲出裂痕
 cream(n.) This cream() will help your skin stay smooth.
 create(vi.) I created() the painting all by myself.
 creature(n.) Is your favorite creature() the dog, cat, or rabbit?
@@ -805,7 +810,7 @@ criticism(n.) You should expect a lot of criticism() when starting a new job.
 crime(n.vt.) Those who commit crimes() must be severely punished.
 criminal(n.adj.)
 crisis(n.adj.)
-criticize(vi.vt.)
+criticize(vi.vt.) criticize his wife for spending too much money 批评
 cross(vi.vt.adj.n.) Always use a crosswalk when you cross() the road.
 crossing(n.) The car speeds up at the crossing() suddenly, which scares the girl.
 crown(n.vt.)
@@ -835,12 +840,12 @@ curriculum(n.) The curriculum() includes math, science and English.
 curl(n.vi.vt.) Her blonde curls() are very beautiful.
 current(adj.n.) I can get all the current() news instantly on my call phone.
 curse(n.vi.vt.) I will darw a circle to lay a curse() on you.
-curve(vi.vt.n.adj.)
+curve(vi.vt.n.adj.) the road curves up ahead 使弯曲
 curiosity(n.)
 customer(n.) Would the customer() buy this pair of the blue jeans? 
 custom(n.adj.) In our culture, It's a custom() to wear these special bracelets.
 cushion(n.vt.)
-cut(vi.vt.adj.n.)
+cut(vi.vt.adj.n.) I like the way he cuts mu hair 剪
 
 cycle(n.vi.vt.) The diagram shows the water cycle() process.
 
@@ -848,13 +853,13 @@ dairy(n.adj.) Dairy() foods contain lots of calcium.
 daily(adj.adv.n.)
 damn(int.vi.vt.n.adj.adv.) Damn() it! Why do I keep getting fired!
 dam(n.vt.) The dam() keeps the river from flooding the twon.
-damage(vi.vt.n.)
+damage(vi.vt.n.) my car was badly demaged 损坏
 damp(adj.n.vi.vt.)
 dangerous(adj.)
 darling(n.)
 dark(n.adj.)
 daring(adj.n.)
-dash(vi.vt.n.)
+dash(vi.vt.n.) dash forward 猛冲
 data(n.) A huge amount of data() has been stored in the computer.
 date(n.vi.vt.)
 daughter(n.adj.)
@@ -874,16 +879,16 @@ declaration(n.) The declaration() states that the US is an independent country.
 deck(n.vt.) The happy couple are standing on the front od the ship's deck().
 decisive(adj.) He made a decisive() shot to help the team win at the last moment.
 decision(n.)
-decide(vi.vt.)
+decide(vi.vt.) It;s time to decide which way to go 决定
 decline(n.vi.vt.)
-decrease(vi.vt.n.)
+decrease(vi.vt.n.) My IQ decreased drastically 减少
 deceit(n.)
 decade(n.)
-decay(vi.vt.n.)
-declare(vt.vi.)
+decay(vi.vt.n.) oranges have decayed on top 腐烂
+declare(vt.vi.) declare this meeting open 宣布
 deduce(vt.) The blask cat deduced() that the white cat was the criminal.
 deer(n.) I saw a baby deer() this morning. It was so cute!
-deepen(vt.vi.)
+deepen(vt.vi.) deepen the hole 使...加深
 deed(n.vt.)
 defense(n.vt.) I'm lucky I have this shield to provide some defense().
 defiance(n.) The girl has a lot of defiance() in her!
@@ -901,7 +906,7 @@ delegate(n.vt.) Delegates() from both netions signed the peace agreement.
 deliver(vi.vt.n.) "We promiss to deliver() mail as soon as possible."said the postman.
 delight(n.vi.vt.) "I finally got this bag!" she yelled with delight().
 delegation(n.) The German delegation() received a warm welcome upon arrival to the UK.
-delete(vt.)
+delete(vt.) delete the unnecessary file 删除
 delicate(adj.)
 delivery(n.)
 deliberate(adj.vt.)
@@ -938,7 +943,7 @@ dessert(n.) I'd like to have some dessert() with a cup of tea after dinner.
 destructive(adj.)
 desk(n.adj.)
 descend(vi.vt.)
-destroy(vt.)
+destroy(vt.) my computer was destroyed 破坏
 desirable(adj.n.)
 design(n.vi.vt.)
 desperate(adj.)
@@ -949,9 +954,9 @@ determination(n.) "I have great determination() to lost weight". said the big gi
 determine(vi.vt.) The chubby dog is determined() to lose weight.
 detection(n.)
 devote(vt.) They devote() all their love to Christianity. 
-devise(n.vt.)
+devise(n.vt.) devise a plan for our company's future 制定,设计
 device(n.)
-develop(vi.vt.)
+develop(vi.vt.) seed develop into a plant 生长,发育
 
 diary(n.) The girl keeps a diary()  everyday.
 dialect(n.adj.) They come from two different areas, so they speak different dialect().
@@ -961,7 +966,7 @@ dial(vi.vt.n.) Hold on, let me dial() his number.
 diagram(n.vt.)
 dialog(n.)
 dictation(n.) The teacher gave uo English dictation()  today.
-dictate(vi.vt.n.)
+dictate(vi.vt.n.) I dectate a letter to my secretary 口述,命令
 different(adj.)
 differ(vi.vt.) His skin color differs() from the others'.
 difficulty(n.) I had some difficulties() riding up the hill, but I made it.
@@ -971,8 +976,8 @@ digest(vi.vt.n.) I'm having trouble digesting() all this spicy food.
 diligent(adj.) She is a diligent() student, studying in most of her free time.
 dim(adj.v.vi.vt.) The light is very dim(), I can's see who it is.
 dimension(n.vt.adj.)
-dine(vi.vt.)
-dip(vi.vt.n.)
+dine(vi.vt.) let's dine together 吃饭
+dip(vi.vt.n.) dip the cookie into the milk 浸,蘸
 diplomatic(adj.)
 dirt(n.) The vacuum cleaner helps me to get git of the dirt().
 direction(n.) The road goes in many direction().
@@ -1004,27 +1009,27 @@ distant(adj.) The destination is still distant(); we will not get there for a wh
 discussion(n.) We are having a discussion() about the future of our company.
 disclose(vt.) He disclosed() the classified secret to the public.
 distinct(adj.)
-distract(vt.)
+distract(vt.) try to distract his attention 使分心
 discount(n.vi.vt.)
 discharge(n.vi.vt.)
-dissolve(vi.vt.n.)
+dissolve(vi.vt.n.) this tablet dissolved in water (使)溶解
 disorder(n.vt.)
-disappoint(vt.)
-disturb(vi.vt.)
-dissatisfy(vt.)
-dispose(vi.vt.n.)
-discuss(vt.)
-disagree(vi.)
+disappoint(vt.) exam result disappointed him 使失望
+disturb(vi.vt.) his snoring disturbs me 打扰
+dissatisfy(vt.) the newly bought skirt dissatisfied her 使不满
+dispose(vi.vt.n.) I'll dispose of the food 处理掉
+discuss(vt.) discuss the topic 讨论
+disagree(vi.) disagree with my opinions 意见不同
 displease(vi.vt.)
 discipline(n.vt.)
-disappear(vi.vt.)
+disappear(vi.vt.) make a bird disappear 消失
 district(n.)
-distribute(vt.)
+distribute(vt.) distribute the gifts to the kids 分发,配送
 ditch(n.vt.vi.)
 dive(n.vi.) Is the water in the swimming pool deep enough to dive() into?
 divine(adj.vi.vt.n.) Buddha was a divine() soul who spread the message of love and peace.
 divide(vi.vt.n.) The apple is divided() into two equal parts.
-division(n.)
+division(n.) Our devorce caused a division() in our family.
 diverse(adj.)
 divorce(n.vi.vt.)
 
@@ -1063,10 +1068,10 @@ drawing(n.) The girls are sitting on the ground drawing() pictures.
 dread(vi.vt.adj.n.) The child dreads() the ghost so much that he couldn't fall asleep.
 drip(vi.vt.n.) The tap is dripping() . Please turn it off.
 drill(n.vi.vt.) The worker drills() into the wall.
-drive(n.vi.vt.)
+drive(n.vi.vt.) driving new car 驾车 
 drift(vi.vt.n.) The boat is drifting() down the river.
 drown(vi.vt.) "Help me, I'm drowning()!" he shouted as he sank under the water.
-drop(vi.vt.n.)
+drop(vi.vt.n.) drop on my face 落下
 drought(n.)
 drum(vi.vt.n.) The little guy shows his talent at playing the drum().
 drunk(adj.)
@@ -1083,7 +1088,7 @@ dusk(n.vi.vt.adj.) I enjoy watching the sunset at dusk().
 
 dwelling(n.) This dwelling() is in a very nice neighborhood.
 
-dye(vi.vt.n.)
+dye(vi.vt.n.) want to dye my hair 染色
 dying(adj.n.) The flowers in the pot are dying() from lack of water.
 dynamic(adj.n.) The square dancers might be aged,but they're still dynamic() !
 
@@ -1097,7 +1102,7 @@ eastward(adv.adj.n.) Look eastward() to watch the sunrise.
 eastern(adj.n.) I saw the sunrise in the eastern() sky.
 ease(n.vi.vt.)
 
-economical(adj.)
+economical(adj.) To save money, he always makes the most economical() decisions.
 economics(n.)
 economic(adj.)
 economy(n.)
@@ -1145,7 +1150,7 @@ else(adv.adj.)
 email(n.vt.)
 embassy(n.) The US embassy() in the U.K. is located in London.
 embarrass(vt.) He embarrassed() himself by farting in front of a lady. 
-embrace(vi.vt.n.)
+embrace(vi.vt.n.) she embraced her mother 拥抱
 emergency(n.adj.) It's a emergency(): get her to the hospital as soon as possible.
 emerge(vi.) Suddenly, the dolphin emerged() from the sea.
 emit(vt.) The little boy emits() a ray of light from his hands.
@@ -1157,33 +1162,33 @@ employment(n.) These people dress differently for their different kinds of emplo
 employee(n.) The employee() felt very happy when his boss prised him.
 empty(adj.n.vi.vt.) The meeting room had many seats, but they ware all empty().
 empire(n.) The united Kingdom at one time had a huge empire().
-employ(vt.n.)
+employ(vt.n.) emply a babysitter to look after her childern 雇佣
 emperor(n.)
 emphasis(n.)
-emphasise(vt.)
+emphasise(vt.) want to emphasize how important it is for us 强调
 
 enable(vt.) Vegetables enable() me to be healthy.
 enclose(vt.) I hate being enclosed() int this cage.
 encounter(vi.vt.n.) I've never thought that I'd encounter() my favorite star one day!
-encourage(vt.)
+encourage(vt.) encourage her 鼓励
 ending(n.) The film has a happy ending() .
-endure(vi.vt.)
+endure(vi.vt.) I have to endure() a bunch of weird smells on my way to work.
 endurance(n.) It takes mental and physical endurance() to run a marathon.
 endless(adj.)
 enemy(n.adj.) The superhero punched his enemy()  in the face.
 energetic(adj.) I am an energetic() runner.
-enforce(vi.vt.)
+enforce(vi.vt.) the policeman enforces the law 执行
 engineer(n.vi.vt.) The two engineer() are discussing their new building plans.
 engineering(n.) All the workers are trying to solve the engineering() problem.
 English(n.adj.vt.)
-engage(vt.vi.)
+engage(vt.vi.) they are engaged 订婚
 engine(n.vi.vt.)
-enhance(vt.) Eating spinach will enhance() his power!
-enlarge(vi.vt.)
+enhance(vt.) eating spinach will enhance his power 提高,加强
+enlarge(vi.vt.) enlarge the words 放大
 enormous(adj.) This is an enormous() cup of coffee! how big is it?
 enrich(vt.) Applications in smart phones have enriched() our life.
 enroll(vi.vt.) Every autumn we have to enroll() in classes.
-ensure(vt.)
+ensure(vt.) the swimming laps could ensure the safety  确保
 enthusiastic(adj.) He's always so enthusiastic() about video games--he loves them so much.
 enterprise(n.) Our company will be one of the top 500 globel enterprise().
 entry(n.) A keycard is necessary for entry() to the room.
@@ -1192,7 +1197,7 @@ entertain(vi.vt.) His talk show entertained() us, I like his dirty jokes!
 entire(adj.)
 entrance(n.vt.)
 enthusiasm(n.)
-entitle(vt.)
+entitle(vt.) he entitled the book 'My Book' 给(书)提名
 envelope(n.) I put his birthday card in an envelope().
 envy(n.vi.vt.) The single woman feels envy() when she sees happy couples.
 environment(n.)
@@ -1201,29 +1206,29 @@ episode(n.) Episode() 1 of this TV series is being shown now.
 
 equipment(n.) He brought special equipment() to fix the water leak.
 equivalent(adj.n.) These two things are of equivalent() weight.
-equip(vt.)
+equip(vt.) we equip our soldiers with the best weapons 装备,配备
 equality(n.)
 equal(adj.n.vt.)
 equation(n.)
 
 era(n.) Taste in clothes changes with every era().
-erect(vi.vt.adj.)
+erect(vi.vt.adj.) the worker are busy erecting the building 建立,建造
 erosion(n.) The rock was formed b erosion() over millions of years.
 error(n.) If you make an error(), you can just erase it and try again.
 
-escape(vi.vt.n.)
+escape(vi.vt.n.) sb. managed to escape from the rabbit 逃跑,避免
 essential(adj.n.) Hot pot and Mahjong are essential() components of SiChuan culture.
 essay(n.vt.)
 establishment(n.) We thank Steve Jobs for the establishment() of Apple.
 establish(vt.vi.) The two businessmen are trying to establish() links.
 estate(n.)
-estimate(vi.vt.n.)
+estimate(vi.vt.n.) estimate the cost of building a house 估价
 
 eternal(adj.) Man is on an eternal() journey to understand the universe.
 ethnic(adj.) Many ethnic() groups have their own contumes.
 
 evaporate(vi.vt.) The water is starting to evaporate().
-evaluate(vi.vt.)
+evaluate(vi.vt.) they evaluate our performance 评价,评估
 everywhere(adv.n.) I want to travl everywhere() in the world.
 everyday(adj.n.)
 eventually(adv.) University was difficult for me, but I graduated eventually().
@@ -1239,7 +1244,7 @@ evolution(n.) The theory of evolution() is a wonderful explanation of how life a
 evolve(vi.vt.) Even today, the humen race continues to evolve().
 
 examine(vi.vt.) I took my dog to the vet to be examine().
-exaggerate(vi.vt.)
+exaggerate(vi.vt.) the man exaggerates how big his muscles are 夸大,夸张
 exact(adj.vi.vt.)
 exception(n.) The ugly duck is an exception() among the cute ducks.
 except(prep.vt.vi.conj.) Everyone was feeling upset, except() for one guy.
@@ -1250,9 +1255,9 @@ excursion(n.) We took an excursion() into the forest.
 exclusively(adv.) The toilet is for the mother and baby exclusively().
 excite(vt.vi.) Shopping always excites() girls.
 exclusive(adj.n.) Sorry, this club is very exclusive(): VIPs only.
-exchange(vt.vi.n.)
-exceed(vi.vt.)
-exclaim(vi.vt.)
+exchange(vt.vi.n.) exchange ideas 交换,交流
+exceed(vi.vt.) exceed the maximum safe speed 超过
+exclaim(vi.vt.) "Come on, let's go!" the kids exclaimed 呼叫,惊叫
 excess(adj.n.)
 excitement(n.)
 exciting(adj.)
@@ -1260,12 +1265,12 @@ exercise(vi.vt.n.) Exercise() is the key to good health.
 exert(vt.) I exerted() all my strength to lift all the boxes.
 execute(vt.) This pathetic bird is going to be executed() by the cruel hunter.
 executive(n.adj.)
-exhaust(n.vi.vt.) Going after the sun exhausted()  Kuafu.
+exhaust(n.vi.vt.) going after the sun exhausted Kuafu 使精疲力尽
 exhibition(n.) The art gallery had an exhibition() of my photos.
 exhibit(n.vi.vt.)
 exit(n.vi.)
 existence(n.)
-exist(vi.)
+exist(vi.) Do aliens exist on other planets? 存在,生存
 expert(n.adj.vt.) Don't worry, he's an expert(), he'll know how to fix the computer.
 exploit(n.vt.) Employer exploits()  his workers ruthlessly for his own profits.
 expose(vt.) Some cement fell from the wall, leaving the bricks exposed() .
@@ -1282,9 +1287,9 @@ experimental(adj.) Scientists aim at finding experimental() evidence from experi
 export(vi.vt.n.) Most countries gain profits through exporting() their local goods.
 explanation(n.) My professor always answers my questions with long explanations().
 expense(n.vi.vt.)
-explain(vi.vt.)
+explain(vi.vt.) let me explain to you how this work 解释,说明
 explosion(n.)
-expect(vt.vi.)
+expect(vt.vi.) the couple is expecting a baby 期待
 experiment(n.vi.)
 exposure(n.)
 experience(n.vt.)
@@ -1305,14 +1310,14 @@ fabric(n.) This dress is made out of such beautiful white fabric().
 faculty(n.) The school's faculty() is responsible for teaching the students.
 facility(n.) Accessibility facilities() help improve the living standard of the disabled.
 factor(n.vi.vt.)
-fade(vi.vt.adj.n.) The trees were fading() away into the msit.
+fade(vi.vt.adj.n.) the trees were faded away into the mist 逐渐消失
 Fahrenheit(n.adj.) The temperature is 37 degrees Celsius, which is about 99 degrees Fahrenheit(). 
 faithful(adj.) Dogs are the most faithful(), loyal pets you can have.
 failure(n.) If I can't increase sales, I'll be a failure()!
 fairy(n.adj.) The story was about a fairy() with butterfly wings.
 faith(n.) The man shows his faith() by getting on his knees and praying.
 fairly(adv.)
-faint(vi.n.adj.)
+faint(vi.n.adj.) the hot weather made him faint 晕倒
 fake(adj.n.vi.vt.) Do you know which rabbit is the fake() one?
 false(adj.adv.) IS this question true or false()?
 famine(n.) These poor African kids suffer a lot from famine().
@@ -1350,10 +1355,10 @@ fee(n.vt.)
 fellow(n.adj.vt.) Those two fellows() are celebrating their success.
 female(adj.n.) You may see this pink symbol on a female() bashroom!
 fence(n.vi.vt.) The school is surrounded by a large fence().
-fertile(adj.)
+fertile(adj.) The dung of corws makes the land more fertile.
 fertilizer(n.)
 festival(n.adj.) During the festival(), everyone dresses up and parties.
-fetch(vt.vi.n.)
+fetch(vt.vi.n.) "here doggy, fetch!" I shouted as i throw the ball 取来
 
 fiber(n.) Some man-made fibers() can be used for making ropes.
 fiction(n.) An alien is the main character of this work of fiction().
@@ -1379,14 +1384,14 @@ flavor(n.vt.)
 flesh(n.vt.vi.) The lion feeds on flesh().
 fleet(n.adj.vi.vt.) The big fleet() of ships always stay together.
 flexible(adj.)
-flee(vi.vt.)
+flee(vi.vt.) Jack flees from the savages who want to eat his flesh 避开,逃离
 flight(n.vi.vt.)
 flock(n.vi.vt.) A flock() of sheep were grazing on the grassland.
 float(n.vi.vt.) My will power makes me float()  in the air.
 flow(vi.vt.n.) I love to sit by the river and watch the water flow() by.
 flour(n.vt.) There is a bag of flour().
 flood(n.vi.vt.)
-flourish(vi.vt.n.)
+flourish(vi.vt.n.) Plants flourish with enough sunlight and water 繁荣,茂盛
 fluent(adj.) The rapper used his fluent() English to complete the freestyle.
 fluid(n.adj.)
 
@@ -1394,7 +1399,7 @@ focus(n.vi.vt.) Make sure your objects is in focus() before taking the photo.
 fog(n.vi.vt.) A misty fog() floats above the trees.
 folk(n.adj.) They are wearing traditional folk()  clothing.
 following(adj.n.) Mr. Bao is very nervous because the following() performance will be his solo.
-fold(vi.vt.n.)
+fold(vi.vt.n.) fold the pink paper 折叠
 fond(adj.) I'm fond() of having phisical contact with my masculine boyfriend.
 foolish(adj.) it’s very foolish() to play around with guns. 
 fool(n.vi.vt.adj.) He is such a fool() that he can't answer this question.
@@ -1417,11 +1422,11 @@ formation(n.) The birds often fly in a v-shaped formation().
 forty(n.adj.)
 forth(adv.)
 fortunately(adv.)
-forgive(vi.vt.)
+forgive(vi.vt.) Please forgive me! I beg you!
 fortnight(n.)
 forehead(n.)
 forge(n.vi.vt.)
-force(n.vt.)
+force(n.vt.) she forced he to kiss her 强迫
 foster(adj.vt.)
 foundation(n.) The builders are laying the foundation() of a building.
 fountain(n.) The fountain() becomes so colorful at night.
@@ -1437,21 +1442,21 @@ frank(adj.n.vt.)
 freight(n.vt.) The freight() train transports the goods.
 frequent(adj.vt.) My mom bothers me on a frequent() basis.
 freedom(n.) The birds finally get their freedom()! There are flying out of the cage!
-freeze(vi.vt.n.)
+freeze(vi.vt.n.) when everything freezes 冻结,是结冰
 frequency(n.)
 friction(n.) The friction() heats up the wood and starts a fire.
 friend(n.vt.)
-frighten(vi.vt.)
+frighten(vi.vt.) he jumped out of the closet and frightened me 使害怕
 frost(n.vi.vt.) The leaves were covered with frost().
 frontier(n.adj.)
 frown(n.vi.vt.)
 frog(n.vi.)
 fruitful(adj.) Look at my fruitful() apple tree! Do you want an apple?
-frustrate(vi.vt.adj..)
-fry(vi.vt.n.)
+frustrate(vi.vt.adj..) The endless amount of work frustrate the workers 使灰心
+fry(vi.vt.n.) It's easy to fry eggs 油煎,油炸
 
 fuel(vi.vt.n.) The man is adding fuel() to the car.
-fulfill(vt.)
+fulfill(vt.) fulfill her dream of becoming ... 实现
 funeral(n.adj.) They ware really sad during their father's funeral().
 function(n.vi.) The function() of our digestive system is to feed us and keep us alive.
 fund(n.vt.) The family creats an education fund() for their baby.
@@ -1459,11 +1464,11 @@ fundamental(adj.n.) In modern society, WiFi is the most fundamental() need.
 furnace(n.) Be careful around the hot furnace().
 furniture(n.) I bought a new piece of white furniture() to add beauty to my room.
 further(adj.adv.vt.) Standing on the shoulder of a gaint robot, I can see further().
-furnish(vt.)
+furnish(vt.) We furnished our room with very expenxive furniture (用家具等)布置
 fur(n.vt.)
 fuss(n.vi.vt.) Mom really made a fuss() when I broke an egg.
 
-gain(vi.vt.n.)
+gain(vi.vt.n.) No pain, no gain 获得
 gallery(n.vi.vt.) This gallery()  has a lot of flower pictures.
 gallon(n.)
 gang(n.vi.vt.) This gang() of troublesome young men likes to cause trouble.
@@ -1475,10 +1480,10 @@ garbage(n.)
 gasoline(n.) Please fill up my car with gasoline().
 gaseous(adj.) Many factories let out gaseous() waste.
 gas(n.vi.vt.)
-gather(vi.vt.n.)
+gather(vi.vt.n.) The students are gathering for the flag-raising ceremony 集合,采集
 gauge(n.vt.) We get to know how fast we are from the speed gauge().
 gay(n.adj.) Gay() people alse have the right to love.
-gaze(vi.n.)
+gaze(vi.n.) he gazed deep into her eyes with adoration 凝视
 
 gear(n.vi.vt.adj.)
 genius(n.) The musical genius() was a composer even in childhood.
@@ -1488,19 +1493,19 @@ gene(n.) DNA consitss of a large number of genes().
 generator(n.) The noise made by the generator() is so annoying!
 generally(adv.)
 generation(n.)
-generate(vt.)
+generate(vt.) riding the bicycle to generate electricity 产生,发出(电热光力等)
 generous(adj.)
 geometry(n.) Geometry() is my least favorite subject - I hate it!
 German(adj.n.) The German() football team will be pretty hard to beat.
 germ(n.vi.) Germs() might be small, but they can make you very sick.
 gesture(n.vi.vt.)
 
-ghost(n.vt.vi.)
+ghost(n.vt.vi.) There are ghosts in movies and stories, but I don't think they are real.
 
 giant(adj.n.) This giant() hamburger cannot fit in my mouth, but I', so hungry I will eat is all!
 girl(n.)
 
-glance(vi.vt.n.)
+glance(vi.vt.n.) I glanced at her 瞥一下
 glimpse(n.vi.vt.) Alice caught a quick glimpse() of Wonderland throught the tiny door. 
 glory(n.vi.) The pupil is completely immersed in the glory()  of receiving a red scarf.
 glorious(adj.) What a glorious() sunset!
@@ -1515,7 +1520,7 @@ goat(n.)
 golf(n.vi.)
 goods(n.)
 goodness(n.int.)
-govern(vt.vi.)
+govern(vt.vi.) govern our kingdom 统治,管理
 governor(n.)
 
 grandfather(n.vt.) Our grandfather()  loves to read us stories.
@@ -1523,37 +1528,37 @@ gratitude(n.) On Father's Day, we show our gratitude()  to our fathers for raisi
 grave(adj.n.vt.) He looked very grave() when he heard the bad news.
 gray(adj.n.vi.vt.) My grandmother has a full head of gray() hair.
 graph(n.vt.) Reading so many graphs() really exhausted me!
-grasp(vi.vt.n.)
-graduate(vi.vt.n.adj.)
+grasp(vi.vt.n.) He grasped() the award firmly 抓住,理解
+graduate(vi.vt.n.adj.) graduated from the school 毕业,取得资格
 gram(n.) These pills weigh three grams().
 grade(n.vi.vt.) I got a good grade() in the final exam!
 grand(adj.n.) The grand() view really amazed me.
 grain(n.vi.vt.) Grains() like wheat are used to make bread.
-grateful(adj.)
+grateful(adj.) The little girl is very grateful for the gifts from her relatives.
 grandmother(n.vi.vt.)
-grant(vi.vt.n.)
+grant(vi.vt.n.) grants the blind premission to bring guide dogs on borad 许可,授予
 grammar(n.)
 grape(n.)
 graceful(adj.)
 gradual(adj.n.)
-grab(vi.vt.n.)
+grab(vi.vt.n.) grab your fingers 抓取
 gravity(n.)
 green(adj.n.adj.adv.)
 greedy(adj.)
 greenhouse(n.)
 Greek(n.adj.)
-greet(vt.)
-grind(vi.vt.n.)
-grip(vi.vt.n.)
+greet(vt.) take his hat off to great people 问候,招呼
+grind(vi.vt.n.) This tool can grind the beans into a powder 磨碎,折磨
+grip(vi.vt.n.) Don't lost your grip on the mountain 握紧,抓牢
 grim(adj.) Death is grim(), never smiling as he dose his duty.
 growth(n.) Plants need sunlight for growth().
 gross(adj.n.adj.) The gross() cost for all these things is very high.
 grocer(n.) This grocer() is very nice, he always gives me a discount.
 
 guard(n.vi.vt.) The guard() stood outside and defended the palace gates.
-guarantee(vt.n.)
+guarantee(vt.n.) using This App guarantees that you will pass your exam 保证
 guilty(adj.) Having got many blames, the child looks very guilty().
-guide(n.vi.vt.)
+guide(n.vi.vt.) The woman guides the elderly to the tourist spot 给...导游
 guitar(n.vi.) I have always wanted to play music on the guitar().
 guidance(n.)
 guideline(n.)
@@ -1565,24 +1570,24 @@ gymnasium(n.) Working hard in the gymnasium() keeps us fit.
 gym(n.) I need to go to the gym() to lose some weight.
 
 hair(n.vi.vt.adj.) How did you get your hair() so straight? 
-halt(vi.vt.n.)
+halt(vi.vt.n.) You should halt() when you see a policeman make this gesture 停止,止步
 hammer(n.vi.vt.) I used a big hammer() to push in the nail.
-hang(vi.vt.n.)
+hang(vi.vt.n.) The giraffe tried to hang himself  吊死,悬挂 
 handle(n.vi.vt.) Turn the handle() to open the door.
 handy(adj.) My daddy has many handy() tools.
 handbag(n.) These two girls bought many handbags().
 handwriting(n.)
 handful(n.)
 handkerchief(n.)
-happen(vi.)
+happen(vi.) how did this horrible accident happen 发生,出现
 harm(n.vt.) Drinking while pregnant will do great harm()  to your baby.
 hardware(n.) The hardware() in the box can be used to fix things.
 harbor(n.vi.vt.) The harbor() contains so many boats.
 hardship(n.) An orphan faces a life of great hardship().
 harmful(adj.) Smoking is not only harmful() to yourself but also to others.
-harden(vi.vt.)
+harden(vi.vt.) This mixture hardens after a few hours. (使)变硬,(使)坚强
 harmony(n.) The Yin-Yang is a symbol of harmony().
-harvest(vi.vt.n.)
+harvest(vi.vt.n.) harvest his crop for market 收割
 harness(n.vt.)
 harsh(adj.)
 haste(n.vi.vt.)
@@ -1595,17 +1600,17 @@ headline(n.vt.) I didn't read the story; I only saw the headline().
 headquarters(n.) The EU headquarters() is located in Brussels.
 headmaster(n.) The headmaster() of the magic school is a kind old man.
 heap(n.vi.vt.) It's my dream to jump into a heap() of money.
-heal(vi.vt.)
+heal(vi.vt.) the doctor's treatment healed my hand back to full health 治愈
 hearing(n.)
-heave(vi.vt.n.)
+heave(vi.vt.n.) let's all heave it up at the same time 用力举起,掷扔
 hedge(n.vi.vt.)
 heel(n.vi.vt.)
-heighten(vi.vt.)
+heighten(vi.vt.) the gloomy weather heightened the horrible stmosphere int the graveyard 加强,增加
 heir(n.)
 hello(n.int.)
 hell(n.vi.int.) Hell() is the place where the devils lives.
 helicopter(n.vi.vt.) The helicopter() is flying over the sea.
-helpful(adj.)
+helpful(adj.) My granddaughter is always very helpful to me.
 helpless(adj.)
 hen(n.) I want to keep a hen() so I can eat fresh eggs.
 hers(pron.)
@@ -1613,14 +1618,14 @@ heroic(adj.n.) An ordinary man may also make a heroic() move.
 heritage(n.) The old couple are considering how to distribute theri heritage().
 herd(n.vi.vt.) Look! There is a herd() of sheep!
 herself(pron.)
-hesitate(vi.vt.)
+hesitate(vi.vt.) I hesitated when my boyfriend showed me the ring 犹豫,含糊
 
-highlight(vt.n.)
+highlight(vt.n.) You should highlight  all the most important. 使突出,强调
 highway(n.)
 hillside(n.) Over time, houses were built further up the hillside().
 hint(n.vi.vt.) She gave a hint() there was no problem.
 hip(n.adj.)
-hire(vi.vt.n.)
+hire(vi.vt.n.) you're hired 雇佣,租借
 historic(adj.) This historic() building was built over two thousand years ago.
 
 hobby(n.) Fishing is my hobby(), so I often go to the lake on weekends.
@@ -1649,7 +1654,7 @@ household(n.adj.) I grew up in a large household().
 housing(n.) The agent is introducing these housing() properties to me.
 
 humorous(adj.) This guy was so humorous() and made everyone laugh.
-hum(vi.vt.n.int.)
+hum(vi.vt.n.int.) I can't sleep when the fly is humming around my ear 发出嗡嗡声
 humble(adj.vt.) The point of prayer is to humble() yourself before God.
 humor(n.vt.)
 humanity(n.)
@@ -1665,26 +1670,26 @@ iceberg(n.) It's too bad that the Titanic hit that iceberg().
 
 identical(n.adj.) My mother dresses my twin brothers in identical()  clothing.
 identity(n.) He took out his identity() card to show who he was.
-identify(vi.vt.)
+identify(vi.vt.) Your fingerprints are so unique that they can help the police to identify you 识别,认出
 ideal(adj.n.) Her ideal() weight is about twenty kilos lighter.
 identification(n.)
 idle(adj.vi.vt.)
 
 ignition(n.) Turn the key to start the ignition().
 ignorant(adj.) The ignorant() man has been bothered by a simple math question.
-ignore(vt.)
+ignore(vt.) the two sisters ignore the short guy and carry on talking 忽视,不理
 ignorance(n.)
 
-illustrate(vi.vt.)
+illustrate(vi.vt.) Our manager illustrated the sales with colorful charts. 举例说明,图解
 illusion(n.) Optical illusion() play tricks on your eyes.
 illustration(n.) The book's illustration() of fruits help me to recognzie them.
 illegal(adj.n.) Occupying a bus an is illegal().
 
-imagine(vi.vt.)
+imagine(vi.vt.) She is imagining() herself wearing a pretty dress 料想,设想
 imaginative(adj.)
 imagination(n.)
 imaginary(adj.)
-imitate(vt.)
+imitate(vt.) The little girl imitate her mother when she exercises. 模仿
 imitation(n.adj.) The monkey's imitation() of my dance was very funny!
 immune(n.adj.) The immune() system is like a shell, protecting our body from disease. 
 immediately(adv.conj.) Yes sir, I'll be there immediately().
@@ -1692,36 +1697,36 @@ immense(adj.) Compared with the immense() universe, our planet is so small.
 immediate(adj.) You should take immediate() actions when facing your problems.
 immigrant(n.adj.)
 impatient(adj.) My girlfriend was an hour late for our date. I was getting impatient().
-imply(vt.)
+imply(vt.) The little boy implied his craving for this cherry. 意味着,暗示
 implication(n.) She expressed her desire for the cookie by implication().
 improvement(n.) I hope our sales show some improvement() soon.
 impression(n.) He felt a good impression() on the interview.
 impact(n.vi.vt.)
-impose(vi.vt.)
+impose(vi.vt.) impose her ideas on me 把...强加, 强制实行
 importance(n.)
-improve(vi.vt.)
-impress(vi.vt.n.)
+improve(vi.vt.) her English improved a lot 改善,增加
+impress(vi.vt.n.) the magician impressed the audience with his amazing tricks 使有印象 
 import(vi.vt.n.)
 impressive(adj.)
 imperative(adj.n.)
 impossible(adj.n.)
 implement(n.vt.)
 
-increasingly(adv.)
+increasingly(adv.) Increasingly(), we're making out money in the China market.
 incident(n.adj.) The incident() of the missing flight is still mystery.
 income(n.)
 incredible(adj.)
 incline(n.vi.vt.)
-increase(vi.vt.n.)
-include(vt.)
+increase(vi.vt.n.) Profits are increasing every year 增加,提高
+include(vt.) include everyone 包含
 indoor(adj.) The indoor() temprature is much higher than the outside.
 individual(adj.n.) Sometimes a single individual() can change everything.
 indeed(adv.int.) My coworkers told me that I did, indeed(), do a good job.
 industrial(adj.n.) Industrial() activity is good for the economy, but sometimes bad for the enviroment.
 industry(n.) Heavy industry() is important for our economy. Build more factosies.
-indicate(vt.)
+indicate(vt.) Can you guess what the graph indicates? 表明,显示
 indifferent(adj.) Her indifferent() look showed that she was not interested in me.
-induce(vt.)
+induce(vt.) The leader gives a speech to induce his followers. 引导,劝诱
 index(n.vi.vt.)
 independence(n.) American gained its independence() from Britain in 1776.
 independent(adj.n.) Even though she can't move her legs, she's still an independent() person.
@@ -1735,59 +1740,59 @@ inferior(adj.n.) He makes me feel I'm inferior() to him.
 influential(adj.n.) Jacke Ma is an influential() figure in the global market. 
 influence(n.vt.) Stop smoking! It will have a bad influence() on your kid.
 inference(n.) The boy made an inference() about love.
-infer(vi.vt.)
-infect(vt.)
-inform(vi.vt.)
+infer(vi.vt.) The detective inferred from the footprints that the criminal was in the box. 推理,推断
+infect(vt.) You are sick! Out the mask on or you will infect others. 传染,受影响
+inform(vi.vt.) Please inform() us of the news as soon as you konw. 通知,向...报告
 inflation(n.) Because of the inflation(), we could buy less fruit with the same money.
 infant(n.adj.)
 infinite(adj.n.)
 ingredient(n.adj.)
-inherit(vi.vt.)
+inherit(vi.vt.) The baby inherited his father's curly hair. 经遗传而得(特性等)
 inhabitant(n.)
 initiative(n.adj.) You should take the initiative() and go fitst.
 initial(adj.n.vt.)
 injection(n.) Pull down your pants and get ready for your injection().
-injure(vt.)
+injure(vt.) he injured his leg 伤害,损害
 injury(n.)
 inland(adv.adj.n.)
 innocent(adj.n.) The baby is still innocent() -- he knows nothing of the evils of the world.
 inner(n.adj.) The inner() core of the earth is made up of lead.
 inn(n.vi.)
 input(n.vt.) The mouse and keyboard are input() devices.
-inquire(vi.vt.)
+inquire(vi.vt.) "what is your name? " She inquired. 打听,询问
 inquiry(n.)
 installation(n.) The installation()  of the air conditioning was a little diffcult.
 institution(n.) The Red Cross is an institution()  devoted to the development of human welfare.
 insurance(n.) I bought insurance() for my car.
-insert(vt.n.)
-inspect(vi.vt.)
+insert(vt.n.) insert you credit card into the ATM 插入,嵌入
+inspect(vi.vt.) I had my mechanic inspect the car before I bought it. 检查,审查
 instruction(n.adj.) The teacher gave me lots of instruction() to improve my English.
 instead(adv.) Have some healthy food instead() of hamburgers.
 install(vt.) The man install() a celling fan.
-insist(vi.vt.)
+insist(vi.vt.) His mother insists that he should put on his warm pants. 坚持
 insight(n.) He really has an insight() into math.
 instrumental(adj.n.) They only play instrumental() music, their band doesn't have a singer.
 instrument(n.) We need all the musical instrument() to perform in the show.
 insect(n.) There're many kinds of insects(), such as butterflies, bees and ants.
 instinct(n.adj.) Even well-fed cats will kill mice, because of thier hunting instincts().
-inspire(vt.)
-instruct(vt.)
-insult(vt.n.)
-insure(vi.vt.)
+inspire(vt.) My mom inspired me to become an astronaut from an early age. 激发,使生灵感
+instruct(vt.) My mom instructs me how to play golf. 教,指导
+insult(vt.n.) It doesn't help to insult other drivers. 侮辱,凌辱
+insure(vi.vt.) he insures the cars against traffic accidents 保险,确保
 instant(n.adj.)
 institute(n.vt.)
 interaction(n.) They enjoy theri interaction()  with each other on the stage.
-intend(vt.vi.)
+intend(vt.vi.) what do you intend() to do 想要,打算
 interview(n.vt.) During the job interview(), the man seemed nervous.
 interval(n.) This clock only show fifteen-second intervals().
-interrupt(vi.vt.n.)
+interrupt(vi.vt.n.) Do not interrupt() me 打扰,打断
 intense(adj.) They are having an intense() quarrel over a critical issue.
 interpretation(n.) His English-Chinese interpretation() is strange, I doubt if it is crroct.
 intellectual(n.adj.) As an intellectual(), I write poetry anytime.
-interact(vi.vt.n.)
+interact(vi.vt.n.) Besides the performance, he also interact well with his fans. 互动,互相作用
 introduction(n.) Our introduction() was short but friendly -- we shook hands.
 interior(adj.n.) The interior() furnishing of the living room is very delicate.
-introduce(vt.)
+introduce(vt.) Students will introduce themselves on the first day at school. 介绍
 international(adj.n.) All of them are international() students from different countries.
 intelligent(adj.) If you are as intelligent() as this scientist, you may change the world.
 intensity(n.) High intensity() of light may blind your eyes.
@@ -1798,16 +1803,16 @@ interest(n.vt.)
 intention(n.)
 intelligence(n.)
 intimate(adj.n.vt.)
-interpret(vi.vt.)
+interpret(vi.vt.) I interpreted his words into English 口译,解释
 invariably(adv.) The Moon invariably() orbits the Earth.
-invest(vi.vt.)
+invest(vi.vt.) The stock index rises and falls all the time. Invest cautiously.
 invisible(adj.) The magic cape mage Harry's body invisible().
 invite(vt.n.) The agent invite() us in to have a look at the house.
-invade(vt.vi.)
-invent(vt.)
+invade(vt.vi.) The aggressive emperor invaded other countries 侵略
+invent(vt.) Thomas Edison invented the light bulb 发明
 involved(adj.) I want a lot of people involved() so we can finish the task quickly.
 investigate(vi.vt.)
-inventor(n.)
+inventor(n.) Thanks to the inventor() of the telephone, we can talk anytime anywhere.
 invention(n.) These are five great inventions() of China.
 involve(vt.)
 invitation(n.)
@@ -1841,9 +1846,9 @@ journal(n.) The man writes everything down in his journal().
 journalist(n.) The journalist() is always in pursuit of new stories.
 journey(n.vi.)
 
-judgement(n.)
+judgement(n.) The court will make fair judgements().
 judge(vi.vt.n.) The judge() decides if I will go to jail.
-junior(adj.n.)
+junior(adj.n.) "Junior" means young or younger.
 jungle(n.adj.)
 jury(n.adj) The jury() saw the injury.  
 justice(n.)
@@ -1876,7 +1881,7 @@ landscape(n.vi.vt.)
 landlord(n.)
 lap(n.vi.vt.) A little cat is sleeping in the old lady's lap().
 largely(adv.) The users of this product are largely() female.
-laser(n.)
+laser(n.) His laser-like() syse saw right through me.
 Latin(adj.n.) I love Latin() dance! It makes me sexy and passionate!
 latter(adj.) I have a Nokia and iPhone, obviously, the latter() is newer.
 later(adv.adj.)
@@ -1895,7 +1900,7 @@ learning(n.) Mom often helps me with my learning().
 leak(vi.vt.n.)
 leading(adj.n.) The leading() cyclist was starting to pull away from the rest.
 leap(vi.vt.n.)
-leadership(n.)
+leadership(n.) Under his leadership, they made it to the top!
 league(n.vt.vi.) You are so good! You should join our soccer league()!
 lean(vi.vt.adj.n.)
 learned(adj.) The man on the stage is a well learned() professor.
@@ -1914,7 +1919,7 @@ lever(n.vi.vt.)
 liar(n.) That politician is a liar()! Don't believe him!
 liable(adj.) You committed the crime, and now you are liable() for the consequences!
 liberate(vt.)
-librarian(n.)
+librarian(n.) The helpful librarian helped me find the books I needed.
 liberty(n.) If you go to New York, you should see the Status of Liberty().
 lick(vt.vi.n.)
 license(n.vt.) You should obtain a license() before driving on the road.
@@ -1922,7 +1927,7 @@ lid(n.vt.) My mouth watered when the waiter took the lid() off the plate.
 lifetime(n.adj.) People play different roles in their lifetime().
 lightning(n.vi.adj.) This superhero runs as fast as lightning().
 likewise(adv.) The big man hates the small man; likewise() , the small man hates the big man.
-likelihood(n.)
+likelihood(n.) I think the likelihood() that I will find love eventually is very high.
 likely(adj.adv.)
 limitation(n.) There's a limitation()  on what he can see.
 limited(adj.n.) On this diet, you can only eat a very limited() amount of food.
@@ -2046,7 +2051,7 @@ mend(vi.vt.n.)
 merit(n.vi.vt.) He was awarded a medal on the merit() of his bravvery.
 merchant(n.adj.) The fruit merchant() gave me a good price on his tomatoes.
 merely(adv.) It's not a serious injury, but merely() a cut.
-mercury(n.)
+mercury(n.) The thermometer smashed and the mercury() flew out.
 mercy(n.)
 merry(adj.n.)
 mere(adj.n.)
@@ -2069,7 +2074,7 @@ minister(n.vi.) The government minister() gives a speech.
 mineral(adj.n.) We should drink more mineral() water -- it's good for our health.
 mine(n.vi.vt.pron.) Will he find any gold in the mine()?
 minority(n.adj.) These ethnic minorities() wear colorful clothes.
-minimun(adj.n.)
+minimun(adj.n.) The boss pays me minimun() wage, I wish he would pay me more!
 ministry(n.)
 mirror(n.vt.) I looked in the mirror() and saw my face.
 miracle(n.) This mystic light swirling over my hands is a miracle().
@@ -2181,7 +2186,7 @@ northwest(n.adj.adv.)
 nose(n.vt.vi.)
 noticeable(adj.) The red one is more noticeable() than the blue ones.
 notify(vt.)
-notwithstanding(prep.adv.conj.)
+notwithstanding(prep.adv.conj.) Notwithstanding() the snow, the girl is still selling the matches.
 notice(n.vi.vt.) The gilr puts the notice() on the board.
 notion(n.)
 novel(n.adj.) She enjoys herself by reading novels().
@@ -2191,7 +2196,7 @@ nowhere(adv.adj.n.) Water was nowhere() to be found.
 nucleus(n.)
 nuclear(adj.)
 nuisance(n.) The boy who keeps pulling the girl's hair is really a nuisance()!
-numerous(adj.)
+numerous(adj.) The stadium is filled with numerous sports fans.
 nursery(n.) I drop off my kids at the nursery() before I go to work.
 nurture(vt.n.)
 nut(n.vi.) Crack open the shell to eat the nut() inside.
@@ -2220,13 +2225,13 @@ occasional(adj.)
 
 odd(adj.n.) That's an odd() hat you're wearing!
 
-official(n.adj.)
+official(n.adj.) The village official() is reading newspapers.
 offensive(adj.n.) She found his words very offensive(), which made her really upset.
 offend(vi.vt)
 offer(n.vi.vt.)
 offense(n.)
 
-olive(n.adj.)
+olive(n.adj.) The best cooking oil is made from olives.
 
 omit(vt.)
 
@@ -2255,7 +2260,7 @@ oral(adj.n.)
 orbit(vt.vi.n.)
 orchestra(n.) I love it when the entire orchestra() plays music together.
 ordinary(adj.n.) He was a president, but now he’s just an ordinary() man. 
-orderly(adj.adv.n.)
+orderly(adj.adv.n.) The soldiers are marching foward in an orderly() way.
 ore(n.) These beautiful ores() are the materials for the production of iron.
 organ(n.) The heart, brain and lungs are examples of vital organ() in the human body.
 organization(n.) In our organization(), everyone takes orders from me. Is that clear?
@@ -2503,7 +2508,7 @@ prince(n.) Little George is the youngest prince() of the United Kingdom.
 private(adj.n.) Do not enter! This is Mr. Dog;s private() property.
 prior(adj.n.) Prior() to crossing roads, the school bus goes first.
 pride(vi.vt.n.) Our manager wants us to feel pride() in the quality of our work.
-primitive(adj.n)
+primitive(adj.n) Primitive() men made fire by themselves since they had no electricity.
 primary(adj.n.) Usually children got to a primary() shcool at the age of 6.
 priest(n.vt.) The priest() loves to sing about God.
 privilege(n.vt.)
@@ -2639,7 +2644,7 @@ realistic(adj.) This drawing is so realistic()!
 really(adv.) He's not really() good at shooting arrows.
 reader(n.) I'm the most loyal reader() of the newspaper.
 react(vi.vt.) Different people react() differently when showna horror movie.
-reality(n.)
+reality(n.) Their actions were friendly, but in reality() they hated each other.
 realize(vt.) I realized() my mistake too late.
 readily(adv.) The differences between the two picture can be readily() identified.
 reading(n.)
@@ -2672,7 +2677,7 @@ reduction(n.) For this week only, a 25% price reduction() on all our clothes!
 reduce(vi.vt.) This phone is reduced() to $998 in the sale.
 refine(vt.) The purpose of an oil refinery is to refine() crude oil into petroleum.
 refugee(n.v.) The homeless refugee() girl is deep in sorrow.
-refrigerator(n.)
+refrigerator(n.) Mom put a pot of soup into the refrigerator().
 refer(vi.vt.) When cooking a new recipe I always refer() to the cookbook.
 reflect(vi.vt.)
 reflection(n.) The reflection() the cat saw in the mirror was not itself, but a lion.
@@ -2742,7 +2747,7 @@ resign(vi.vt.n.) After much consideration, the employee resigned() from his job.
 respective(adj.) After the party, we went back to our respective() hotel rooms.
 respond(vi.vt.n.) On yes! I responded() when the cute girl asked if I wanted a candy.
 resort(vi.n) He had to resort() to sell his house because of the high medical costs.
-reserve(n.vi.vt.)
+reserve(n.vi.vt.) The store keeps a large reserve in case prices suddenly go higher.
 restrain(vt.) The girl managed to restrain() her anger.
 resemble(vt.) My dog resembles() a brown mop.
 reservation(n.) We have a reservation(), so our table is saved.
@@ -2893,7 +2898,7 @@ seed(n.vi.vt.)
 segment(n.vi.vt.) Our company dominates a small segment() of the market.
 seize(vi.vt.) I'm seizing() this money -- I need is the most.
 selfish(adj.) The selfish() boy doesn't share the candies with other kids.
-selection(n.)
+selection(n.) Our nursery offers a selection() of spring flowers of many different colors.
 self(n.vi.vt.adj.)
 select(vi.vt.adj.n.) Which dress do you think I should select()?
 seminar(n.) Those who attended the seminar() learnt a lot.
@@ -2908,7 +2913,7 @@ senior(adj.n.) The senior() soldier gains respect from the new recruits.
 sensitive(adj.n.)
 separate(adj.n.vi.vt.)
 sequence(n.vt.) The moon changes in a predictable monthly sequence().
-serve(vi.vt.n.)
+serve(vi.vt.n.) The waiter served() us the best wine.
 series(n.) For this card trick, please put the cards in series() first.
 serious(adj.)
 session(n.)
@@ -3016,7 +3021,7 @@ soccer(n.) my favorite sport is soccer().
 socialism(n.) The hammer and sickle represent socialism(). Workers, unite!
 socialist(n.adj.) Do you know the socialist() core value?
 social(adj.n.)
-soda(n.)
+soda(n.) Soda() water is good for your health.
 software(n.)
 sofa(n.)
 soil(n.vi.vt.)
@@ -3059,7 +3064,7 @@ spelling(n.) Could you check my spelling() of that word?
 species(n.adj.) There are tens of thousands of different species() of birds.
 specialize(vi.vt.) The store specialize() in selling hiking gear.
 spectacular(adj.) The sight over the Great Wall is so spectacular()!
-spend(vi.vt.n.)
+spend(vi.vt.n.) I spend too much money on clothes!
 specific(adj.n.) I want that specific() peach - the one right there!
 specify(vt.)
 specimen(n.)
@@ -3068,7 +3073,7 @@ sphere(n.vt.adj.) The world is not flat, it is a sphere().
 spiritual(adj.n.) It was a spiritual() experience to watch the sun peacefully.
 spin(vi.vt.n.) "Look, I can spin() hte basketball on my finger!" said the litter girl.
 spill(vi.vt.n.) Oh no, I've spilled() the green nail polish.
-spirit(n.vt.)
+spirit(n.vt.) We burn these for our ancestors in the spirit() world.
 spit(vi.vt.n.) They spit() on the zombie, hoping it can be killed.
 spider(n.) The spider() weaves a web to catch flies.
 spite(n.vt.)
@@ -3169,7 +3174,7 @@ subsequent(adj.) Press this button to play the subsequent()  track.
 subordinate(n.adj.vt.) The status of subordinates()  is lower than their superior.
 substance(n.) Substances() like water can exist in solid, liquid or gaseous form.
 submarine(n.adj.vi.vt.) Submarine() travel underwater and attack enemy ships.
-subtract(vt.)
+subtract(vt.) 25 subtracted() from 100 is 75.
 substitute(vi.vt.n.) You should substitute() fruits and vegetables for sweets.
 subject(n.adj.vt.)
 submerge(vi.vt.)
@@ -3188,7 +3193,7 @@ suicide(n.adj.vi.vt.) I'll commit suicide() if you don't feed me fish!
 suitable(adj.)
 suit(n.vi.vt.)
 sulphur(n.vt.) Sulphur(), the chemical, exists in different forms.
-sulfur(n.vt.)
+sulfur(n.vt.) Sulfur() can be used in the production of gunpowder.
 summit(n.adj.) He eventually climbed to the summit()  of the mountain.
 summary(n.adj.) Could you please give a short summary() of you project?
 summarize(vi.vt.)
@@ -3203,7 +3208,7 @@ superb(adj.) Her piano preformance is superb().
 suppose(vt.vi.conj.) I suppose() I should probably find a part-time job.
 supply(n.vi.vt.) Our oil supply() comes from this pipe.
 supplement(n.vt.) Taking these supplements() makes you more beautiful.
-superficial(adj.)
+superficial(adj.) She is such a superficial() girl that she only likes his face!
 superior(n.adj.) The people on the left have to listen to their superior().
 support(n.vt.)
 supreme(adj.n.)
@@ -3317,7 +3322,7 @@ throughout(prep.adv.) It snowed throughout() the day and night.
 threaten(vt.vi.) The man threatened()  to hurt the girl.
 thrive(vi.) Plants thrive() if they get enough sunlight.
 throat(n.vt.) I had a sore throat() after I caught a cold.
-threat(n.)
+threat(n.) The big guy is making a threat() to the man in blue.
 thrust(vi.vt.n.)
 thus(adv.conj.)
 thunder(n.vi.vt.)
@@ -3427,7 +3432,7 @@ twenty(num.n.adj.) They give twenty() percent discount for online payment. Take 
 twelve(num.n.adj.)
 twentieth(num.n.adj.)
 twin(adj.n.vi.vt.) My twin() brother and I get along very well.
-twist(vi.vt.n.)
+twist(vi.vt.n.) The right way to eat this biscuit: twist it, lick it, then dip it. 扭转,盘绕
 
 typical(adj.) It's typical() for many Japanese to eat rice this way.
 typewriter(n.) The author spend hours at his typewriter().
@@ -3440,17 +3445,17 @@ ultimate(adj.n.) The sun is the ultimate() source of energy.
 
 umbrella(n.) The dog uses an umbrella() to block the sun.
 
-uncover(vi.vt.)
+uncover(vi.vt.) She uncovered  the pot to see whether the food was cooked. 移去..的覆盖物,发现
 uncomfortable(adj.) I'm a liiter bit uncomfortable()  around my new boss.
 unconscious(adj.) We found his unconscious() on the floor.
 uncle(n.)
-undertake(vt.)
-undo(vi.vt.)
-undergo(vt.)
+undertake(vt.) I want everyone to know that you undertake this fishpond!  承担,承包
+undo(vi.vt.) At the end of the day, the man undoes his tie. 松开,解开
+undergo(vt.) The woman will undergo surgery to cure her disease. 经历,遭受
 understanding(n.adj.) We fnally reached an understanding() about how the house would be built.
-underground(adj.adv.n.)
+underground(adj.adv.n.) The office building has an underground() parking.
 undergraduate(n.adj.)
-underline(vt.n.)
+underline(vt.n.) It's a good habit to underline the important parts when you read. 划线于...之下,强调
 underneath(adv.adj.n..prep.)
 unemployment(n.) He lost his job in the wave of unemployment().
 uneasy(adj.) I'm uneasy() about my husband's health - I hope he recovers soon.
@@ -3459,18 +3464,18 @@ unfortunate(adj.) I'm so unfortunate() -- why does it only rain on me?
 unfair(adj.) It's unfair()! She eats so much, but she's still slim.
 unfortunately(adv.) Unfortunately(), It's supposed to rain all weekend.
 unhappy(adj.)
-unite(vi.vt.)
+unite(vi.vt.) Let's unite as a team and win this game! 团结,联合,合并
 universal(adj.n.) Electronic devices such as telephones are universal() now.
 unity(n.) Our group's strength lies in out unity().
 uniform(n.adj.vt.) The nurses wear white uniform() when they work.
 unique(adj.n.) Fingerprints are unique() to each individual.
 unit(n.) We will succeed if we work as a unit().
-unify(vt.)
+unify(vt.) People are unified when facing natual disasters 使联合,统一
 universe(n.)
 union(n.)
 unjust(adj.) It was an unjust() trial.
 unknown(adj.n.) It's unknown() where the flying object came from.
-unload(vi.vt.)
+unload(vi.vt.) It's going to take all afternoon to unload these boxes. 卸(货)
 unlike(adj.prep.)
 unpleasant(adj.) The smell is so unpleasant() and offensive.
 unusual(adj.) That guy has an unusual() ability! He can fly!
@@ -3484,7 +3489,7 @@ upward(adj.adv.)
 
 urban(adj.)
 urgent(adj.) The cat's most urgent() need now is to pee.
-urge(vi.vt.n.)
+urge(vi.vt.n.) He urged the pig to go faster. 催促,力劝,驱策
 
 usage(n.)
 useless(adj.) The computer is useless() , I need to get a new one.
@@ -3494,9 +3499,9 @@ user(n.) I'm a loyal user() of Apple products.
 usually(adv.)
 
 utility(n.adj.)
-utilize(vt.)
+utilize(vt.) It's better utilize the waste than to throw is away. 利用
 utmost(adj.n.) I drive at the utmost() speed; it is so fast.
-utter(vt.adj.) Being patted on the butt, the horse was annoyed and uttered() a growl.
+utter(vt.adj.) Being patted on the butt, the horse was annoyed and uttered a growl 发出,发射
 
 vacation(n.vi.) The girl took a vacation() on the beach.
 vacant(adj.)
@@ -3505,15 +3510,15 @@ vague(adj.) He didn't understand her vague() words.
 vain(adj.)
 valley(n.) From the top of the mountain I could see the entire valley() below.
 valid(adj.) The offical stamp showed that my document are valid().
-value(vt.n.)
+value(vt.n.) which do you value more ? 重视,给...定价
 valuable(adj.n.)
 van(n.vt.) Food van() on the street have the cheapest and best food.
-vanish(vi.vt.n.)
+vanish(vi.vt.n.) he vanished after the rabbit did a magic trick 使消失
 vapor(n.vi.vt.)
 various(adj.) We saw various() types of fish during our dive.
 variety(n.) There is a wide variety() of tomatoes; they are different in color.
 variation(n.) These foods show a lot of variation() in color, but not in taste.
-vary(vi.vt.)
+vary(vi.vt.) each cup made by these kids varies slightly. 相异,改变,使多样化
 variable(adj.n.)
 vast(adj.n.) This vast() desert looks impossible to pass.
 
@@ -3522,7 +3527,7 @@ velocity(n.) The velocity() of the rocket is over 4.5km/s.
 venture(n.vi.vt.) The boys venture() deep into the forest.
 version(n.) There are many different versions()  of Monkey King.
 versus(prep.) Man A versus() Man B is good fight to watch.
-verify(vt.)
+verify(vt.) This card can verify the man's identity. 证明,查证
 vertical(adj.n.) He has to jump up the vertical() flagpole to get a high score.
 verb(n.)
 vessel(n.) These small vessels() catch fish and bring them back to port.
@@ -3541,7 +3546,7 @@ violet(n.adj.) Violet() is a kind of purple flower.
 violent(adj.) My kids are so violent() - they'd rather fight than talk about things.
 violence(n.) The youngsters settle the problem by using violence().
 violin(n.)
-violate(vt.)
+violate(vt.) the bird's behavior voilated the sign's rules 违反,侵犯,亵渎
 virus(n.) This virus() has been making me cough all week.
 virtue(n.) Helping the old is a traditional virtue() of China.
 virtual(adj.) Our company created a virtual() store on the internet.
@@ -3556,13 +3561,13 @@ vivid(adj.)
 
 vocal(adj.n.)
 vocabulary(n.) This software will help increase your English vocabulary()!
-volunteer(n.adj.vi.vt.)
+volunteer(n.adj.vi.vt.) Will anybody volunteer  to clean the park up? I'll do it! 自愿做,自愿加入
 voluntary(adj.n.) Giving blood is 100% voluntary(); noboby will force you to do it.
 volt(n.) The cable has 220 volts() of electricity.
-voltage(n.)
-volcano(n.)
+voltage(n.) "Be careful, this machine has a high voltage".
+volcano(n.) Watch out - the volcano() is erupting!
 volume(n.adj.vi.vt.) I turned the volume() up to hear the radio.
-vote(vi.vt.n.)
+vote(vi.vt.n.) I was force to vote for one of them as Miss Countryside. 选举,投票
 voyage(n.vi.vt.)
 
 vulnerable(adj.)
@@ -3571,10 +3576,10 @@ wagon(n.vt.)
 wage(n.vi.vt.)
 waiter(n.) I'll be your waiter() tonight -- may I recommend the fish?
 waist(n.)
-waken(vi.vt.)
-wake(vi.vt.n.)
+wake(vi.vt.n.) my mun waked me up with her rude manner. 使觉醒,激发
+waken(vi.vt.) The alarm clock wakens me at 6 o'clock every day. 弄醒,醒来
 wallet(n.)
-wander(vi.vt.)
+wander(vi.vt.) The young couple is wandering in the park. 闲逛,漫游,迷路
 wardrobe(n.) All my clothes are in this wardrobe() .
 warfare(n.) Violent warfare() is taking place in this area.
 warmth(n.)
@@ -3585,74 +3590,74 @@ wax(n.vi.vt.adj.)
 
 weakness(n.) Vampires's weakness() is that they are afraid of sunshine.
 wealth(n.) The man of wealth() wears a lot of glod and silver.
-weaken(vi.vt.)
-weave(vt.vi.n.)
+weaken(vi.vt.) The fever weakened the little girl's body and mind. 使虚弱,消弱
+weave(vt.vi.n.) The elder is weaving a basket. 编织
 weapon(n.) Her artificial legs are a deadly weapon().
 wealthy(n.adj.) Dreams are needless for the bastard in a wealthy() family.
 Wednesday(n.)
 wedding(n.) The couple walked hand in hand into the church at their wedding().
-weep(vi.vt.n.)
+weep(vi.vt.n.) I could feel his sadness when I saw him weeping. 哭泣,悲痛
 weed(n.vt.vi.) The worker is getting rid of the weed().
 weekly(adv.adj.n.)
 welfare(n.adj.) The welfare() of the workers is getting better.
-weld(vi.vt.n.)
+weld(vi.vt.n.) He is welding together the two pieces of metal. 焊接
 well-known(adj.)
 western(adj.n.) I decided to ware a western() style wedding dress.
 
 whale(n.vi.vt.) Did you see the whale() jump out of the sea?
 whatsoever(pron.) You're asking me on a date? I have no interest in you whatsoever()!
-wherever(adv.conj.)
+wherever(adv.conj.) Wherever() you want your package to go, we can deliver it.
 whenever(conj.adv.)
 whistle(n.vt.) The coach blew the whistle() to end the game.
 whilst(conj.) She was taking whilst() driving.
-whisper(vi.vt.n.)
+whisper(vi.vt.n.) they are whispering as they are talking about gossips. 耳语,密谈
 whichever(pron.adj.) I will have whichever() drink is most delisious.
-whip(n.vi.vt.)
+whip(n.vi.vt.) he whips the horses to make them run faster 鞭打,抽打
 whoever(pron.) Whoever() is taller than me must sit down!
 
 wicked(adj.) The wicked() witch forced Snow White to drink the poison.
 widow(n.vt.) The poor woman became a widow() after her husband's death.
 widespread(adj.) My love story quickly became widespread() through the internet.
 width(n.)
-widen(vi.vt.)
+widen(vi.vt.) this road was too narrow, so now we have to widen it 加宽,变宽
 willing(adj.) The man is willing() to be at his boss's service.
 wild(adj.adv.n.) The wild() kid is making a big mess in the dining room.
 wing(n.vi.vt.) Mommy, I want the doll with the butterfly wings()!
-win(vi.vt.n.)
-wipe(vi.vt.n.)
+win(vi.vt.n.) our team has won the basketball match 赢得,(获)胜
+wipe(vi.vt.n.) wipe the floors 擦,揩
 wire(n.vi.vt.) It's a bird sitting on the wire().
 wisdom(n.) This book is full of the wisdom() of Confucius.
-withdraw(vi.vt.)
-withstand(vi.vt.)
+withdraw(vi.vt.) I'd like to withdraw 500 dollars from the machine. 提款,收回,撤退
+withstand(vi.vt.) I can't withstand any more strong sun! 忍受,抵挡
 witness(n.vi.vt.) The little girl is the only witness() of this accident.
 wit(n.) The wit() of that little boy fascinates us!
 
 wolf(n.vt.) Even though a wolf() looks a bit like a dog, it is actually much more dangerous.
 woman(n.)
-wonder(vi.vt.adj.n.)
+wonder(vi.vt.adj.n.) The woman wonders if she carries a boy or a girl. 想知道,惊奇
 wool(n.) Lend me your wool() please, I'll make you a pretty sweater.
 wooden(adj.)
 worm(n.vi.vt.) Worms() make good fish bait. 
 workshop(n.) I left my car at the workshop() for repairs.
 worthy(adj.n.) A dog that doesn't eat its own poop is worthy() of praise!
-workman(n.)
+workman(n.) These workmen() are busy building the house.
 worth(adj.n.) My house is worth() two hundred thousand dollars.
 worse(n.adj.adv.) The company is performing worse() and worse.
-world-wide(adj.)
+world-wide(adj.) Social media and the internet made world-wide() communication very simple.
 worker(n.)
 worst(n.adj.adv.) I got the worst() score in the class on my exam.
-worship(vt.vi.n.)
+worship(vt.vi.n.) he worship Buddha and prays to him every day 做礼拜,拜神
 worthwhile(adj.)
 worthless(adj.)
 
-wrap(vi.vt.n.)
+wrap(vi.vt.n.) She wrapped  the gift with some colorful paper. 捆,包,裹
 wreck(n.vi.vt.) The wreck() of the plane was left here. 
 wrist(n.vt.) All this typing gives me wrist() pains.
 writing(n.) I've collected all the writings() of Shakespeare.
 writer(n.) Who do you prefer out of these famous foreign writers()?
 wrinkle(n.vi.vt.) My mom is really worried about the wrinkles() that are forming around her eyes.
 
-yawn(vi.vt.n.)
+yawn(vi.vt.n.) "I'm so tired," she said as she yawned. 打着哈欠说
 
 yeast(n.) Yeast() is what makes bread rise.
 yearly(adj.adv.n.)
@@ -3660,7 +3665,7 @@ yellow(adj.n.vi.vt.) Look ar this big yellow() sunflow.
 yes(n.adv.)
 yesterday(n.adv.)
 
-yield(vi.vt.n.)
+yield(vi.vt.n.) the fields yielded many carrots for harvest this year 出产,让行,屈服,放弃
 
 yours(pron.adj.) The car is yours() now -- drice safe!
 youthful(adj.) That girl is so lovely and youthful(). I like her!
@@ -3674,79 +3679,3 @@ zero(num.n.)
 
 zone(n.vi.vt.) If you're in my zone(), you have to listen to me!
 zoo(n.) These are so many animals in the zoo()!
-
-I think the likehood() that I will find love eventually is very high.
-
-Social media and the internet made world-wide() communication very simple.
-I have to enduce() a bunch of weird smells on my way to work.
-Our nursery offers a seletion() of spring flowers of many different colors.
-The receptionist told me that there was only one room avaliable().
-The thermometer smashed and the mersury() flew out.
-The little girl is very grateful for the gifts from her relatives.
-The big guy is making a thread() to the man in blue.
-If we all pull on this rope together, we can win.
-The stadium() is filled with numerous sports fans.
-After four years of hard work, I finaly got my bachelor's() degree!
-My granddaughter is always very helpful to me.
-My family enjoy ourdoor activies(), like flying kites.
-The boss pays me minimum() wage, I wish he would pay me more!
-Axes() are the symbol of their gang.
-To save money, he always makes the most economocal() decisions.
-Thanks to the invertor() of the telephone, we can talk anytime anywhere.
-The best cooking oil is made from olives.
-Our devorce caused a devision() in our family.
-The dung of corws makes the land more fertile.
-I shot the bird with my refle().
-I'm trying to eat a diet()  of only fruits and vegetables.
-She exercises everyday, thus has managed to lose some weight.
-Gradually robots have replace factory workers.
-The helpful librarian helped me find the books I needed.
-The singer is good at both vocal and facial expressions!
-The store keeps a large reserve in case prices suddenly go higher.
-
-Please forgive me! I beg you!
-We have to be at work by ten o'clock(), so I'm already a few minutes late.
-The waiter servered() us the best wine.
-There are ghosts in movies and stories, but I don't think they are real.
-"Junior" means young or younger.
-The little boy went backword() on the beach.
-A smart phone is the most up-to-date() way to get important information.
-The stock index rises and falls all the time. Invest cautiously.
-Notwithstanding() the snow, the girl is still selling the matches.
-Under his leadership, they made it to the top!
-He annoys me by talking all the time.
-The soldiers are marching foward in an ordlerly() way.
-"All of my menoy is gone!" the man cried in dispair().
-They are whiper() as they are talking about gossips.
-Soda() water is good for your health.
-Primitive() men made fire by themselves since they had no electricity.
-Increasingly(), we're making out money in the China market.
-Watch out - the valcano() is erupting!
-The court will make fair judgments().
-Mom put a pot of soup into the refigerator().
-We burn these for our ancestors in the spitit() world.
-25 substructed() from 100 is 75.
-Biology() is the study of life.
-Wherever() you want your package to go, we can deliver it.
-These workmen() are busy building the house.
-"My discus is missing. Where is it?" The status wondered.
-"Be careful, this machine has a high voltage".
-
-His laser-like() syse saw right through me.
-
-Mr. Bao painted the ad() on the wall to let more people know about us.
-Sulfur() can be used in the production of gunpowder.
-
-The building has a very systematic() design, with every part repeated.
-We need a more systematic() approach to finding mistakes in our product.
-The village offical() is reading newspapers.
-
-"I have so many pretty pieces of clothing!" said the girl.
-She is such a superfacial() girl that she only likes his face!
-
-There are hundreds of different dog breads().
-The office building has an undergroud() parking.
-The girl is so briliant() that she can solve the difficult question.
-I spend too much money on clothes!
-"Here, doggy, fetch!" I shouted as I threw the ball.
-Their actions were friendly, but in realtiy() they hated each other.
