@@ -1,0 +1,105 @@
+zero(num.n.)
+
+four(num.)
+fourteen(num.n.)
+
+fragment(n.vi.vt.) The beer bottle broke into many fragment.
+
+fifth(num.n.adj.) There were five candles on his fifth birthday.
+fifteen(num.adj.n.)
+fifty(n.adj.) My parenets are over fifty years old.
+
+six(num.)
+sixteen(num.adj.)
+sixty(num.)
+
+eighty(num.n.adj.) My grandfather is eighty years old.
+eight(num.n.adj.)
+eighth(num.adj.)
+eighteen(num.n.adj.)
+
+nine(num.adj.)
+ninth(num.n.adj.) I got my nine gifts on my ninth birthday.
+nineteen(num.)
+ninety(num.n.adj.) Will you live to ninety  years old?
+
+ten(num.) I went on a trip with ten of my friends.
+eleven(num.n.adj.)
+twelfth(num.n.) It's the boy's twelfth birthday, which means he's arriving at puberty.
+twenty(num.n.adj.) They give twenty percent discount for online payment. Take out you phone.
+twelve(num.n.adj.)
+twentieth(num.n.adj.)
+
+self(n.vi.vt.adj.)
+oneself(pron.)
+myself(pron.)
+herself(pron.)
+
+sometime(adv.adj.) Although I failed the exam, I believe that I will make it sometime.
+somewhat(adv.n.) The right side of theis photo frame is somewhat lower than the left.
+somehow(adv.) Somehow, I must make the baby stop crying.
+somebody(pron.n.)
+somewhere(adv.n.)
+sometimes(adv.)
+someone(pron.)
+
+anybody(pron.n.)
+anyone(pron.)
+anyway(adv.)
+anyhow(adv.)
+anywhere(adv.n.)
+
+everywhere(adv.n.) I want to travl everywhere in the world.
+everyday(adj.n.)
+everybody(pron.)
+everyone(pron.n.)
+
+else(adv.adj.)
+elsewhere(adv.)
+
+nowhere(adv.adj.n.) Water was nowhere to be found.
+
+whatsoever(pron.) You're asking me on a date? I have no interest in you whatsoever!
+wherever(adv.conj.) Wherever you want your package to go, we can deliver it.
+whenever(conj.adv.)
+whichever(pron.adj.) I will have whichever drink is most delisious.
+whoever(pron.) Whoever is taller than me must sit down!
+
+weekly(adv.adj.n.)
+
+yes(n.adv.)
+yesterday(n.adv.)
+zoo(n.) These are so many animals in the zoo!
+daylight(n.)
+date(n.vi.vt.)
+
+
+Arabian(adj.n.) The Arabian prince died so young, What a pity! 阿拉伯人的
+British(adj.n.) He's waving the British flag. 英国人
+Britain(n.) 英国
+Canadian(adj.n.) 加拿大人
+China(n.adj.)
+Chinese(n.adj.)
+English(n.adj.vt.)
+German(adj.n.) The German football team will be pretty hard to beat.
+Greek(n.adj.)
+Italian(adj.n.) Many people are fond of Italian food.
+Japanese(adj.n.) They wear clothes of Japanese style.
+Latin(adj.n.) I love Latin dance! It makes me sexy and passionate!
+Roman(adj.n.)
+Swiss(adj.n.)
+
+Atlantic(adj.n.) the Atlantic Ocean lies between Europe and the North American 大西洋
+Christ(n.int.) Jesus Christ is an important figure for billions of people. 基督
+Christian(n.adj.) Christians believe in Jesus. 基督徒
+Fahrenheit(n.adj.) The temperature is 37 degrees Celsius, which is about 99 degrees Fahrenheit. 
+Nergo(n.) It's very insulting to call a black peoeson "Nergo".
+Marxist(adj.n.) 马克思主义者
+
+Tuesday(n.)
+Wednesday(n.)
+
+notwithstanding(prep.adv.conj.) Notwithstanding the snow, the girl is still selling the matches.
+
+
+
