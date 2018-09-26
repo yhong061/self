@@ -2,6 +2,8 @@ zero(num.n.)
 
 four(num.)
 fourteen(num.n.)
+forty(n.adj.)
+forth(adv.)
 
 fragment(n.vi.vt.) The beer bottle broke into many fragment.
 
@@ -34,6 +36,8 @@ self(n.vi.vt.adj.)
 oneself(pron.)
 myself(pron.)
 herself(pron.)
+ourselves(pron.) We took this picture of ourselves.
+ours(pron.)
 
 sometime(adv.adj.) Although I failed the exam, I believe that I will make it sometime.
 somewhat(adv.n.) The right side of theis photo frame is somewhat lower than the left.
@@ -99,7 +103,40 @@ Marxist(adj.n.) 马克思主义者
 Tuesday(n.)
 Wednesday(n.)
 
+overnight(n.vi.vt.adj.adv.) We kept the campfire burning overnight.
+overlook(vt.n.) It is easy to overlook Mr. Bao in this picture. 忽视,眺望
+overcome(vt.vi.) He can overcome the challenge if he tries hard enough. 征服,得胜
+overseas(adv.adj.) We export the goods overseas.
+overhead(adv.adj.n.) The helicopter hovers overhead!
+overtake(vi.vt.) the driver slowly overtook the driver in first place 超过,赶上
+overall(adj.adv.n.)
+
+outlook(n.vi.vt.) The outlook over the mountains is very grand.
+outcome(n.) As an outcome, the boxing game ended in a draw.
+outdoors(adv.adj.n.) The parents take their kids playing outdoors.
+outstanding(adj.n.) Jack Ma is an outstanding example of enterpreneurs.
+output(n.vt.) The oven's output is 48 loaves per hours.
+outset(n.) From the outset of the race, the man was ahead.
+outlet(n.) Water came out of the wall through several outlets.
+outer(adj.n.)
+outside(adv.adj.n.prep.)
+outline(n.vt.)
+
+sun(n.vi.vt.) The sun is going down.
+sunlight(n.) The sunlight brightens the green field. 太阳光
+sunshine(n.) The sunshine broke through the clouds. 阳光
+sunset(n.adj.) The giraffes rest by the tree at sunset. 日落，傍晚
+sunny(adj.) I feel happier on sunny days. 阳光充足的
+sunrise(n.) I got up early today and saw a beautiful sunrise. 日出；黎明
+
+foot(n.vi.vt.) She is lying in the sun with bare foot.
+football(n.vi.)
+footstep(n.)
+food(n.)
+forever(adv.) They turned into butterflies and stayed together forever .
+
 notwithstanding(prep.adv.conj.) Notwithstanding the snow, the girl is still selling the matches.
 
+nightmare(n.adj.)
 
 

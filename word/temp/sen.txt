@@ -203,6 +203,7 @@ disappoint(vt.) exam result disappointed him 使失望
 viewpoint(n.) The monument looks beautiful form this viewpoint. 观点 看法
 standpoint(n.) 立场；观点
 
+[ac/dis/en+count]
 count(vi.vt.n.) try to count sleep when I  want to fall asleep 计算
 counter(n.vi.vt.adj.adv.) Customers pay money at the counter. 柜台；对立面
 county(n.) 郡，县
@@ -211,10 +212,12 @@ accountant(n.) 会计人员
 discount(n.vi.vt.) 折扣
 encounter(vi.vt.n.) I've never thought that I'd encounter my favorite star one day! 偶遇
 
+[dis+appear]
 appear(vi.) I'm so excited! My idol is about to appear on stage! 出现；登场
 appearance(n.) The man cares too much about his appearance 外貌
 disappear(vi.vt.) make a bird disappear 消失
 
+[de/ob/pre/con/re+serve]
 serve(vi.vt.n.) The waiter served us the best wine. 发球 服务
 deserve(vi.vt.) The cat caught so many mice, so he deserved  the reward. 应得
 observer(n.) The little boy wants to became a star observer in the future. 观察者
@@ -227,6 +230,7 @@ reserve(n.vi.vt.) The store keeps a large reserve in case prices suddenly go hig
 reservoir(n.) The city must rely on safe drinking water from the reservoir. 水库 蓄水池
 reservation(n.) We have a reservation, so our table is saved. 保留 预定
 
+[at/cap/cer/con/cur/enter/foun/main/moun/ob/re/sus+tain]
 attain(vt.vi.n.) I finally attained my driving license! 获得
 captain(n.vt.) That captain  is so charming. 首领；船长；上尉
 certain(adj.pron.) This actor is certain that he will win the award. 确信
@@ -245,11 +249,13 @@ stain(n.vi.vt.) Oh dear! Look at that big red stain on his shirt. 污点 污染
 stainless(adj.) These spoons and forks are made of stainless  steel. 不锈的
 sustain(vt.) Get up! The chair can't sustain your weight. 维持 支撑
 
+[ac/in/re+quire]
 acquire(vt.) wants to acquire a new empire. 获得
 inquire(vi.vt.) "what is your name? " She inquired. 打听,询问
 require(vt.) 要求 命令
 requirement(n.) 需要 需求
 
+[ac/con/ex/per/re+cept]
 accept(vi.vt.) I accept your lovely gift 接受 
 concept(n.) Let me explain the concept with this diagram. 观念，概念
 except(prep.vt.vi.conj.) Everyone was feeling upset, except for one guy. 除外
@@ -257,6 +263,7 @@ exception(n.) The ugly duck is an exception among the cute ducks. 例外 异常
 perception(n.) 知觉 感知
 reception(n.) 接待 招待会
 
+[ac/ex/con/pro/re/suc+cess]
 access(n.vt.) Your thumbprint will give you access to the secret room 进入,通道
 excess(adj.n.) 过量 过分
 excessive(adj.) Excessive food intake made the cat overweight. 过度的 过多的
@@ -267,6 +274,7 @@ recession(n.) The recession has hurt the global economy. 衰退；不景气
 succession(n.) A succession of horses passed us in the forest. 连续；继位
 successive(adj.) Dominoes fall down in a successive way. 连续的；继承的
 
+[com/ex+plain]
 plain(adj.adv.n.) 平原 朴实无华的东西
 complaint(n.) My wife's complaints are usually about me. 抱怨；诉苦
 complain(vi.vt.) Auntie Xiang Lin is always complaining about her son being eaten by a wolf! 抱怨
@@ -705,63 +713,85 @@ usually(adv.) 通常 平时
 [dis+]
 displease(vi.vt.) it displease us when we smeel the man's feet 使不愉快 
 unpleasant(adj.) The smell is so unpleasant and offensive. 不愉快的
+
 disadvantage(n.) The one ant is at a disadvantage against so many others. 缺点 不利
 advantage(vi.vt.n.) The rocket gives his an unfair advantage! 优势
 astronaut(n.) As a kick-ass astronaut, I have a special spaceship. 宇航员
+
 disagree(vi.) disagree with my opinions 意见不同
 agree(vi.vt.) we agree that 同意
 agreement(n.) Both of them were happy with their agreement. 协议；同意
+
 disease(n.vt.) There is a disease spreading around the office. 疾病
 cease(vi.vt.n.) The rain ceased and the rainbow showed up. 停止
 ease(n.vi.vt.) 舒适；安逸
+
 disorder(n.vt.) 混乱；骚乱
 orderly(adj.adv.n.) The soldiers are marching foward in an orderly way. 有秩序的
-disc(n.vt.) The music is stored in the disc. 圆盘
+
 discard(vi.vt.n.) I will discard this paper into the garbage bin. 丢弃
+disc(n.vt.) The music is stored in the disc. 圆盘
+disk(n.) 磁盘
 card(n.vt.) Here is my card. It has my phone number and email on it. 卡片
+
 discourage(vt.) This girl's word discourage him. 使失去信心
 encourage(vt.) encourage her 鼓励
+
 discuss(vt.) discuss the topic 讨论
 discussion(n.) We are having a discussion about the future of our company. 讨论，议论
+
 discharge(n.vi.vt.) 排放；卸货；解雇
 charge(vi.vt.n.) My phone is out of power, charge it now. 充电
+
 discipline(n.vt.) 学科；纪律
+
 dislike(vt.n.) She really dislike vegetables.  不喜欢
 alike(adj.adv.) The two dogs are a lot alike. 相似的
 likewise(adv.) The big man hates the small man, likewise , the small man hates the big man. 同样地
 likelihood(n.) I think the likelihood that I will find love eventually is very high. 可能性 十有八九
 likely(adj.adv.) 可能的
 unlike(adj.prep.) 不象 有别于
+
 disguise(vt.n.) Miss bear disguised herself as a panda by wearing black stockings. 伪装
+
 disgust(vt.n.) What really disgust me isn't one, but a half worm in an apple. 使作呕
+
 dispute(n.vi.vt.) They had a dispute over who should be his dance partner. 纠纷 争执
 compute(vi.vt.n.) I like using a calculator to compute. 计算
+
 disposal(n.adj.) The city handles trash disposal for us. 处理；支配；清理
 proposal(n.) That guy made a proposal to his girlfriend with a diamond ring. 建议；求婚
+
 display(vi.vt.n.) The salesman displayed the latest laptop. 展示
 player(n.) I am a player on my local basketball team. 玩家
 playground(n.) The students are having fun at the playground after class. 操场 游乐场
+
 distinction(n.) I completed my final year exam with distinction. 差别；特性；荣誉
 distinct(adj.) 明显的；独特的
 instinct(n.adj.) Even well-fed cats will kill mice, because of thier hunting instincts. 本能 直觉
+
 distribution(n.) This chart shows the distribution of nuclear weapons around the world. 分布；分配
 distribute(vt.) distribute the gifts to the kids 分发,配送
 contribute(vi.vt.) Many people contribute money to help people in need. 捐献
 contribution(n.) Thanks to all of you for making a contribution to our charity. 贡献；捐献
+
 distress(n.vt.) "I'm so worried!" She shouted in obvious distress. 贫困；悲痛
 stress(n.vt.) 压力 强调
+
 disturb(vi.vt.) his snoring disturbs me 打扰
+
 district(n.) 区域；地方
 restrict(vt.) 限制 约束
 strict(adj.) The teacher is strict during the exam. 严格 严厉的 严密的
+
 dishonour(n.vt.) The final score brought me great dishonour! 拒付；使丢脸
 honor(n.vt.) These medals are the symbel of honor. 荣誉
 honorable(adj.) The laboring people are honorable. 光荣的
 honourable(adj.) same as honorable
+
 dissolve(vi.vt.n.) this tablet dissolved in water (使)溶解
 resolve(n.vi.vt.) 决定 解决
 solve(vi.vt.) I will solve  this math problem in a minute. 解决 解答
-disk(n.) 磁盘
 
 [+it/fy]
 humanity(n.)  人类；人道
@@ -770,11 +800,29 @@ publication(n.) The magazine is finished and ready for publication. 出版物 �
 activity(n.) My family enjoy ourdoor activities, like flying kites. 活动
 active(adj.n.) An active lifestyle is important for staying healty 积极的
 action(n.) I love action movies, especially when they have guns and explosions 行动；活动
-ability(n.) He has the ability to run on water. 本领
 authority(n.) The judge is the authority on the meaning of the law. 权威
 author(n.vt.) I want to be an author and write books.  作者；作家
 capacity(n.) The capacity of this cup is 2 liters. 能力；容量
 charity(n.) This charity provides practical help to homeless children. 慈善
+
+[bility]
+ability(n.) He has the ability to run on water. 本领
+possibility(n.) The possibility That I pick the black ball is fifty percent. 可能性 可能的事
+probability(n.) The probability of grasping a snake is 2/3. 可能性 概率
+reliability(n.) 可靠性
+responsibility(n.) 责任 职责
+stability(n.) Walking a tightrope requires extreme stability. 稳定性
+
+[meter]
+meter(n.vi.vt.) The swimming pool is only one meter deep, so don't jump in.
+centimeter(n.) This ruler measure objects in centimeters. 厘米
+centigrade(adj.) Flowers would be nicely treated at 25 degress centigrade. 摄氏的
+diameter(n.) The worker was measuring the lumber's diameter. 直径
+kilometer(n.) 公里 千米
+kilogram(n.) 公斤；千克
+milimeter(n.) The thickness of a single coin is on milimeter.  毫米
+military(n.adj.) Evety county develops its military force to defend its territory(领土). 军队；军人
+thermometer(n.) We'll use the thermometer to see if you have a fever. 温度计
 
 [ism/ist]
 communism(n.) The idea of communism was first introduced by Kral Marx. 共产主义
@@ -782,43 +830,57 @@ communist(adj.n.) Communist hope to create an equal society. 共产主义者
 communicate(vi.vt.) communicate with each other by radio 交流
 communication(n.) They like to use cellphone for communication . 通讯
 community(n.) All of us are living on earth as a community.  社区
+
 criticism(n.) You should expect a lot of criticism when starting a new job. 批评
 critic(n.) As a strict food critic, I think the pizaa is just so so. 批评家
 critical(adj.) The patient is in critical condition--move quickly! 关键的,批评的
 criticize(vi.vt.) criticize his wife for spending too much money 批评
+
 mechanism(n.) 机制；原理
 mechanic(n.adj.) Even though I'm a mechanic, I still can't fix this car! 机械师
 mechanics(n.) Mechanics is the science of movement and forces. 力学
 mechanical(adj.) My car has a mechanical problem. 机械的
+
 organism(n.) 有机体
 organ(n.) The heart, brain and lungs are examples of vital organ in the human body.器官
 organization(n.) In our organization, everyone takes orders from me. Is that clear? 组织；机构
 organize(vi.vt.) please organize the files by number 整理,组织,安排
 organic(adj.) 有机 器官的
+
 artist(n.) The artist is painting. 艺术家
+
 chemist(n.) 化学家
 exist(vi.) Do aliens exist on other planets? 存在,生存
 existence(n.) 存在 生存
+
 physicist(n.) Einstein was a great physicist. 物理学家
 psychological(adj.) Intense pressure results in psychological problems of the poor man.
-chronological(adj.) The list of these books is in chronological order. 依时间前后排列而记载的
-chronic(adj.) I suffer from chronic pain. 慢性的
 physical(adj.n.) Physical exercise is good for the body and the mind. 物理的
 physician(n.) 医师；内科医师
+
+chronological(adj.) The list of these books is in chronological order. 依时间前后排列而记载的
+chronic(adj.) I suffer from chronic pain. 慢性的
+
 socialism(n.) The hammer and sickle represent socialism. Workers, unite! 社会主义
 socialist(n.adj.) Do you know the socialist core value? 社会主义者
 social(adj.n.) 社会的
+
 journalist(n.) The journalist is always in pursuit of new stories. 新闻记者
 journal(n.) The man writes everything down in his journal. 期刊 日志
+
 mist(n.vi.vt.) 薄雾
 moist(adj.n.) The grass is moist due to last night;s heavy rain. 潮湿的
 moisture(n.) 分 潮湿
+
 twist(vi.vt.n.) The right way to eat this biscuit twist it, lick it, then dip it. 扭转,盘绕
+
 typist(n.) The typist is finishing her documents. 打字员
 typical(adj.) It's typical for many Japanese to eat rice this way. 典型的
 typewriter(n.) The author spend hours at his typewriter. 打字机
 type(n.vi.vt.) There are several types of dog for sale. 类型
+
 waist(n.) 腰，腰部
+
 wrist(n.vt.) All this typing gives me wrist pains. 手腕；腕关节
 
 [yana]
@@ -1091,12 +1153,6 @@ son(n.)
 song(n.)
 sow(vi.vt.n.) If you sow the seeds, they will grow into crops. 播种
 sue(vi.vt.) 起诉 控告
-sun(n.vi.vt.) The sun is going down.
-sunlight(n.) The sunlight brightens the green field. 太阳光
-sunshine(n.) The sunshine broke through the clouds. 阳光
-sunset(n.adj.) The giraffes rest by the tree at sunset. 日落，傍晚
-sunny(adj.) I feel happier on sunny days. 阳光充足的
-sunrise(n.) I got up early today and saw a beautiful sunrise. 日出；黎明
 tag(n.vi.vt.) I always look for a sale tag to get a lower price. 标签
 tap(n.vi.vt.) Water flows from the tap. 水龙头
 tax(n.vt.) We have to pay a tax on all of our sales. 税 税收
@@ -1471,8 +1527,6 @@ cave(n.vi.vt.) He went into the dark cave by himself  洞穴
 
 cell(n.vi.) Can you see the tiny cells? 细胞；电池
 cement(n.vi.vt.) We pour the cement  in before it dries. 水泥
-centigrade(adj.) Flowers would be nicely treated at 25 degress centigrade. 摄氏的
-centimeter(n.) This ruler measure objects in centimeters. 厘米
 center(n.vi.vt.adj.) You'll get lots of points if you hit the center of the target. 中心
 central(adj.n.) We should all meet at a central point. 中心的
 census(n.vt.) 人口普查
@@ -1811,7 +1865,6 @@ develop(vi.vt.) seed develop into a plant 生长,发育
 
 diary(n.) The girl keeps a diary  everyday. 日志
 dialect(n.adj.) They come from two different areas, so they speak different dialect. 方言
-diameter(n.) The worker was measuring the lumber's diameter. 直径
 diamond(n.adj.) As the saying goes, "Diamonds are a girl's best friend." 钻石
 dial(vi.vt.n.) Hold on, let me dial his number. 拨打
 diagram(n.vt.) 图表
@@ -2101,11 +2154,6 @@ focus(n.vi.vt.) Make sure your objects is in focus before taking the photo.
 folk(n.adj.) They are wearing traditional folk  clothing.
 fold(vi.vt.n.) fold the pink paper 折叠
 fond(adj.) I'm fond of having phisical contact with my masculine boyfriend.
-foot(n.vi.vt.) She is lying in the sun with bare foot.
-football(n.vi.)
-footstep(n.)
-food(n.)
-forever(adv.) They turned into butterflies and stayed together forever .
 forecast(n.vi.vt.) The forecast shows that things are going up!
 fortune(n.vi.vt.) What a good fortune! I won the first prize.
 fork(n.vi.vt.) Please pass me a fork for my salad.
@@ -2116,8 +2164,6 @@ formal(adj.n.) The man wears formal clothes for the job interview.
 former(adj.n) There are the face of former  presidents.
 formula(n.) The boy learned math and science formula at a young age.
 forbid(vt.) We forbid smoking in the restaurant. 禁止
-forty(n.adj.)
-forth(adv.)
 forgive(vi.vt.) Please forgive me! I beg you! 原谅
 fortnight(n.)
 forehead(n.)
@@ -2433,8 +2479,6 @@ keen(adj.n.)
 kettle(n.)
 keyboard(n.vi.vt.)
 
-kilometer(n.)
-kilogram(n.)
 kingdom(n.) The lion rules the animal kingdom  with the help of his friends.
 kindergarten(n.) The kindergarten had many toys for children to play with.
 kiss(vi.vt.n.)
@@ -2587,7 +2631,6 @@ mercy(n.)
 merry(adj.n.)
 mere(adj.n.)
 mess(n.vi.vt.) My puppy created a mess after I left home.
-meter(n.vi.vt.) The swimming pool is only one meter deep, so don't jump in.
 method(n.adj.) Let me share the method of taking a selfie with you guys.
 metric(adj.n.)
 
@@ -2596,9 +2639,7 @@ microscope(n.)
 midnight(n.adj.) Lights out bu midnight! I mean it!
 midday(n.adj.) It's too hot at midday, so don't go outside.
 mild(adj.n.) I would love a bowl of mild chicken soup right now.
-milimeter(n.) The thickness of a single coin is on milimeter. 
 million(num.n.adj.) I made a million dollars last year!
-military(n.adj.) Evety county develops its military force to defend its territory.
 mill(n.vi.vt.)
 minus(prep.adj.n.) Five minus two is three.
 minister(n.vi.) The government minister gives a speech.
@@ -2681,7 +2722,6 @@ neutral(adj.n.)
 newly(adv.)
 
 niece(n.) My niece is my sibling's daughter.
-nightmare(n.adj.)
 
 noble(adj.n.vt.) The noble couple show their affection in public.
 noisy(adj.) It's so noisy outside, I can't stand this kind of environment.
@@ -2747,29 +2787,8 @@ otherwise(adv.adj.conj.)
 
 ought(aux.vi.) You ought  to wipe your butt after pooping.
 ounce(n.) Sixteen ounces equal to one pound.
-ourselves(pron.) We took this picture of ourselves.
-ours(pron.)
-outlook(n.vi.vt.) The outlook over the mountains is very grand.
-outcome(n.) As an outcome, the boxing game ended in a draw.
-outdoors(adv.adj.n.) The parents take their kids playing outdoors.
-outstanding(adj.n.) Jack Ma is an outstanding example of enterpreneurs.
-output(n.vt.) The oven's output is 48 loaves per hours.
-outset(n.) From the outset of the race, the man was ahead.
-outlet(n.) Water came out of the wall through several outlets.
-outer(adj.n.)
-outside(adv.adj.n.prep.)
-outline(n.vt.)
 
 oval(adj.n.) The mirror has a pleasing oval shape.
-overnight(n.vi.vt.adj.adv.) We kept the campfire burning overnight.
-overlook(vt.n.) It is easy to overlook Mr. Bao in this picture. 忽视,眺望
-overcome(vt.vi.) He can overcome the challenge if he tries hard enough. 征服,得胜
-overseas(adv.adj.) We export the goods overseas.
-overhead(adv.adj.n.) The helicopter hovers overhead!
-overtake(vi.vt.) the driver slowly overtook the driver in first place 超过,赶上
-overall(adj.adv.n.)
-
-
 oxygen(n.)
 
 packet(n.vt.) Each packet of sauce will flavor one meat!
@@ -2855,7 +2874,6 @@ pollute(vt.) The factory waste polluted the sea and killed the sea creatures. �
 poll(n.adj.vi.vt.)
 pole(n.vt.)
 pond(n.vi.vt.) She and her father were fishing in the pond.
-possibility(n.) The possibility That I pick the black ball is fifty percent.
 postage(n.) The postage depends on the weight of your goods.
 positive(adj.n.) He faces any sitiation with a positive atitude.
 possess(vt.) She possesses many apirs of shoes. 拥有,占有,(鬼等)缠
@@ -2912,7 +2930,6 @@ prompt(vt.n.adj.adv.) My iphone prompts me to get out of bed and finish my paper
 provoke(vt.) She provoke her sister by making a face at her.
 promise(n.vi.vt.) We make a promise by pulling each other's litter finger.
 program(n.vi.vt.) Leave me alone! I'm trying to write a program on the computer!
-probability(n.) The probability of grasping a snake is 2/3.
 province(n.) Canada contains many province.
 probable(adj.n.) It's probable to win in gambling if you are good enough at maths.
 proper(adj.adv.) You should wear something proper when having an interview.
@@ -3024,7 +3041,6 @@ relate(vi.vt.) The family tree shows everyone I'm related to.
 relax(vi.vt.) Taking a bath is a good way to relax yourself.
 relativity(n.)
 rely(vi.)
-reliability(n.)
 relief(n.)
 relay(n.vi.vt.)
 release(vt.n.)
@@ -3056,7 +3072,6 @@ resemble(vt.) My dog resembles a brown mop.
 respond(vi.vt.n.) On yes! I responded when the cute girl asked if I wanted a candy.
 response(n.) The students raised their hands in response to the teacher's question.
 responsible(adj.) My boyfriend told me that he would be responsible for this baby.
-responsibility(n.)
 resident(n.adj.) The residents here like to interact with each other.
 residential(adj.) This ia an expensive residential area.
 restore(vi.vt.) The skin treatment will restore the youthfulness to your skin.
@@ -3325,7 +3340,6 @@ stadium(n.) The bird's nest is the most famous stadium in Beijing.
 statistic(n.adj.) I use facts and statistics to prove my point.
 statistics(n.) These statistics can help analyze the stock market.
 statistical(adj.) The statistical data shows that most people cannot afford a house.
-stability(n.) Walking a tightrope requires extreme stability.
 statement(n.) He gave a statement to the news reporters.
 stake(n.vi.vt.) It was a high stakes poker game.
 stale(adj.n.vi.vt.) Why do you give me stale oranges to eat?
@@ -3481,7 +3495,6 @@ thank(n.vt.int.)
 therapy(n.) She receives physical therapy for her back pain.
 theoretical(adj.) He always dose things on the basis of books; it is so theoretical.
 therefore(adv.)
-thermometer(n.) We'll use the thermometer to see if you have a fever.
 theory(n.) The boastful man is explaining his theory on how to attract girls.
 theater(n.)
 theme(n.adj.)
