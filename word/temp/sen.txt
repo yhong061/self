@@ -669,32 +669,50 @@ reference(n.vi.vt.) 参考
 
 [+ant]
 peasant(n.) 农民 乡民
+
 applicant(n.) The applicants for the job are waitng outside before the interview. 申请人
 appliance(n.) I spend all my money on domestic appliances like TVs and refrigerators 器具；器械
 application(n.) 应用；申请
+
 abundant(adj.) Holland has an abundant supply of tulips. 丰富的
 abundance(n.) The man bought an abundance of food. 丰富,大量
+
 brilliant(adj.) The girl is so brilliant that she can solve the difficult question. 杰出的；有才气的
+
 dominant(adj.n.) He is the dominant one in the relationship. 显性的；支配的
 dominate(vt.vi.) With a 90% market share, this brand totally dominates the market. 占领
+
 elegant(adj.) How elegant the ballet dancer is! 高雅的
+
 giant(adj.n.) This giant hamburger cannot fit in my mouth, but I'm so hungry I will eat is all! 巨人；伟人
+
 grant(vi.vt.n.) grants the blind premission to bring guide dogs on borad 许可,授予
+
 ignorant(adj.) The ignorant man has been bothered by a simple math question. 无知的
 ignore(vt.) the two sisters ignore the short guy and carry on talking 忽视,不理
 ignorance(n.) 无知，愚昧
+
 immigrant(n.adj.) 移民
+
 infant(n.adj.) 婴儿；幼儿
+
 inhabitant(n.) 居民 住户
+
 merchant(n.adj.) The fruit merchant gave me a good price on his tomatoes. 批发商；店主
+
 pregnant(adj.) 怀孕的
+
 reluctant(adj.) The dog was reluctant to take a bath. 不情愿的 勉强的
+
 relevant(adj.) 相关的 切题的
+
 significant(adj.n.) 重要的 有意义的
 significance(n.) The significance of sun light and water is equally important for plants. 意义 重要性
+
 tolerant(adj.) One should be tolerant of all cultural differences. 宽容 容忍的
 tolerate(vt.) 忍受 容忍
 tolerance(n.) I've had to develop a tolerance  for loud noise at the place where I work. 宽容
+
 vacant(adj.) 无人 空的
 
 [un] adj.
